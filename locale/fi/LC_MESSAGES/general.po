@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-24 20:49+0200\n"
-"PO-Revision-Date: 2021-02-24 21:02+0200\n"
+"PO-Revision-Date: 2021-02-24 21:17+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -68,10 +68,12 @@ msgid ""
 "These lists are just examples, they are not endorsements of any specific "
 "software."
 msgstr ""
+"Nämä listat ovat vain esimerkkerjä, ne ei ole minkään tietyn ohjelmiston "
+"suosituksia."
 
 #: ../../general/auth/2fa.rst:23
 msgid "If you don't already have one, you will need to choose an authenticator."
-msgstr ""
+msgstr "Jos sinulla ei jo ole sellaista, sinun täytyy valita todennin."
 
 #: ../../general/auth/2fa.rst:26
 msgid ""
@@ -152,7 +154,7 @@ msgstr ""
 
 #: ../../general/auth/2fa.rst:107
 msgid "Logging in"
-msgstr ""
+msgstr "Sisäänkirjautuminen"
 
 #: ../../general/auth/2fa.rst:109
 msgid "You should now :guilabel:`Log out` to follow along."
@@ -186,7 +188,7 @@ msgstr ""
 
 #: ../../general/auth/azure.rst:3
 msgid "OAuth"
-msgstr ""
+msgstr "OAuth"
 
 #: ../../general/auth/azure.rst:5
 msgid ""
@@ -265,7 +267,7 @@ msgstr ""
 #: ../../general/payment_acquirers/payment_acquirers.rst:84
 #: ../../general/voip/axivox.rst:16 ../../general/voip/onsip.rst:13
 msgid "Configuration"
-msgstr ""
+msgstr "Asetukset"
 
 #: ../../general/auth/google_spreadsheets.rst:12
 msgid ""
@@ -316,7 +318,7 @@ msgstr ""
 
 #: ../../general/auth/google_spreadsheets.rst:49
 msgid "Applications"
-msgstr ""
+msgstr "Sovellukset"
 
 #: ../../general/auth/google_spreadsheets.rst:51
 msgid ""
@@ -429,11 +431,11 @@ msgstr ""
 
 #: ../../general/base_import.rst:3
 msgid "Data Import"
-msgstr ""
+msgstr "Datan sisäänluku"
 
 #: ../../general/base_import/adapt_template.rst:3
 msgid "How to adapt an import template"
-msgstr ""
+msgstr "Kuinka mukauttaa malli tuontia varten"
 
 #: ../../general/base_import/adapt_template.rst:5
 msgid ""
@@ -520,7 +522,7 @@ msgstr "Datan sisäänluku"
 
 #: ../../general/base_import/import_faq.rst:6
 msgid "How to start"
-msgstr ""
+msgstr "Kuinka aloittaa"
 
 #: ../../general/base_import/import_faq.rst:8
 msgid ""
@@ -528,12 +530,17 @@ msgid ""
 "CSV (.csv) formats: contacts, products, bank statements, journal entries and "
 "even orders!"
 msgstr ""
+"Voit sisäänlukea tietoa mihin tahansa Odoon toimintoon käyttäen Excel (.xlsx). "
+"tai CSV (.csv)-formaatteja: kontaktit, tuotteet, pankkiaineistot, "
+"päiväkirjaviennit, ja jopa tilaukset!"
 
 #: ../../general/base_import/import_faq.rst:12
 msgid ""
 "Open the view of the object you want to populate and click on :menuselection:"
 "`Favorites --> Import records`."
 msgstr ""
+"Avaa sen mallin näkymä näkymä, johon haluat tuoda tietoa ja klikkaa :"
+"menuselection:`Suosikit --> Sisäänlue tietueita`."
 
 #: ../../general/base_import/import_faq.rst:18
 msgid ""
@@ -541,18 +548,24 @@ msgid ""
 "data. Such templates can be imported in one click; The data mapping is already "
 "done."
 msgstr ""
+"Täällä on saatavilla malleja, joita voit helposti täyttää omalla datallasi. "
+"Näitä malleja voidaan lukea sisään yhdellä klikkauksella; tiedon täsmäys on jo "
+"tehty."
 
 #: ../../general/base_import/import_faq.rst:23
 msgid "How to adapt the template"
-msgstr ""
+msgstr "Kuinka muokata mallia"
 
 #: ../../general/base_import/import_faq.rst:25
 msgid "Add, remove and sort columns to fit at best your data structure."
 msgstr ""
+"Lisää, poista ja järjestä sarakkeita niin että ne palvelevat parhaiten tuotavaa "
+"datasisältöä."
 
 #: ../../general/base_import/import_faq.rst:26
 msgid "We advise to not remove the **ID** one (see why in the next section)."
 msgstr ""
+"Suosittelemme että et poista **ID**-saraketta (näet seuraavassa kohdassa miksi)."
 
 #: ../../general/base_import/import_faq.rst:32
 msgid ""
@@ -560,12 +573,18 @@ msgid ""
 "its label doesn't fit any field in Odoo. Don't worry! You can map new columns "
 "manually when you test the import. Search the list for the corresponding field."
 msgstr ""
+"Kun lisäät uuden sarakkeen, Odoo ei välttämättä osaa täsmätä sitä "
+"automaattisesti jos sarakkeen otsikko ei vastaa mitään Odoon kenttää. Älä "
+"huoli! Voit täsmätä sarkkeet käsin kun kokeilet sisäänlukua. Haet vain listasta "
+"sopivan kentän."
 
 #: ../../general/base_import/import_faq.rst:40
 msgid ""
 "Then, use this field's label in your file in order to make it work straight on "
 "the very next time."
 msgstr ""
+"Sen jälkeen käytä tämän kentän otsikkoa tiedostossasi, jotta kentän täsmäys "
+"toimii automaattisesti seuraavalla kerralla."
 
 #: ../../general/base_import/import_faq.rst:45
 msgid "How to import from another application"
@@ -658,43 +677,43 @@ msgstr ""
 
 #: ../../general/base_import/import_faq.rst:107
 msgid "32.000,00"
-msgstr ""
+msgstr "32.000,00"
 
 #: ../../general/base_import/import_faq.rst:108
 msgid "32000,00"
-msgstr ""
+msgstr "32000,00"
 
 #: ../../general/base_import/import_faq.rst:109
 msgid "32,000.00"
-msgstr ""
+msgstr "32,000.00"
 
 #: ../../general/base_import/import_faq.rst:110
 msgid "-32000.00"
-msgstr ""
+msgstr "-32000.00"
 
 #: ../../general/base_import/import_faq.rst:111
 msgid "(32000.00)"
-msgstr ""
+msgstr "(32000.00)"
 
 #: ../../general/base_import/import_faq.rst:112
 msgid "$ 32.000,00"
-msgstr ""
+msgstr "$ 32.000,00"
 
 #: ../../general/base_import/import_faq.rst:113
 msgid "(32000.00 €)"
-msgstr ""
+msgstr "(32000.00 €)"
 
 #: ../../general/base_import/import_faq.rst:115
 msgid "Example that will not work:"
-msgstr ""
+msgstr "Esimerkki joka ei toimi:"
 
 #: ../../general/base_import/import_faq.rst:117
 msgid "ABC 32.000,00"
-msgstr ""
+msgstr "ABC 32.000,00"
 
 #: ../../general/base_import/import_faq.rst:118
 msgid "$ (32.000,00)"
-msgstr ""
+msgstr "$ (32.000,00)"
 
 #: ../../general/base_import/import_faq.rst:121
 msgid "What can I do when the Import preview table isn't displayed correctly?"
@@ -2848,15 +2867,15 @@ msgstr ""
 
 #: ../../general/payment_acquirers/stripe.rst:18
 msgid "Giropay"
-msgstr ""
+msgstr "Giropay"
 
 #: ../../general/payment_acquirers/stripe.rst:19
 msgid "iDeal:"
-msgstr ""
+msgstr "iDeal:"
 
 #: ../../general/payment_acquirers/stripe.rst:20
 msgid "Przelewy24 (P24)"
-msgstr ""
+msgstr "Przelewy24 (P24)"
 
 #: ../../general/payment_acquirers/stripe.rst:22
 msgid ""
@@ -2922,7 +2941,7 @@ msgstr ""
 
 #: ../../general/unsplash.rst:3
 msgid "Unsplash"
-msgstr ""
+msgstr "Unsplash"
 
 #: ../../general/unsplash/unsplash_access_key.rst:3
 msgid "How to generate an Unsplash access key"
