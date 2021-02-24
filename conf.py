@@ -312,6 +312,7 @@ LANGUAGES = {
     'de': 'German',
     'en': 'English',
     'es': 'Spanish',
+    'fi': 'Finnish',
     'fr': 'French',
     'hr': 'Croatian',
     'nl': 'Dutch',
