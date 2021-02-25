@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-24 20:49+0200\n"
-"PO-Revision-Date: 2021-02-24 21:17+0200\n"
+"PO-Revision-Date: 2021-02-25 16:59+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -87,16 +87,28 @@ msgid ""
 "support e.g. `1Password <https://support.1password.com/one-time-passwords/>`_, "
 "`Bitwarden <https://bitwarden.com/help/article/authenticator-keys/>`_, ..."
 msgstr ""
+"Puhelimessa toimivat todentajat on yleisimpiä, ja helpoimmin "
+"käytteenotettavissa, joten oletetaan että asennat esim. jonkun näistä "
+"puhelimeesi `Authy <https://authy.com/>`_, `FreeOTP <https://freeotp.github.io/"
+">`_, `Google Authenticator <https://support.google.com/accounts/answer/1066447?"
+"hl=en>`_, `LastPass Authenticator <https://lastpass.com/auth/>`_, `Microsoft "
+"Authenticator <https://www.microsoft.com/en-gb/account/authenticator?"
+"cmp=h66ftb_42hbak>`_, ...; password managers also commonly include :abbr:`2FA "
+"(two-factor authentication)` support e.g. `1Password <https://support.1password."
+"com/one-time-passwords/>`_, `Bitwarden <https://bitwarden.com/help/article/"
+"authenticator-keys/>`_, ..."
 
 #: ../../general/auth/2fa.rst:39
 msgid ""
 "For the sake of demonstration we will be using Google Authenticator (not "
 "because it is any good but because it is quite common)."
 msgstr ""
+"Esimerkin nimissä käytämme Google Authenticatoria (ei välttämättä sen takia "
+"että se olisi paras, vaan sen takia että se on yleinen)."
 
 #: ../../general/auth/2fa.rst:43
 msgid "Setting up two-factor authentication"
-msgstr ""
+msgstr "Kaksivaiheisen tunnistautumisen konfigurointi"
 
 #: ../../general/auth/2fa.rst:45
 msgid ""
@@ -104,28 +116,36 @@ msgid ""
 "setup :abbr:`2FA (two-factor authentication)`, then open :guilabel:"
 "`Preferences` (or :guilabel:`My Profile`):"
 msgstr ""
+"Kun sinulla on valitsemasi todennin valmiina, mene Odoo-asennukseen, jossa "
+"haluat ottaa käyttöön :abbr:`kaksivaiheisen tunnistautumisen (2FA)`, avaa :"
+"guilabel:`Asetukset` (tai :guilabel:`Profiilini`):"
 
 #: ../../general/auth/2fa.rst:52
 msgid ""
 "Open the :guilabel:`Account Security` tab, then click the :guilabel:`Enable two-"
 "factor authentication` button:"
 msgstr ""
+"Avaa :guilabel:`Tilin turvallisuus`-välilehti, ja klikkaa :guilabel:`Käytä "
+"kaksivaiheista tunnistautumista`-nappia:"
 
 #: ../../general/auth/2fa.rst:58
 msgid ""
 "Because this is a security-sensitive action, you will need to input your "
 "password:"
 msgstr ""
+"Koska tämä on tietoturvaan liittyvä toiminto, sinun täytyy antaa salasanasi:"
 
 #: ../../general/auth/2fa.rst:64
 msgid "After which you will see this screen with a barcode:"
-msgstr ""
+msgstr "Sen jälkeen näet ruudun jossa on viivakoodi:"
 
 #: ../../general/auth/2fa.rst:69
 msgid ""
 "In most applications, you can simply *scan the barcode* via the authenticator "
 "of your choice, the authenticator will then take care of all the setup:"
 msgstr ""
+"Suurimmassa osassa sovelluksia voit vain *skannata viivakoodin* todentimellasi, "
+"minkä jälkeen todennussovellus hoitaa loput:"
 
 #: ../../general/auth/2fa.rst:78
 msgid ""
@@ -151,6 +171,7 @@ msgstr ""
 msgid ""
 "Congratulation, your account is now protected by two-factor authentication!"
 msgstr ""
+"Onneksi olkoon! Tilisi on nyt suojattu kaksivaiheisella tunnistautumisella!"
 
 #: ../../general/auth/2fa.rst:107
 msgid "Logging in"
@@ -158,7 +179,7 @@ msgstr "Sisäänkirjautuminen"
 
 #: ../../general/auth/2fa.rst:109
 msgid "You should now :guilabel:`Log out` to follow along."
-msgstr ""
+msgstr "Nyt on syytä :guilabel:`Kirjautua ulos` seurataksesi ohjetta."
 
 #: ../../general/auth/2fa.rst:111
 msgid ""
@@ -1045,11 +1066,11 @@ msgstr ""
 
 #: ../../general/calendars.rst:3
 msgid "Calendars"
-msgstr ""
+msgstr "Kalenterit"
 
 #: ../../general/calendars/google/google_calendar_credentials.rst:3
 msgid "Synchronize Google Calendar with Odoo"
-msgstr ""
+msgstr "Synkronoi Google-kalenteri Odoon kanssa"
 
 #: ../../general/calendars/google/google_calendar_credentials.rst:5
 msgid ""
@@ -1229,7 +1250,7 @@ msgstr ""
 
 #: ../../general/calendars/outlook/outlook_calendar.rst:67
 msgid "Sync with Outlook"
-msgstr ""
+msgstr "Synkronoi Outlookin kanssa"
 
 #: ../../general/calendars/outlook/outlook_calendar.rst
 msgid ""
@@ -1394,7 +1415,7 @@ msgstr ""
 
 #: ../../general/in_app_purchase/in_app_purchase.rst:34
 msgid "IAP Portal"
-msgstr ""
+msgstr "IAP Portaali"
 
 #: ../../general/in_app_purchase/in_app_purchase.rst:36
 msgid ""
@@ -1838,22 +1859,24 @@ msgstr ""
 
 #: ../../general/odoo_basics/choose_language.rst:3
 msgid "Manage Odoo in your own language"
-msgstr ""
+msgstr "Käytä Odoota omalla kielelläsi"
 
 #: ../../general/odoo_basics/choose_language.rst:5
 msgid ""
 "Odoo provides you with the option to manage Odoo in different languages, and "
 "each user can use Odoo in his own language ."
 msgstr ""
+"Odoota on mahdollista käyttää monella eri kielellä, ja jokainen käyttäjä voi "
+"valita itse käyttöliittymänsä kielen."
 
 #: ../../general/odoo_basics/choose_language.rst:9
 msgid "Load your desired language"
-msgstr ""
+msgstr "Lataa haluamasi kieli"
 
 #: ../../general/odoo_basics/choose_language.rst:11
 msgid ""
 "The first thing to do is to load your desired language on your Odoo instance."
-msgstr ""
+msgstr "Ensimmäisenä kannattaa ladata haluttu kieli Odoo-asennukseen."
 
 #: ../../general/odoo_basics/choose_language.rst:14
 msgid ""
@@ -1861,12 +1884,17 @@ msgid ""
 "the page select :menuselection:`Translations --> Load a Translation`, select a "
 "language to install and click on **LOAD.**"
 msgstr ""
+"Valitse **Asetukset** päävalikosta. Sen jälkeen valitse vasemmasta yläkulmasta :"
+"menuselection:`Käännökset --> Lataa käännös`, valitse kieli ja klikkaa  **LATAA."
+"**"
 
 #: ../../general/odoo_basics/choose_language.rst:23
 msgid ""
 "If you check the \"Websites to translate\" checkbox you will have the option to "
 "change the navigation language on your website."
 msgstr ""
+"Jos valitse \"Käännettävät verkkosivut\", voi myös lisätä kieliä "
+"verkkosivullesi."
 
 #: ../../general/odoo_basics/choose_language.rst:27
 msgid "Change your language"
@@ -1877,25 +1905,27 @@ msgid ""
 "You can change the language to the installed language by going to the drop-down "
 "menu at the top right side of the screen, choose **Preferences**."
 msgstr ""
+"Voit vaihtaa kielesi mihin tahansa asennetuista kielistä menemällä oikeassa "
+"yläkulmassa olevaan valikkoon ja valitsemalla **Asetukset**."
 
 #: ../../general/odoo_basics/choose_language.rst:36
 msgid ""
 "Then change the Language setting to your installed language and click **SAVE.**"
-msgstr ""
+msgstr "Sen jälkeen vaihda haluamasi kieli ja paina **TALLENNA.**"
 
 #: ../../general/odoo_basics/choose_language.rst:42
 msgid "Open a new menu to view the changes."
-msgstr ""
+msgstr "Ovaa uusi valikko nähdäksesi muutokset."
 
 #: ../../general/odoo_basics/choose_language.rst:45
 msgid "Change another user's language"
-msgstr ""
+msgstr "Toisen käyttäjän kielen vaihtaminen"
 
 #: ../../general/odoo_basics/choose_language.rst:47
 msgid ""
 "Odoo also gives you the possibility for each user to choose his preferred "
 "language."
-msgstr ""
+msgstr "Odoo mahdollistaa myös toisten käyttäjien kielen vaihtamisen sopivaksi."
 
 #: ../../general/odoo_basics/choose_language.rst:50
 msgid ""
@@ -1905,14 +1935,19 @@ msgid ""
 "click on **Edit** in the top left corner. Under Preferences you can change the "
 "Language to any previously installed language and click **SAVE.**"
 msgstr ""
+"Vaihtaaksesi kielen toiselle käyttäjälle, valitse :menuselection:`Käyttäjät --> "
+"Käyttäjät` Asetukset-valikosta. Täällä on lista kaikista käyttäjistä ja voit "
+"valita kenelle haluat vaihtaa kielen. Valitse käyttäjä ja klikkaa **Muokkaa** "
+"vasemmasa yläkulmassa. Asetukset-välilehdellä voit valita kieleksi minkä "
+"tahansa aiemmin asennetuista kielistä. Lopuksi klikkaa **Tallenna.**"
 
 #: ../../general/odoo_basics/choose_language.rst:61
 msgid ":doc:`../../website/publish/translate`"
-msgstr ""
+msgstr ":doc:`../../website/publish/translate`"
 
 #: ../../general/odoo_basics/export-data.rst:3
 msgid "Export Data From Odoo"
-msgstr ""
+msgstr "Vie tietoa Odoosta"
 
 #: ../../general/odoo_basics/export-data.rst:5
 msgid ""
@@ -2130,7 +2165,7 @@ msgstr ""
 
 #: ../../general/payment_acquirers/authorize.rst
 msgid "*https://[yourcompany.odoo.com]*/**payment/authorize/return**"
-msgstr ""
+msgstr "*https://[yourcompany.odoo.com]*/**payment/authorize/return**"
 
 #: ../../general/payment_acquirers/authorize.rst
 msgid "Default Relay Response URL:"
@@ -2138,7 +2173,7 @@ msgstr ""
 
 #: ../../general/payment_acquirers/authorize.rst
 msgid "*https://[yourcompany.odoo.com]*/**shop/confirmation**"
-msgstr ""
+msgstr "*https://[yourcompany.odoo.com]*/**shop/confirmation**"
 
 #: ../../general/payment_acquirers/authorize.rst
 msgid "Failing to complete this step results in the following error:"
@@ -2180,12 +2215,12 @@ msgstr ""
 #: ../../general/payment_acquirers/authorize.rst:116
 #: ../../general/payment_acquirers/paypal.rst:206
 msgid ":doc:`payment_acquirers`"
-msgstr ""
+msgstr ":doc:`payment_acquirers`"
 
 #: ../../general/payment_acquirers/authorize.rst:117
 #: ../../general/payment_acquirers/paypal.rst:207
 msgid ":doc:`../../ecommerce/shopper_experience/payment_acquirer`"
-msgstr ""
+msgstr ":doc:`../../ecommerce/shopper_experience/payment_acquirer`"
 
 #: ../../general/payment_acquirers/payment_acquirers.rst:3
 msgid "Payment Acquirers (Credit Cards, Online Payment)"
@@ -2272,7 +2307,7 @@ msgstr ""
 
 #: ../../general/payment_acquirers/payment_acquirers.rst:55
 msgid "Adyen"
-msgstr ""
+msgstr "Adyen"
 
 #: ../../general/payment_acquirers/payment_acquirers.rst:55
 #: ../../general/payment_acquirers/payment_acquirers.rst:57
@@ -2284,40 +2319,40 @@ msgstr ""
 #: ../../general/payment_acquirers/payment_acquirers.rst:69
 #: ../../general/payment_acquirers/payment_acquirers.rst:71
 msgid "✔"
-msgstr ""
+msgstr "✔"
 
 #: ../../general/payment_acquirers/payment_acquirers.rst:57
 msgid "Alipay"
-msgstr ""
+msgstr "Alipay"
 
 #: ../../general/payment_acquirers/payment_acquirers.rst:59
 msgid ":doc:`Authorize.Net <authorize>`"
-msgstr ""
+msgstr ":doc:`Authorize.Net <authorize>`"
 
 #: ../../general/payment_acquirers/payment_acquirers.rst:61
 msgid "Buckaroo"
-msgstr ""
+msgstr "Buckaroo"
 
 #: ../../general/payment_acquirers/payment_acquirers.rst:63
 msgid "Ingenico"
-msgstr ""
+msgstr "Ingenico"
 
 #: ../../general/payment_acquirers/payment_acquirers.rst:65
 msgid ":doc:`PayPal <paypal>`"
-msgstr ""
+msgstr ":doc:`PayPal <paypal>`"
 
 #: ../../general/payment_acquirers/payment_acquirers.rst:67
 msgid "PayUMoney"
-msgstr ""
+msgstr "PayUMoney"
 
 #: ../../general/payment_acquirers/payment_acquirers.rst:69
 msgid "SIPS"
-msgstr ""
+msgstr "SIPS"
 
 #: ../../general/payment_acquirers/payment_acquirers.rst:71
 #: ../../general/payment_acquirers/stripe.rst:3
 msgid "Stripe"
-msgstr ""
+msgstr "Stripe"
 
 #: ../../general/payment_acquirers/payment_acquirers.rst:75
 msgid ""
@@ -2859,11 +2894,11 @@ msgstr ""
 
 #: ../../general/payment_acquirers/stripe.rst:16
 msgid "Bancontact"
-msgstr ""
+msgstr "Bancontact"
 
 #: ../../general/payment_acquirers/stripe.rst:17
 msgid "EPS"
-msgstr ""
+msgstr "EPS"
 
 #: ../../general/payment_acquirers/stripe.rst:18
 msgid "Giropay"
@@ -3049,39 +3084,39 @@ msgstr ""
 
 #: ../../general/voip/asterisk.rst:13
 msgid "wget"
-msgstr ""
+msgstr "wget"
 
 #: ../../general/voip/asterisk.rst:14
 msgid "gcc"
-msgstr ""
+msgstr "gcc"
 
 #: ../../general/voip/asterisk.rst:15
 msgid "g++"
-msgstr ""
+msgstr "g++"
 
 #: ../../general/voip/asterisk.rst:16
 msgid "ncurses-devel"
-msgstr ""
+msgstr "ncurses-devel"
 
 #: ../../general/voip/asterisk.rst:17
 msgid "libxml2-devel"
-msgstr ""
+msgstr "libxml2-devel"
 
 #: ../../general/voip/asterisk.rst:18
 msgid "sqlite-devel"
-msgstr ""
+msgstr "sqlite-devel"
 
 #: ../../general/voip/asterisk.rst:19
 msgid "libsrtp-devel"
-msgstr ""
+msgstr "libsrtp-devel"
 
 #: ../../general/voip/asterisk.rst:20
 msgid "libuuid-devel"
-msgstr ""
+msgstr "libuuid-devel"
 
 #: ../../general/voip/asterisk.rst:21
 msgid "openssl-devel"
-msgstr ""
+msgstr "openssl-devel"
 
 #: ../../general/voip/asterisk.rst:22
 msgid "pkg-config"
