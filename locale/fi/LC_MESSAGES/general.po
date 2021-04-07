@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-24 20:49+0200\n"
-"PO-Revision-Date: 2021-03-11 18:29+0200\n"
+"PO-Revision-Date: 2021-03-11 19:02+0200\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -1758,13 +1758,15 @@ msgid ""
 "`pricing page <https://www.odoo.com/pricing>`_ for more information."
 msgstr ""
 "Muista että tilauksesi hinta riippuu käyttäjien määrästä. Katso meidän "
-"`hinnastostamme <https://www.odoo.com/pricing>`_ lisätietoja"
+"`hinnastostamme <https://www.odoo.com/pricing>`_ lisätietoja."
 
 #: ../../general/odoo_basics/add_user.rst:42
 msgid ""
 "With the :doc:`Developer mode <../../general/developer_mode/activate>` "
 "activated, *User Types* can be selected."
 msgstr ""
+"Kun :doc:`Kehittäjätila <../../general/developer_mode/activate>` on aktivoitu, "
+"*Käyttäjätyypit* on valittavissa."
 
 #: ../../general/odoo_basics/add_user.rst:50
 msgid ""
@@ -1772,16 +1774,21 @@ msgid ""
 "Members have specific ones (such as record rules and restricted menus) and "
 "usually do not belong to the usual Odoo groups."
 msgstr ""
+"*Portaali* ja *Julkinen* vaihtoehdot eivät anna sinun määrittää "
+"käyttöoikeuksia. Jäsenillä on ennalta-asetetut oikeudet (pääsyoikeudet ja "
+"rajatut valikot) eivätkä yleensä kuulu normaaleihin Odoon ryhmiin."
 
 #: ../../general/odoo_basics/add_user.rst:57
 msgid "Access Rights in detail"
-msgstr ""
+msgstr "Käyttöoikeudet tarkemmin"
 
 #: ../../general/odoo_basics/add_user.rst:59
 msgid ""
 "Activate the :doc:`Developer mode <../../general/developer_mode/activate>`, "
 "then go to :menuselection:`Settings --> Users & Companies --> Groups`."
 msgstr ""
+"Aktivoi :doc:`Kehittäjätilä <../../general/developer_mode/activate>`, ja mene :"
+"menuselection:`Asetukset --> Käyttäjät ja yritykset --> Ryhmät`."
 
 #: ../../general/odoo_basics/add_user.rst:63
 msgid "Groups"
@@ -1831,19 +1838,19 @@ msgstr ""
 
 #: ../../general/odoo_basics/add_user.rst:99
 msgid "*Read*: the values of that object can be only seen by the user."
-msgstr ""
+msgstr "*Lue*: käyttäjä saa nähdä tietueiden tiedot."
 
 #: ../../general/odoo_basics/add_user.rst:100
 msgid "*Write*: the values of that object can be edited by the user."
-msgstr ""
+msgstr "*Kirjoita*: käyttäjä saa muokata tietueita."
 
 #: ../../general/odoo_basics/add_user.rst:101
 msgid "*Create*: values for that object can be created by the user."
-msgstr ""
+msgstr "*Luo*: käyttäjä voi luoda uusia tietueita."
 
 #: ../../general/odoo_basics/add_user.rst:102
 msgid "*Delete*: the values of that object can be deleted by the user."
-msgstr ""
+msgstr "*Poista*: käyttäjä voi poistaa olemassaolevia tietueita."
 
 #: ../../general/odoo_basics/add_user.rst:109
 msgid ""
@@ -1882,11 +1889,11 @@ msgstr ""
 
 #: ../../general/odoo_basics/add_user.rst:140
 msgid ":doc:`../multi_companies/manage_multi_companies`"
-msgstr ""
+msgstr ":doc:`../multi_companies/manage_multi_companies`"
 
 #: ../../general/odoo_basics/add_user.rst:141
 msgid ":doc:`../../db_management/documentation`"
-msgstr ""
+msgstr ":doc:`../../db_management/documentation`"
 
 #: ../../general/odoo_basics/choose_language.rst:3
 msgid "Manage Odoo in your own language"
