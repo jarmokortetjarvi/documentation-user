@@ -3,23 +3,24 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-04 11:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-07 21:53+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../contributing.rst:5
 msgid "Contributing"
-msgstr ""
+msgstr "Osallistuminen"
 
 #: ../../contributing/documentation.rst:5
 msgid "Contributing to the documentation"
@@ -31,18 +32,18 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:7
 msgid ""
-"To give the community the best documentation possible, we listed here a "
-"few guidelines, tips and tricks that will make your content shine at its "
-"brightest! While we encourage you to adopt your own writing style, some "
-"rules still apply to give the reader more clarity and comprehension."
+"To give the community the best documentation possible, we listed here a few guidelines, tips "
+"and tricks that will make your content shine at its brightest! While we encourage you to adopt "
+"your own writing style, some rules still apply to give the reader more clarity and "
+"comprehension."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:12
 msgid ""
-"We strongly recommend contributors to carefully read the other documents "
-"in this *Contribution* section of the documentation. Good knowledge of "
-"the ins and outs of **RST writing** is required to write and submit your "
-"contribution. Note that it also affects your writing style itself."
+"We strongly recommend contributors to carefully read the other documents in this "
+"*Contribution* section of the documentation. Good knowledge of the ins and outs of **RST "
+"writing** is required to write and submit your contribution. Note that it also affects your "
+"writing style itself."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:16
@@ -65,10 +66,9 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:25
 msgid ""
-"**Writing for documentation** isn't the same as writing for a blog or "
-"another medium. Readers are more likely to skim read until they've found "
-"the information they are looking for. Keep in mind that the user "
-"documentation is a place to inform and describe, not to convince and "
+"**Writing for documentation** isn't the same as writing for a blog or another medium. Readers "
+"are more likely to skim read until they've found the information they are looking for. Keep in "
+"mind that the user documentation is a place to inform and describe, not to convince and "
 "promote."
 msgstr ""
 
@@ -82,9 +82,8 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:36
 msgid ""
-"Make sure that your writing style remains **consistent**. If you modify "
-"an existing text, try to match the existing tone and presentation, or "
-"rewrite it to match your own style."
+"Make sure that your writing style remains **consistent**. If you modify an existing text, try "
+"to match the existing tone and presentation, or rewrite it to match your own style."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:42
@@ -93,10 +92,9 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:44
 msgid ""
-"In English, descriptions and instructions require the use of a **Present "
-"Tense**, while a *future tense* is appropriate only when a specific event"
-" is to happen ulteriorly. This logic might be different in other "
-"languages."
+"In English, descriptions and instructions require the use of a **Present Tense**, while a "
+"*future tense* is appropriate only when a specific event is to happen ulteriorly. This logic "
+"might be different in other languages."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst
@@ -113,8 +111,8 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst
 msgid ""
-"*When you take a screenshot, remember that it will be automatically "
-"resized to fit the content block's width.*"
+"*When you take a screenshot, remember that it will be automatically resized to fit the content "
+"block's width.*"
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:57
@@ -123,22 +121,19 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:59
 msgid ""
-"A paragraph comprises several sentences that are linked by a shared idea."
-" They usually are two to six lines long."
+"A paragraph comprises several sentences that are linked by a shared idea. They usually are two "
+"to six lines long."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:62
 msgid ""
-"In English, a new idea implies a new paragraph, rather than having a "
-"*line break* as it is common to do in some other languages. *Line breaks*"
-" are useful for layout purposes but shouldn't be used as a grammatical "
-"way of separating ideas."
+"In English, a new idea implies a new paragraph, rather than having a *line break* as it is "
+"common to do in some other languages. *Line breaks* are useful for layout purposes but "
+"shouldn't be used as a grammatical way of separating ideas."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:67
-msgid ""
-":ref:`RST cheat sheet: Break the line but not the paragraph <contributing"
-"/line-break>`"
+msgid ":ref:`RST cheat sheet: Break the line but not the paragraph <contributing/line-break>`"
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:72
@@ -167,9 +162,8 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:85
 msgid ""
-"Use different **headings levels** to organize your text by sections and "
-"sub-sections. Your headings are also displayed in a dynamic *navigation "
-"bar* on the side."
+"Use different **headings levels** to organize your text by sections and sub-sections. Your "
+"headings are also displayed in a dynamic *navigation bar* on the side."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst
@@ -178,23 +172,20 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst
 msgid ""
-"Your *page title* gives your reader a quick and clear understanding of "
-"what your content is about. It is also referenced in the section's *table"
-" of contents*."
+"Your *page title* gives your reader a quick and clear understanding of what your content is "
+"about. It is also referenced in the section's *table of contents*."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:93
 msgid ""
-"The *content* in this section describes the upcoming content from a "
-"**business point of view**, and shouldn't put the emphasis on Odoo, as "
-"this is documentation and not marketing."
+"The *content* in this section describes the upcoming content from a **business point of "
+"view**, and shouldn't put the emphasis on Odoo, as this is documentation and not marketing."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:97
 msgid ""
-"Start first with a **Lead Paragraph**, which helps the reader make sure "
-"that they've found the right page, then explain the **business aspects of"
-" this topic** in the following paragraphs."
+"Start first with a **Lead Paragraph**, which helps the reader make sure that they've found the "
+"right page, then explain the **business aspects of this topic** in the following paragraphs."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst
@@ -203,9 +194,9 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst
 msgid ""
-"This first H2 section is about the configuration of the feature, or the "
-"prerequisites to achieve a specific goal. To add a path, make sure you "
-"use the ``:menuselection:`` specialized directive (see link below)."
+"This first H2 section is about the configuration of the feature, or the prerequisites to "
+"achieve a specific goal. To add a path, make sure you use the ``:menuselection:`` specialized "
+"directive (see link below)."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst
@@ -214,8 +205,8 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst
 msgid ""
-"To do so, go to ``:menuselection:`App name --> Menu --> Sub-menu```, and "
-"enable the XYZ feature."
+"To do so, go to ``:menuselection:`App name --> Menu --> Sub-menu```, and enable the XYZ "
+"feature."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst
@@ -224,9 +215,8 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst
 msgid ""
-"Create as many main sections as you have actions or features to "
-"distinguish. The title can start with a verb, but try to avoid using "
-"\"Create ...\"."
+"Create as many main sections as you have actions or features to distinguish. The title can "
+"start with a verb, but try to avoid using \"Create ...\"."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst
@@ -235,8 +225,8 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst
 msgid ""
-"Subsections are perfect for assessing very specific points. The title can"
-" be in the form of a question, if appropriate."
+"Subsections are perfect for assessing very specific points. The title can be in the form of a "
+"question, if appropriate."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:118
@@ -248,9 +238,7 @@ msgid ":ref:`RST cheat sheet: headings <contributing/headings>`"
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:123
-msgid ""
-":ref:`RST cheat sheet: specialized directives <contributing/specialized-"
-"directives>`"
+msgid ":ref:`RST cheat sheet: specialized directives <contributing/specialized-directives>`"
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:128
@@ -259,16 +247,13 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:130
 msgid ""
-"Adding a few images to illustrate your text helps the readers to "
-"understand and memorize your content. However, avoid adding too many "
-"images: it isn't necessary to illustrate all steps and features, and it "
-"may overload your page."
+"Adding a few images to illustrate your text helps the readers to understand and memorize your "
+"content. However, avoid adding too many images: it isn't necessary to illustrate all steps and "
+"features, and it may overload your page."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:135
-msgid ""
-"Don't forget to :ref:`compress your PNG files with pngquant "
-"<contributing/pngquant>`."
+msgid "Don't forget to :ref:`compress your PNG files with pngquant <contributing/pngquant>`."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:140
@@ -277,11 +262,10 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:142
 msgid ""
-"Screenshots are automatically resized to fit the content block's width. "
-"This implies that screenshots can't be too wide, else they would appear "
-"very small on-screen. Therefore, we recommend to avoid to take "
-"screenshots of a full screen display of the app, unless it is relevant to"
-" do so."
+"Screenshots are automatically resized to fit the content block's width. This implies that "
+"screenshots can't be too wide, else they would appear very small on-screen. Therefore, we "
+"recommend to avoid to take screenshots of a full screen display of the app, unless it is "
+"relevant to do so."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:146
@@ -294,9 +278,8 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:149
 msgid ""
-"**Resize** your browser's width, either by *resizing the window* itself "
-"or by opening the *browser's developer tools* (press the ``F12`` key) and"
-" resizing the width."
+"**Resize** your browser's width, either by *resizing the window* itself or by opening the "
+"*browser's developer tools* (press the ``F12`` key) and resizing the width."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:151
@@ -305,15 +288,14 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:152
 msgid ""
-"If necessary, you can **edit** the screenshot to remove unnecessary "
-"fields and to narrow even more Odoo's display."
+"If necessary, you can **edit** the screenshot to remove unnecessary fields and to narrow even "
+"more Odoo's display."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:160
 msgid ""
-"Resizing the window's width is the most important step to do as Odoo's "
-"responsive design automatically resizes all fields to match the window's "
-"width."
+"Resizing the window's width is the most important step to do as Odoo's responsive design "
+"automatically resizes all fields to match the window's width."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:166
@@ -322,12 +304,10 @@ msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:168
 msgid ""
-"An **ALT tag** is a *text alternative* to an image. This text is "
-"displayed if the browser fails to render the image. It is also helpful "
-"for users who are visually impaired. Finally, it helps search engines, "
-"such as Google, to understand what the image is about and index it "
-"correctly, which improves the :abbr:`SEO (Search Engine Optimization)` "
-"significantly."
+"An **ALT tag** is a *text alternative* to an image. This text is displayed if the browser "
+"fails to render the image. It is also helpful for users who are visually impaired. Finally, it "
+"helps search engines, such as Google, to understand what the image is about and index it "
+"correctly, which improves the :abbr:`SEO (Search Engine Optimization)` significantly."
 msgstr ""
 
 #: ../../contributing/documentation/content_guidelines.rst:173
@@ -360,25 +340,23 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:7
 msgid ""
-"**First of all, thank you for landing here and helping us improve the "
-"user documentation of Odoo!**"
+"**First of all, thank you for landing here and helping us improve the user documentation of "
+"Odoo!**"
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:9
 msgid ""
-"This introductory guide will help you acquire the tools and knowledge you"
-" need to write documentation, whether you plan to make a minor content "
-"change or document an application from scratch."
+"This introductory guide will help you acquire the tools and knowledge you need to write "
+"documentation, whether you plan to make a minor content change or document an application from "
+"scratch."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:14
 msgid ""
-"This tutorial only concerns the `user documentation "
-"<https://www.odoo.com/documentation/user/index.html>`_ of Odoo. The "
-"documentation for `developing in Odoo "
-"<https://www.odoo.com/documentation/master/index.html>`_ in maintained "
-"alongside the source code of Odoo at `github.com/odoo/odoo "
-"<https://github.com/odoo/odoo/tree/master/doc>`_."
+"This tutorial only concerns the `user documentation <https://www.odoo.com/documentation/user/"
+"index.html>`_ of Odoo. The documentation for `developing in Odoo <https://www.odoo.com/"
+"documentation/master/index.html>`_ in maintained alongside the source code of Odoo at `github."
+"com/odoo/odoo <https://github.com/odoo/odoo/tree/master/doc>`_."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:22
@@ -387,29 +365,26 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:24
 msgid ""
-"Our documentation is written in **reStructuredText** (RST), a "
-"`lightweight markup language "
-"<https://en.wikipedia.org/wiki/Lightweight_markup_language>`_ consisting "
-"of normal text augmented with markup which allows including headings, "
-"images, notes, and so on. This might seem a bit abstract but there is no "
-"need to worry. :abbr:`RST (reStructuredText)` is not hard to learn, "
-"especially if you intend to make only small changes to the content."
+"Our documentation is written in **reStructuredText** (RST), a `lightweight markup language "
+"<https://en.wikipedia.org/wiki/Lightweight_markup_language>`_ consisting of normal text "
+"augmented with markup which allows including headings, images, notes, and so on. This might "
+"seem a bit abstract but there is no need to worry. :abbr:`RST (reStructuredText)` is not hard "
+"to learn, especially if you intend to make only small changes to the content."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:30
 msgid ""
-"If you need to learn about a specific markup, head over to :doc:`our "
-"cheat sheet for RST <rst_cheat_sheet>` which contains all the information"
-" that you should ever need for the user documentation of Odoo."
+"If you need to learn about a specific markup, head over to :doc:`our cheat sheet for RST "
+"<rst_cheat_sheet>` which contains all the information that you should ever need for the user "
+"documentation of Odoo."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:35
 msgid ""
-"We kindly ask you to observe a set of :doc:`content <content_guidelines>`"
-" and :doc:`RST <rst_guidelines>` guidelines as you write documentation. "
-"This ensures that you stay consistent with the rest of the documentation "
-"and facilitates the approval of your content changes as they are reviewed"
-" by a redactor at Odoo."
+"We kindly ask you to observe a set of :doc:`content <content_guidelines>` and :doc:`RST "
+"<rst_guidelines>` guidelines as you write documentation. This ensures that you stay consistent "
+"with the rest of the documentation and facilitates the approval of your content changes as "
+"they are reviewed by a redactor at Odoo."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:43
@@ -422,32 +397,29 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:50
 msgid ""
-"As our documentation is maintained on GitHub, you will need a free GitHub"
-" account. Click `here <https://github.com/join>`_ to create one."
+"As our documentation is maintained on GitHub, you will need a free GitHub account. Click `here "
+"<https://github.com/join>`_ to create one."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:53
 msgid ""
-"Now, depending on whether you want to update existing content, or rather "
-"work on new content and make file changes, you have two courses of "
-"action:"
+"Now, depending on whether you want to update existing content, or rather work on new content "
+"and make file changes, you have two courses of action:"
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:56
 msgid ""
-"**For small changes** in ``.rst`` files only, i.e. addition/edition of "
-"paragraphs or typos, **we suggest that you use the GitHub interface**. "
-"This is the easiest and fasted way to submit your request for changes for"
-" the documentation and is suitable for non-technical people. Read "
-":ref:`contributing/github-interface` to learn how to use this method."
+"**For small changes** in ``.rst`` files only, i.e. addition/edition of paragraphs or typos, "
+"**we suggest that you use the GitHub interface**. This is the easiest and fasted way to submit "
+"your request for changes for the documentation and is suitable for non-technical people. Read :"
+"ref:`contributing/github-interface` to learn how to use this method."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:60
 msgid ""
-"**For more complex cases**, it is necessary to **use Git and work from a "
-"local copy of the documentation**. This method seems intimidating but "
-"only requires basic knowledge of Git. See :ref:`contributing/canonical-"
-"git-workflow` for more information on this method."
+"**For more complex cases**, it is necessary to **use Git and work from a local copy of the "
+"documentation**. This method seems intimidating but only requires basic knowledge of Git. See :"
+"ref:`contributing/canonical-git-workflow` for more information on this method."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:67
@@ -456,96 +428,88 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:69
 msgid ""
-"Verify that you are browsing the documentation in the version that you "
-"intend to change. The version can be selected from the dropdown in the "
-"top menu."
+"Verify that you are browsing the documentation in the version that you intend to change. The "
+"version can be selected from the dropdown in the top menu."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:74
 msgid ""
-"Head over to the page that you want to change and click on the **Edit on "
-"GitHub** button in the bottom of the left menu."
+"Head over to the page that you want to change and click on the **Edit on GitHub** button in "
+"the bottom of the left menu."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:79
 msgid ""
-"If you do not have edit rights on the repository (`odoo/documentation-"
-"user <https://github.com/odoo/documentation-user>`_), you need to fork it"
-" by clicking on the appropriate button. In other terms, you create a copy"
-" of the entire repository on your own account. If you do have the edit "
-"rights, skip this step."
+"If you do not have edit rights on the repository (`odoo/documentation-user <https://github.com/"
+"odoo/documentation-user>`_), you need to fork it by clicking on the appropriate button. In "
+"other terms, you create a copy of the entire repository on your own account. If you do have "
+"the edit rights, skip this step."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:86
 msgid ""
-"Make the appropriate changes while taking care of following the "
-":doc:`guidelines <rst_guidelines>`."
+"Make the appropriate changes while taking care of following the :doc:`guidelines "
+"<rst_guidelines>`."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:89
 msgid ""
-"Click on the **Preview changes** button to review your contribution in a "
-"more human-readable format. Be aware that the preview is not able to "
-"handle all markups correctly. Notes and tips, for instance, are not "
-"correctly rendered. The version of your content published to the website "
+"Click on the **Preview changes** button to review your contribution in a more human-readable "
+"format. Be aware that the preview is not able to handle all markups correctly. Notes and tips, "
+"for instance, are not correctly rendered. The version of your content published to the website "
 "will be, however."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:94
 msgid ""
-"Go to the bottom of the page to create a commit (:dfn:`what packs your "
-"changes together and labels them with a commit message`) of your changes."
+"Go to the bottom of the page to create a commit (:dfn:`what packs your changes together and "
+"labels them with a commit message`) of your changes."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst
 msgid ""
-"In first text box, describe your changes. For instance, \"Fix a typo\" "
-"and \"Add documentation for invoicing of sales orders\" are two clear "
-"commit messages."
+"In first text box, describe your changes. For instance, \"Fix a typo\" and \"Add documentation "
+"for invoicing of sales orders\" are two clear commit messages."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst
 msgid ""
-"In the second text box, justify *why* you made these changes, if you feel"
-" that it is not obvious."
+"In the second text box, justify *why* you made these changes, if you feel that it is not "
+"obvious."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:101
 msgid ""
-"Select the option \"Create a new branch for this commit and start a pull "
-"request.\" if you have the choice (if you have partial or full edit "
-"writes on the repository). If not, skip this step."
+"Select the option \"Create a new branch for this commit and start a pull request.\" if you "
+"have the choice (if you have partial or full edit writes on the repository). If not, skip this "
+"step."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:104
 msgid ""
-"Click on the green button. It is either labelled \"Commit changes\" or "
-"\"Propose file change\"."
+"Click on the green button. It is either labelled \"Commit changes\" or \"Propose file change\"."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:108
 msgid ""
-"In the dropdown for the selection of the base branch (i.e., the version "
-"of the documentation that your changes concern), make sure to select the "
-"same version as in the first step of this guide and click on the **Create"
-" pull request** button."
+"In the dropdown for the selection of the base branch (i.e., the version of the documentation "
+"that your changes concern), make sure to select the same version as in the first step of this "
+"guide and click on the **Create pull request** button."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:114
 #: ../../contributing/documentation/introduction_guide.rst:392
 msgid ""
-"Double-check your :abbr:`PR (Pull Request)` and, when ready, click again "
-"on the **Create pull request** button to submit your changes for review "
-"by a redactor at Odoo."
+"Double-check your :abbr:`PR (Pull Request)` and, when ready, click again on the **Create pull "
+"request** button to submit your changes for review by a redactor at Odoo."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:119
 #: ../../contributing/documentation/introduction_guide.rst:397
 msgid ""
-"You're done! If your changes are approved straight away they will appear "
-"in the documentation the very next day. It may also be the case that the "
-"reviewer has a question or a remark, so make sure to check your "
-"notifications or your emails, depending on your account settings."
+"You're done! If your changes are approved straight away they will appear in the documentation "
+"the very next day. It may also be the case that the reviewer has a question or a remark, so "
+"make sure to check your notifications or your emails, depending on your account settings."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:126
@@ -562,19 +526,17 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:138
 msgid ""
-"We use `Git <https://en.wikipedia.org/wiki/Git>`_ to manage the files of "
-"the user documentation. It is a tool that allows to track the history of "
-"changes made to a file and, more importantly, to work on different "
-"versions of those files at the same time. It means that you do not need "
-"to worry about overwriting someone else’s pending work when you start "
-"editing the documentation."
+"We use `Git <https://en.wikipedia.org/wiki/Git>`_ to manage the files of the user "
+"documentation. It is a tool that allows to track the history of changes made to a file and, "
+"more importantly, to work on different versions of those files at the same time. It means that "
+"you do not need to worry about overwriting someone else’s pending work when you start editing "
+"the documentation."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:143
 msgid ""
-"You must then configure Git to identify yourself as the author of your "
-"future contribution. Enter the same email address as the one you used to "
-"register on GitHub."
+"You must then configure Git to identify yourself as the author of your future contribution. "
+"Enter the same email address as the one you used to register on GitHub."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:146
@@ -583,8 +545,8 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:147
 msgid ""
-"Verify that `the installation folder of Git is included in your system's "
-"PATH variable <win-add-to-path_>`_."
+"Verify that `the installation folder of Git is included in your system's PATH variable <win-"
+"add-to-path_>`_."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:149
@@ -601,38 +563,36 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:161
 msgid ""
-"As stated earlier, our documentation (in all its versions) is maintained "
-"on GitHub at `github.com/odoo/documentation-user <https://github.com/odoo"
-"/documentation-user>`_. A modification is made by the mean of a :abbr:`PR"
-" (Pull Request)` (:dfn:`proposal of content changes`) to allow for a "
-"review of the changes before updating the sources of the documentation."
+"As stated earlier, our documentation (in all its versions) is maintained on GitHub at `github."
+"com/odoo/documentation-user <https://github.com/odoo/documentation-user>`_. A modification is "
+"made by the mean of a :abbr:`PR (Pull Request)` (:dfn:`proposal of content changes`) to allow "
+"for a review of the changes before updating the sources of the documentation."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:166
 msgid ""
-"Prior to submitting a modification, you need to make a copy of the "
-"sources and download that copy on your machine."
+"Prior to submitting a modification, you need to make a copy of the sources and download that "
+"copy on your machine."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:169
 msgid ""
-"Go to `github.com/odoo/documentation-user <https://github.com/odoo"
-"/documentation-user>`_ and click on the **Fork** button in the top right "
-"corner."
+"Go to `github.com/odoo/documentation-user <https://github.com/odoo/documentation-user>`_ and "
+"click on the **Fork** button in the top right corner."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:182
 msgid ""
-"If you do not have edit rights on the repository owned by Odoo, replace "
-"\"odoo\" with your Github username in the URL of the command above. If "
-"you do have edit rights, it is not necessary to fork the repository."
+"If you do not have edit rights on the repository owned by Odoo, replace \"odoo\" with your "
+"Github username in the URL of the command above. If you do have edit rights, it is not "
+"necessary to fork the repository."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:186
 msgid ""
-"In order to ease the collaboration between writers coming from many "
-"different systems and teams, execute the following group of commands that"
-" correspond to your :abbr:`OS (Operating System)` in a terminal."
+"In order to ease the collaboration between writers coming from many different systems and "
+"teams, execute the following group of commands that correspond to your :abbr:`OS (Operating "
+"System)` in a terminal."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:190
@@ -649,29 +609,25 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:211
 msgid ""
-"Because the documentation is written in :abbr:`RST (reStructuredText)`, "
-"it needs to be built (:dfn:`converted to HTML`) in order to display "
-"nicely. This is done by the documentation generator which takes the "
-"original :abbr:`RST (reStructuredText)` files as input, transforms the "
-"markups in a human-readable format, and outputs HTML files to be read in "
-"your web browser."
+"Because the documentation is written in :abbr:`RST (reStructuredText)`, it needs to be built (:"
+"dfn:`converted to HTML`) in order to display nicely. This is done by the documentation "
+"generator which takes the original :abbr:`RST (reStructuredText)` files as input, transforms "
+"the markups in a human-readable format, and outputs HTML files to be read in your web browser."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:216
 msgid ""
-"The documentation generator that we use is called `Sphinx <http://www"
-".sphinx-doc.org/en/master/>`_. and is written in `Python "
-"<https://en.wikipedia.org/wiki/Python_(programming_language)>`_. You have"
-" to install Python in order to use Sphinx. For the record, Sphinx is the "
-"program and Python the programming language, but you do not need to know "
+"The documentation generator that we use is called `Sphinx <http://www.sphinx-doc.org/en/master/"
+">`_. and is written in `Python <https://en.wikipedia.org/wiki/"
+"Python_(programming_language)>`_. You have to install Python in order to use Sphinx. For the "
+"record, Sphinx is the program and Python the programming language, but you do not need to know "
 "much more about them so don't panic!"
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:221
 msgid ""
-"Python comes with its own package manager: `pip "
-"<https://en.wikipedia.org/wiki/Pip_(package_manager)>`_. It allows "
-"installing Python dependencies in a single command."
+"Python comes with its own package manager: `pip <https://en.wikipedia.org/wiki/"
+"Pip_(package_manager)>`_. It allows installing Python dependencies in a single command."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:225
@@ -680,26 +636,26 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:226
 msgid ""
-"Make sure to have **pip** installed on your machine (on Windows, you can "
-"install pip alongside Python)."
+"Make sure to have **pip** installed on your machine (on Windows, you can install pip alongside "
+"Python)."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:228
 msgid ""
-"Execute the following commands in a terminal to verify that both "
-"installations finished successfully:"
+"Execute the following commands in a terminal to verify that both installations finished "
+"successfully:"
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:236
 msgid ""
-"Execute the following commands in a terminal to install the Python "
-"dependencies of the documentation:"
+"Execute the following commands in a terminal to install the Python dependencies of the "
+"documentation:"
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:245
 msgid ""
-"Depending on your :abbr:`OS (Operating System)`, you may need to run the "
-"commands ``python`` and ``pip`` instead of ``python3`` and ``pip3``"
+"Depending on your :abbr:`OS (Operating System)`, you may need to run the commands ``python`` "
+"and ``pip`` instead of ``python3`` and ``pip3``"
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:251
@@ -708,10 +664,9 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:253
 msgid ""
-"`Make <https://en.wikipedia.org/wiki/Make_(software)>`_ is a tool that "
-"packs a bunch of command-lines into one to be easier to remember and to "
-"type. In our case, it is used to execute complex Sphinx build commands by"
-" using a single and simpler one instead."
+"`Make <https://en.wikipedia.org/wiki/Make_(software)>`_ is a tool that packs a bunch of "
+"command-lines into one to be easier to remember and to type. In our case, it is used to "
+"execute complex Sphinx build commands by using a single and simpler one instead."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:257
@@ -720,8 +675,8 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:258
 msgid ""
-"Verify that `the installation folder of Make is included in your system's"
-" PATH variable <win-add-to-path_>`_."
+"Verify that `the installation folder of Make is included in your system's PATH variable <win-"
+"add-to-path_>`_."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:264
@@ -730,9 +685,8 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:266
 msgid ""
-"`pngquant <https://pngquant.org/>`_ is a tool that we use to compress PNG"
-" images so that the documentation does not end up weighting several "
-"Gigabytes in a few year span."
+"`pngquant <https://pngquant.org/>`_ is a tool that we use to compress PNG images so that the "
+"documentation does not end up weighting several Gigabytes in a few year span."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:269
@@ -741,8 +695,8 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:270
 msgid ""
-"Verify that `the installation folder of pngquant is included in your "
-"system's PATH variable <win-add-to-path_>`_."
+"Verify that `the installation folder of pngquant is included in your system's PATH variable "
+"<win-add-to-path_>`_."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:276
@@ -751,15 +705,13 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:278
 msgid ""
-"Now that your machine is all set up, it is time to do the same for your "
-"version of the documentation files. As it would not be convenient to have"
-" several people working on the version 14.0 in parallel (conflicts of "
-"content would occur all the time), and in order to be able to create a "
-":abbr:`PR (Pull Request)`, you must `create a new branch "
-"<https://www.atlassian.com/git/tutorials/using-branches>`_ starting from "
-"the branch 14.0. In other words, you copy the entirety of this version’s "
-"files and give it another name. For this example, we will go with "
-"``14.0-my_contribution``."
+"Now that your machine is all set up, it is time to do the same for your version of the "
+"documentation files. As it would not be convenient to have several people working on the "
+"version 14.0 in parallel (conflicts of content would occur all the time), and in order to be "
+"able to create a :abbr:`PR (Pull Request)`, you must `create a new branch <https://www."
+"atlassian.com/git/tutorials/using-branches>`_ starting from the branch 14.0. In other words, "
+"you copy the entirety of this version’s files and give it another name. For this example, we "
+"will go with ``14.0-my_contribution``."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:286
@@ -784,16 +736,15 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:311
 msgid ""
-"You can now perform any change you want to the documentation files. These"
-" changes must be compliant with :abbr:`RST (reStructuredText)` syntax "
-"(see :doc:`rst_cheat_sheet`) and with our :doc:`guidelines "
-"<rst_guidelines>`."
+"You can now perform any change you want to the documentation files. These changes must be "
+"compliant with :abbr:`RST (reStructuredText)` syntax (see :doc:`rst_cheat_sheet`) and with "
+"our :doc:`guidelines <rst_guidelines>`."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:316
 msgid ""
-"If your changes include the addition of a new image, for instance "
-":file:`my_image.png`, proceed as follows:"
+"If your changes include the addition of a new image, for instance :file:`my_image.png`, "
+"proceed as follows:"
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:319
@@ -818,8 +769,8 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:346
 msgid ""
-"You can omit the :command:`make clean` command when no recent change has "
-"been made to the hierarchy of documentation files."
+"You can omit the :command:`make clean` command when no recent change has been made to the "
+"hierarchy of documentation files."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:349
@@ -828,14 +779,13 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:350
 msgid ""
-"Open the file :file:`documentation-user/_build/html/index.html` with your"
-" default web browser."
+"Open the file :file:`documentation-user/_build/html/index.html` with your default web browser."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:353
 msgid ""
-"These steps have for only purpose to show you the final results of your "
-"changes. They have no impact on the documentation source files."
+"These steps have for only purpose to show you the final results of your changes. They have no "
+"impact on the documentation source files."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:359
@@ -844,34 +794,30 @@ msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:362
 msgid ""
-"We expect you to have basic knowledge of Git, which should be enough to "
-"cover the basic flow of a one-time contribution. If you plan on "
-"submitting several contributions, work on older versions of the "
-"documentation or perform any other advanced action, we recommend you to "
-"be confident with Git. Help yourself with `this manual of Git "
-"<https://www.atlassian.com/git>`_ and `this interactive tutorial "
-"<https://learngitbranching.js.org/>`_."
+"We expect you to have basic knowledge of Git, which should be enough to cover the basic flow "
+"of a one-time contribution. If you plan on submitting several contributions, work on older "
+"versions of the documentation or perform any other advanced action, we recommend you to be "
+"confident with Git. Help yourself with `this manual of Git <https://www.atlassian.com/git>`_ "
+"and `this interactive tutorial <https://learngitbranching.js.org/>`_."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:376
 msgid ""
-"Go to `github.com/odoo/documentation-user/pulls <https://github.com/odoo"
-"/documentation-user/pulls>`_ and click on the **New pull request** "
-"button."
+"Go to `github.com/odoo/documentation-user/pulls <https://github.com/odoo/documentation-user/"
+"pulls>`_ and click on the **New pull request** button."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:382
 msgid ""
-"If you forked the base repository in the section :ref:`contributing"
-"/fetch-sources`, click on the link **compare across forks** If not, skip "
-"this step."
+"If you forked the base repository in the section :ref:`contributing/fetch-sources`, click on "
+"the link **compare across forks** If not, skip this step."
 msgstr ""
 
 #: ../../contributing/documentation/introduction_guide.rst:387
 msgid ""
-"In the dropdown for the selection of the base branch (i.e., the version "
-"of the documentation that your changes concern), make sure to select the "
-"version that your changes target (here **14.0**)."
+"In the dropdown for the selection of the base branch (i.e., the version of the documentation "
+"that your changes concern), make sure to select the version that your changes target (here "
+"**14.0**)."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:5
@@ -884,18 +830,17 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:13
 msgid ""
-"For each formatting line (e.g., ``===``), write as many symbols (``=``) "
-"as there are characters in the header."
+"For each formatting line (e.g., ``===``), write as many symbols (``=``) as there are "
+"characters in the header."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:17
 msgid ""
-"The symbols used for the formatting are, in fact, not important. Only the"
-" order in which they are written matters, as it determines the size of "
-"the decorated heading. This means that you may encounter different "
-"heading formatting and in a different order, in which case you should "
-"follow the formatting in place in the document. In any other case, use "
-"the formatting shown below."
+"The symbols used for the formatting are, in fact, not important. Only the order in which they "
+"are written matters, as it determines the size of the decorated heading. This means that you "
+"may encounter different heading formatting and in a different order, in which case you should "
+"follow the formatting in place in the document. In any other case, use the formatting shown "
+"below."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:20
@@ -1032,8 +977,8 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:118
 msgid ""
-"Hyperlink references are links to a URL with a custom label. They follow "
-"this syntax: ```label <URL>`_``"
+"Hyperlink references are links to a URL with a custom label. They follow this syntax: ```label "
+"<URL>`_``"
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:122
@@ -1053,10 +998,9 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:127
 msgid ""
-"This excerpt of :abbr:`RST (reStructuredText)`: ``For instance, `this is "
-"a hyperlink reference <https://odoo.com>`_.`` is rendered as follows in "
-"HTML: “For instance, `this is a hyperlink reference "
-"<https://odoo.com>`_.”"
+"This excerpt of :abbr:`RST (reStructuredText)`: ``For instance, `this is a hyperlink reference "
+"<https://odoo.com>`_.`` is rendered as follows in HTML: “For instance, `this is a hyperlink "
+"reference <https://odoo.com>`_.”"
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:134
@@ -1064,9 +1008,7 @@ msgid "External hyperlink targets"
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:136
-msgid ""
-"External hyperlink targets allow creating shortcuts for hyperlink "
-"references."
+msgid "External hyperlink targets allow creating shortcuts for hyperlink references."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:137
@@ -1079,14 +1021,14 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:140
 msgid ""
-"``target_`` creates a hyperlink with the target name as label and the URL"
-" as reference. Note that the ``_`` moved after the target!"
+"``target_`` creates a hyperlink with the target name as label and the URL as reference. Note "
+"that the ``_`` moved after the target!"
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:142
 msgid ""
-"```label <target_>`_`` does exactly what you expect: the label replaces "
-"the name of the target, and the target is replaced by the URL."
+"```label <target_>`_`` does exactly what you expect: the label replaces the name of the "
+"target, and the target is replaced by the URL."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:149
@@ -1123,11 +1065,9 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:161
 msgid ""
-"A `proof-of-concept <https://en.wikipedia.org/wiki/Proof_of_concept>`_ is"
-" a simplified version, a prototype of what is expected to agree on the "
-"main lines of expected changes. `PoC "
-"<https://en.wikipedia.org/wiki/Proof_of_concept>`_ is a common "
-"abbreviation."
+"A `proof-of-concept <https://en.wikipedia.org/wiki/Proof_of_concept>`_ is a simplified "
+"version, a prototype of what is expected to agree on the main lines of expected changes. `PoC "
+"<https://en.wikipedia.org/wiki/Proof_of_concept>`_ is a common abbreviation."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:168
@@ -1136,17 +1076,14 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:170
 msgid ""
-"Internal hyperlink targets follow the same syntax as external hyperlink "
-"targets but without any URL. Indeed, they are internal. They allow "
-"referencing a specific part of a document by using the target as an "
-"anchor. When the user clicks on the reference, the documentation scrolls "
-"to the part of the page containing the target."
+"Internal hyperlink targets follow the same syntax as external hyperlink targets but without "
+"any URL. Indeed, they are internal. They allow referencing a specific part of a document by "
+"using the target as an anchor. When the user clicks on the reference, the documentation "
+"scrolls to the part of the page containing the target."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:176
-msgid ""
-"Targets can be referenced from other files than the ones in which they "
-"are defined."
+msgid "Targets can be referenced from other files than the ones in which they are defined."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:178
@@ -1159,32 +1096,29 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:181
 msgid ""
-"``:ref:`target``` creates a hyperlink to the anchor with the heading "
-"defined below as label."
+"``:ref:`target``` creates a hyperlink to the anchor with the heading defined below as label."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:182
-msgid ""
-"``:ref:`label <target>``` creates a hyperlink to the anchor with the "
-"given label."
+msgid "``:ref:`label <target>``` creates a hyperlink to the anchor with the given label."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:184
 msgid ""
-"See :ref:`contributing/relative-links` to learn how to write proper "
-"relative links for internal references."
+"See :ref:`contributing/relative-links` to learn how to write proper relative links for "
+"internal references."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:188
 msgid ""
-"Notice that there is no ``_`` at the end, as it is done with "
-":ref:`hyperlink targets <contributing/hyperlink-references>`."
+"Notice that there is no ``_`` at the end, as it is done with :ref:`hyperlink targets "
+"<contributing/hyperlink-references>`."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:213
 msgid ""
-"This can easily be done by creating a new product, see `How to create a "
-"product? <https://example.com/product>`_ for additional help."
+"This can easily be done by creating a new product, see `How to create a product? <https://"
+"example.com/product>`_ for additional help."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:216
@@ -1193,8 +1127,7 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:218
 msgid ""
-"As explained at the `start of the page <https://example.com/scroll-to-"
-"start-of-page>`_, ..."
+"As explained at the `start of the page <https://example.com/scroll-to-start-of-page>`_, ..."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:223
@@ -1203,22 +1136,21 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:227
 msgid ""
-"Implicit hyperlink targets are a special kind of internal hyperlink "
-"targets: they are automatically generated by section titles, footnotes, "
-"etc. Consequently, they don’t have a definition syntax."
+"Implicit hyperlink targets are a special kind of internal hyperlink targets: they are "
+"automatically generated by section titles, footnotes, etc. Consequently, they don’t have a "
+"definition syntax."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:229
 msgid ""
-"They can be referenced the same first way as external hyperlink targets "
-"by using the name of the section title as URL."
+"They can be referenced the same first way as external hyperlink targets by using the name of "
+"the section title as URL."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:245
 msgid ""
-"This can easily be done by creating a new user, see `How to create a new "
-"user? <https://example.com/how-to-create-a-user>`_ for additional help. "
-"..."
+"This can easily be done by creating a new user, see `How to create a new user? <https://"
+"example.com/how-to-create-a-user>`_ for additional help. ..."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:251
@@ -1227,8 +1159,8 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:254
 msgid ""
-"The ``doc`` directive allows referencing a documentation page wherever it"
-" is in the file tree through a relative file path."
+"The ``doc`` directive allows referencing a documentation page wherever it is in the file tree "
+"through a relative file path."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:255
@@ -1237,21 +1169,20 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:257
 msgid ""
-"``:doc:`path_to_doc_page``` creates a hyperlink reference to the "
-"documentation page with the title of the page as label."
+"``:doc:`path_to_doc_page``` creates a hyperlink reference to the documentation page with the "
+"title of the page as label."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:259
 msgid ""
-"``:doc:`label <path_to_doc_page>``` creates a hyperlink reference to the "
-"documentation page with the given label."
+"``:doc:`label <path_to_doc_page>``` creates a hyperlink reference to the documentation page "
+"with the given label."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:276
 msgid ""
-"Please refer to `this documentation "
-"<https://example.com/doc/accounting/invoices.html>`_ and to `Send a pro-"
-"forma invoice <https://example.com/doc/sales/proforma.html>`_."
+"Please refer to `this documentation <https://example.com/doc/accounting/invoices.html>`_ and "
+"to `Send a pro-forma invoice <https://example.com/doc/sales/proforma.html>`_."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:282
@@ -1260,16 +1191,14 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:284
 msgid ""
-"The ``download`` directive allows referencing files (that are not "
-"necessarily :abbr:`RST (reStructuredText)` documents) within the source "
-"tree to be downloaded."
+"The ``download`` directive allows referencing files (that are not necessarily :abbr:`RST "
+"(reStructuredText)` documents) within the source tree to be downloaded."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:301
 msgid ""
-"Download this `module structure template "
-"<https://example.com/doc/odoosh/extras/my_module.zip>`_ to start building"
-" your module in no time."
+"Download this `module structure template <https://example.com/doc/odoosh/extras/my_module."
+"zip>`_ to start building your module in no time."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:307
@@ -1278,9 +1207,8 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:309
 msgid ""
-"The ``image`` directive allows inserting images in a document. It comes "
-"with a set of optional parameter directives that can individually be "
-"omitted if considered redundant."
+"The ``image`` directive allows inserting images in a document. It comes with a set of optional "
+"parameter directives that can individually be omitted if considered redundant."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:344
@@ -1296,9 +1224,7 @@ msgid "`Customer invoices <https://example.com/doc/accounting/invoices.html>`_"
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:365
-msgid ""
-"`Pro-forma invoices <https://example.com/doc/sales/proforma.html"
-"#activate-the-feature>`_"
+msgid "`Pro-forma invoices <https://example.com/doc/sales/proforma.html#activate-the-feature>`_"
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:370
@@ -1314,9 +1240,7 @@ msgid "Tip"
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:404
-msgid ""
-"Use this to inform the reader about a useful trick that requires an "
-"action."
+msgid "Use this to inform the reader about a useful trick that requires an action."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:410
@@ -1333,8 +1257,7 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:444
 msgid ""
-"Use this to require the reader to proceed with caution with what is "
-"described in the warning."
+"Use this to require the reader to proceed with caution with what is described in the warning."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:450
@@ -1355,10 +1278,9 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:480
 msgid ""
-"The Odoo theme supports banner images at the top of documents. At the "
-"first line of your documents, insert the directive ``:banner: "
-"banners/file_name.png``. Replace ``file_name.png`` with the file that you"
-" placed in :file:`_static/banners` to server as a banner of your "
+"The Odoo theme supports banner images at the top of documents. At the first line of your "
+"documents, insert the directive ``:banner: banners/file_name.png``. Replace ``file_name.png`` "
+"with the file that you placed in :file:`_static/banners` to server as a banner of your "
 "document."
 msgstr ""
 
@@ -1367,9 +1289,7 @@ msgid "Break the line but not the paragraph"
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:502
-msgid ""
-"First super long line that you break in two… here is rendered as a single"
-" line."
+msgid "First super long line that you break in two… here is rendered as a single line."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:503
@@ -1382,12 +1302,11 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:510
 msgid ""
-"If you made a particular choice of writing or formatting that a future "
-"writer should be able to understand and take into account, consider "
-"writing a comment. Comments are blocks of text that do not count as a "
-"part of the documentation and that are used to pass a message to writers "
-"of the source code. They consist of a line starting with two dots and a "
-"space, followed by the comment."
+"If you made a particular choice of writing or formatting that a future writer should be able "
+"to understand and take into account, consider writing a comment. Comments are blocks of text "
+"that do not count as a part of the documentation and that are used to pass a message to "
+"writers of the source code. They consist of a line starting with two dots and a space, "
+"followed by the comment."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:515
@@ -1400,9 +1319,8 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:522
 msgid ""
-"Make use of `this convenient table generator "
-"<https://www.tablesgenerator.com/text_tables>`_ to build your tables. "
-"Then, copy-paste the generated formatting into your document."
+"Make use of `this convenient table generator <https://www.tablesgenerator.com/text_tables>`_ "
+"to build your tables. Then, copy-paste the generated formatting into your document."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:528
@@ -1519,22 +1437,19 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:553
 msgid ""
-"Markup symbols escaped with backslashes (``\\``) are rendered normally. "
-"For instance, ``this \\*\\*line of text\\*\\* with \\*markup\\* symbols``"
-" is rendered as “this \\*\\*line of text\\*\\* with \\*markup\\* "
-"symbols”."
+"Markup symbols escaped with backslashes (``\\``) are rendered normally. For instance, ``this "
+"\\*\\*line of text\\*\\* with \\*markup\\* symbols`` is rendered as “this \\*\\*line of text\\*"
+"\\* with \\*markup\\* symbols”."
 msgstr ""
 
 #: ../../contributing/documentation/rst_cheat_sheet.rst:557
 msgid ""
-"When it comes to backticks (`````), which are used in many case such as "
-":ref:`hyperlink references <contributing/hyperlink-references>`, using "
-"backslashes for escaping is no longer an option because the outer "
-"backticks interpret enclosed backslashes and thus prevent them from "
-"escaping inner backticks. For instance, ```\\`this formatting\\```` "
-"produces an ``[UNKNOWN NODE title_reference]`` error. Instead, `````this "
-"formatting````` should be used to produce the following result: ```this "
-"formatting```."
+"When it comes to backticks (`````), which are used in many case such as :ref:`hyperlink "
+"references <contributing/hyperlink-references>`, using backslashes for escaping is no longer "
+"an option because the outer backticks interpret enclosed backslashes and thus prevent them "
+"from escaping inner backticks. For instance, ```\\`this formatting\\```` produces an "
+"``[UNKNOWN NODE title_reference]`` error. Instead, `````this formatting````` should be used to "
+"produce the following result: ```this formatting```."
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:5
@@ -1547,13 +1462,12 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:12
 msgid ""
-"If you need to reference an internal documentation page or a file that is"
-" not sitting in the same directory as your current page, always make use "
-"of *relative file paths* rather than *absolute file paths*. An absolute "
-"file path indicates the location of the target from the root of its file "
-"tree. A relative file path makes use of smart notations (such as ``../`` "
-"git that redirects to the parent folder) to indicate the location of the "
-"target *relative* to that of the source document."
+"If you need to reference an internal documentation page or a file that is not sitting in the "
+"same directory as your current page, always make use of *relative file paths* rather than "
+"*absolute file paths*. An absolute file path indicates the location of the target from the "
+"root of its file tree. A relative file path makes use of smart notations (such as ``../`` git "
+"that redirects to the parent folder) to indicate the location of the target *relative* to that "
+"of the source document."
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:21
@@ -1562,8 +1476,8 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:33
 msgid ""
-"A reference to the rendered :file:`prices.html` and :file:`variants.html`"
-" could be made from :file:`import.rst` as follows:"
+"A reference to the rendered :file:`prices.html` and :file:`variants.html` could be made from :"
+"file:`import.rst` as follows:"
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:36
@@ -1592,9 +1506,8 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:46
 msgid ""
-"The relative links are clearly superior in terms of readability and "
-"stability: the references survive version updates, folder name changes "
-"and file tree restructurations."
+"The relative links are clearly superior in terms of readability and stability: the references "
+"survive version updates, folder name changes and file tree restructurations."
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:52
@@ -1603,19 +1516,17 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:54
 msgid ""
-"In RST, it is possible to break a line without forcing a line break on "
-"the rendered HTML. Make use of this feature to write **lines of maximum "
-"100 characters**. A line break in a sentence results in an additional "
-"whitespace in HTML. That means that you do not need to leave a trailing "
-"whitespace at the end of a line to separate words."
+"In RST, it is possible to break a line without forcing a line break on the rendered HTML. Make "
+"use of this feature to write **lines of maximum 100 characters**. A line break in a sentence "
+"results in an additional whitespace in HTML. That means that you do not need to leave a "
+"trailing whitespace at the end of a line to separate words."
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:60
 msgid ""
-"You can safely break a line around the separators (``-->``) of "
-"``menuselection`` directives and anywhere in a hyperlink reference. For "
-"the ``doc``, ``ref`` and ``download`` directives, this is only true for "
-"the label part of the reference."
+"You can safely break a line around the separators (``-->``) of ``menuselection`` directives "
+"and anywhere in a hyperlink reference. For the ``doc``, ``ref`` and ``download`` directives, "
+"this is only true for the label part of the reference."
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:65
@@ -1632,9 +1543,9 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:78
 msgid ""
-"Use as many spaces at the beginning of an indented line as needed to "
-"align it with the first character of the directive in the line above. "
-"This usually implies 3 spaces but you only need 2 for bulleted lists."
+"Use as many spaces at the beginning of an indented line as needed to align it with the first "
+"character of the directive in the line above. This usually implies 3 spaces but you only need "
+"2 for bulleted lists."
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:83
@@ -1642,15 +1553,11 @@ msgid "Example: The first ``:`` is below the ``i`` (3 spaces)"
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:92
-msgid ""
-"Example: The ``:titlesonly:`` and page references start below the ``t`` "
-"(3 spaces)"
+msgid "Example: The ``:titlesonly:`` and page references start below the ``t`` (3 spaces)"
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:103
-msgid ""
-"Example: Continuation lines resume below the ``I``’s of “Invoice” (2 "
-"spaces)"
+msgid "Example: Continuation lines resume below the ``I``’s of “Invoice” (2 spaces)"
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:113
@@ -1659,13 +1566,12 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:115
 msgid ""
-"Although chaining characters ``‣`` and menu names works fine to indicate "
-"a user which menus to click, it is best to use the ``menuselection`` "
-"directive (see :ref:`contributing/specialized-directives`) for the same "
-"result. Indeed, it renders the menus chain consistently with the rest of "
-"the documentation and would automatically adapt to the new graphic chart "
-"if we were to switch to a new one. This directive is used inline as "
-"follows: ``:menuselection:`Settings --> Products --> Variants```."
+"Although chaining characters ``‣`` and menu names works fine to indicate a user which menus to "
+"click, it is best to use the ``menuselection`` directive (see :ref:`contributing/specialized-"
+"directives`) for the same result. Indeed, it renders the menus chain consistently with the "
+"rest of the documentation and would automatically adapt to the new graphic chart if we were to "
+"switch to a new one. This directive is used inline as follows: ``:menuselection:`Settings --> "
+"Products --> Variants```."
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:125
@@ -1674,18 +1580,16 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:127
 msgid ""
-"Prefer the use of ``#.`` in numbered lists instead of ``1.``, ``2.``, "
-"etc. This removes the risk of breaking the numbering when adding new "
-"elements to the list and is easier to maintain."
+"Prefer the use of ``#.`` in numbered lists instead of ``1.``, ``2.``, etc. This removes the "
+"risk of breaking the numbering when adding new elements to the list and is easier to maintain."
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:129
 msgid ""
-"Avoid using implicit hyperlink targets and prefer internal hyperlink "
-"targets instead. Referencing the implicit target ``How to print "
-"quotations?`` is more prone to break than a reference to the explicit "
-"target ``_print_quotation`` which never appears in the rendered HTML and "
-"is thus even less likely to be modified."
+"Avoid using implicit hyperlink targets and prefer internal hyperlink targets instead. "
+"Referencing the implicit target ``How to print quotations?`` is more prone to break than a "
+"reference to the explicit target ``_print_quotation`` which never appears in the rendered HTML "
+"and is thus even less likely to be modified."
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:137
@@ -1694,11 +1598,10 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:139
 msgid ""
-"As hyperlink targets are visible from the entire documentation when "
-"referenced with the ``ref`` directive, it is recommended to prefix the "
-"target name with that of the related application. For instance, naming a "
-"target ``_amazon/form`` instead of ``_form`` avoids unwanted behaviors "
-"and makes the purpose of the target clear."
+"As hyperlink targets are visible from the entire documentation when referenced with the "
+"``ref`` directive, it is recommended to prefix the target name with that of the related "
+"application. For instance, naming a target ``_amazon/form`` instead of ``_form`` avoids "
+"unwanted behaviors and makes the purpose of the target clear."
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:147
@@ -1707,9 +1610,8 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:149
 msgid ""
-"When refactoring (improving without adding new content) section headings "
-"or hyperlink targets, take care not to break any hyperlink reference to "
-"these targets or update them accordingly."
+"When refactoring (improving without adding new content) section headings or hyperlink targets, "
+"take care not to break any hyperlink reference to these targets or update them accordingly."
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:155
@@ -1718,16 +1620,14 @@ msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:160
 msgid ""
-"Although using a double-underscore suffix works most of the time for "
-"classic hyperlink references, it is not recommended as double-underscores"
-" normally indicate an anonymous hyperlink reference. This is a special "
-"kind of hyperlink reference that makes use of nameless hyperlink targets "
-"consisting only of two underscore."
+"Although using a double-underscore suffix works most of the time for classic hyperlink "
+"references, it is not recommended as double-underscores normally indicate an anonymous "
+"hyperlink reference. This is a special kind of hyperlink reference that makes use of nameless "
+"hyperlink targets consisting only of two underscore."
 msgstr ""
 
 #: ../../contributing/documentation/rst_guidelines.rst:162
 msgid ""
-"tl;dr: Double-underscore suffixes work until they don’t and are bad "
-"practice, use single-underscore suffixes instead."
+"tl;dr: Double-underscore suffixes work until they don’t and are bad practice, use single-"
+"underscore suffixes instead."
 msgstr ""
-

@@ -3,23 +3,24 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-04 11:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-07 21:54+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../email_marketing.rst:5
 msgid "Email Marketing"
-msgstr ""
+msgstr "Sähköpostimarkkinointi"
 
 #: ../../email_marketing/overview.rst:3
 msgid "Overview"
@@ -31,9 +32,9 @@ msgstr ""
 
 #: ../../email_marketing/overview/mailing_lists.rst:5
 msgid ""
-"Mailing lists can be a goldmine for your company’s marketing department "
-"as they can provide leads for sales, focus groups for testing new "
-"products, and consumers to provide feedback on satisfaction, for example."
+"Mailing lists can be a goldmine for your company’s marketing department as "
+"they can provide leads for sales, focus groups for testing new products, and "
+"consumers to provide feedback on satisfaction, for example."
 msgstr ""
 
 #: ../../email_marketing/overview/mailing_lists.rst:10
@@ -42,16 +43,14 @@ msgstr ""
 
 #: ../../email_marketing/overview/mailing_lists.rst:12
 msgid ""
-"Go to :menuselection:`Mailing lists --> Mailing lists --> Create`. Enable"
-" the option *Is Public* to make the list visible for users when "
-"unsubscribing."
+"Go to :menuselection:`Mailing lists --> Mailing lists --> Create`. Enable the "
+"option *Is Public* to make the list visible for users when unsubscribing."
 msgstr ""
 
 #: ../../email_marketing/overview/mailing_lists.rst:19
 msgid ""
-"Once your mailing list is created, you can manually add contacts clicking"
-" on *Create*. *Import* a list of contacts if you have it from a previous "
-"tool."
+"Once your mailing list is created, you can manually add contacts clicking on "
+"*Create*. *Import* a list of contacts if you have it from a previous tool."
 msgstr ""
 
 #: ../../email_marketing/overview/mailing_lists.rst:23
@@ -61,8 +60,7 @@ msgstr ""
 #: ../../email_marketing/overview/mailing_lists.rst:26
 msgid ""
 "Create a mailing list called Newsletter, as you use this strategy to "
-"advertise and communicate new ideas to subscribers interested in "
-"listening."
+"advertise and communicate new ideas to subscribers interested in listening."
 msgstr ""
 
 #: ../../email_marketing/overview/mailing_lists.rst:27
@@ -77,9 +75,9 @@ msgstr ""
 
 #: ../../email_marketing/overview/mailing_lists.rst:36
 msgid ""
-"Under :menuselection:`Mailing Lists --> Mailing List Contacts` see a list"
-" of all contacts under all your mailing lists, and the ones you "
-"individually created here."
+"Under :menuselection:`Mailing Lists --> Mailing List Contacts` see a list of "
+"all contacts under all your mailing lists, and the ones you individually "
+"created here."
 msgstr ""
 
 #: ../../email_marketing/overview/mailing_lists.rst:43
@@ -99,9 +97,9 @@ msgstr ""
 
 #: ../../email_marketing/overview/manage_unsubscriptions.rst:5
 msgid ""
-"It is best practice, and legally required, to allow recipients to "
-"unsubscribe from mailing lists as you do not want your audience to think "
-"that your company is using any tactics that are dishonest or spammy."
+"It is best practice, and legally required, to allow recipients to unsubscribe "
+"from mailing lists as you do not want your audience to think that your "
+"company is using any tactics that are dishonest or spammy."
 msgstr ""
 
 #: ../../email_marketing/overview/manage_unsubscriptions.rst:10
@@ -122,23 +120,23 @@ msgstr ""
 
 #: ../../email_marketing/overview/manage_unsubscriptions.rst:28
 msgid ""
-"After clicking on the unsubscribe button when using the test feature, you"
-" are sent to an error page (*error 403 - Access Denied*). If you want to "
-"be sure the link is working properly, create your mass mail and send it "
-"only to a personal email."
+"After clicking on the unsubscribe button when using the test feature, you are "
+"sent to an error page (*error 403 - Access Denied*). If you want to be sure "
+"the link is working properly, create your mass mail and send it only to a "
+"personal email."
 msgstr ""
 
 #: ../../email_marketing/overview/manage_unsubscriptions.rst:32
 msgid ""
 "In addition to having the option of unsubscribing from specific mailing "
-"lists, the user can also blacklist himself, meaning that he will not "
-"receive *any* more emails from you."
+"lists, the user can also blacklist himself, meaning that he will not receive "
+"*any* more emails from you."
 msgstr ""
 
 #: ../../email_marketing/overview/manage_unsubscriptions.rst:36
 msgid ""
-"The mailing list has to be configured as *Public* in order to be visible "
-"for users."
+"The mailing list has to be configured as *Public* in order to be visible for "
+"users."
 msgstr ""
 
 #: ../../email_marketing/overview/manage_unsubscriptions.rst:38
@@ -161,10 +159,9 @@ msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:5
 msgid ""
-"Emails allow you to effectively, and at a low cost, reach a large number "
-"of consumers while being able to customize your message in a way that "
-"resonates with them. It is measurable, and a call-to-action oriented "
-"channel."
+"Emails allow you to effectively, and at a low cost, reach a large number of "
+"consumers while being able to customize your message in a way that resonates "
+"with them. It is measurable, and a call-to-action oriented channel."
 msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:10
@@ -183,32 +180,32 @@ msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:21
 msgid ""
-"With a trial databases, you have a limit of 50 emails per day; on Odoo SH"
-" Cloud Platform the limit is 200. There is a possibility to increase "
-"these numbers by contacting Odoo Support. To contact Support, `click here"
-" <https://www.odoo.com/help>`_."
+"With a trial databases, you have a limit of 50 emails per day; on Odoo SH "
+"Cloud Platform the limit is 200. There is a possibility to increase these "
+"numbers by contacting Odoo Support. To contact Support, `click here <https://"
+"www.odoo.com/help>`_."
 msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:25
 msgid ""
 "Under *Mail Body*, choose a layout and make the modifications needed by "
-"dragging, dropping and double-clicking on content. Note that it is "
-"possible to start from scratch selecting the *blank* template option."
+"dragging, dropping and double-clicking on content. Note that it is possible "
+"to start from scratch selecting the *blank* template option."
 msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:34
 msgid ""
-"Under *Settings*, you can assign someone else as the responsible sender "
-"if you do not want it to be you. To do so, change the email address used "
-"as the sender (*Send From*)."
+"Under *Settings*, you can assign someone else as the responsible sender if "
+"you do not want it to be you. To do so, change the email address used as the "
+"sender (*Send From*)."
 msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:37
 msgid ""
 "With the *Reply To* radio button, you can also choose to gather answers "
-"either on the respective recipients’ records or on a specific email "
-"address. Note that this option is not available if you target mailing "
-"contacts or contacts as recipients."
+"either on the respective recipients’ records or on a specific email address. "
+"Note that this option is not available if you target mailing contacts or "
+"contacts as recipients."
 msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:45
@@ -218,35 +215,35 @@ msgstr ""
 #: ../../email_marketing/overview/send_emails.rst:53
 msgid ""
 "*Save*: the work is allocated in the *draft* column in the Kanban view. "
-"Modifications can be made while being in this stage. The option *Discard*"
-" deletes the email."
+"Modifications can be made while being in this stage. The option *Discard* "
+"deletes the email."
 msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:54
 msgid ""
-"Click on *Test* and send your message to one, or even multiple, test "
-"contacts to avoid errors."
+"Click on *Test* and send your message to one, or even multiple, test contacts "
+"to avoid errors."
 msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:56
 msgid ""
-"*Send* triggers the email with the next run and put the work on the "
-"*queue* column in the Kanban view."
+"*Send* triggers the email with the next run and put the work on the *queue* "
+"column in the Kanban view."
 msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:58
 msgid ""
-"*Schedule* allows you to choose a date and time, and puts the email in "
-"the *queue* column in the Kanban view."
+"*Schedule* allows you to choose a date and time, and puts the email in the "
+"*queue* column in the Kanban view."
 msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:61
 msgid ""
 "The daily limit is applied for **all emails** sent, in other words, "
-"throughout all applications. Therefore, if at the end of the day you have"
-" remaining ones to be sent, note that they *will not* be sent "
-"automatically the next day. You need to force that by opening the email "
-"and clicking on *Retry*."
+"throughout all applications. Therefore, if at the end of the day you have "
+"remaining ones to be sent, note that they *will not* be sent automatically "
+"the next day. You need to force that by opening the email and clicking on "
+"*Retry*."
 msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:67
@@ -261,8 +258,8 @@ msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:71
 msgid ""
-"The campaign option is effective as it allows you to organize your "
-"marketing efforts and have a centralized view of its metrics."
+"The campaign option is effective as it allows you to organize your marketing "
+"efforts and have a centralized view of its metrics."
 msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:72
@@ -271,10 +268,10 @@ msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:80
 msgid ""
-"If you use the SMS and Social Marketing applications, as well as the Push"
-" Notification feature, you see the option to create content for those "
-"channels. You also see the *Campaign* menu within those applications. All"
-" of this is possible because the applications work integrated."
+"If you use the SMS and Social Marketing applications, as well as the Push "
+"Notification feature, you see the option to create content for those "
+"channels. You also see the *Campaign* menu within those applications. All of "
+"this is possible because the applications work integrated."
 msgstr ""
 
 #: ../../email_marketing/overview/send_emails.rst:85
@@ -284,4 +281,3 @@ msgstr ""
 #: ../../email_marketing/overview/send_emails.rst:86
 msgid ":doc:`../../social_marketing/overview/campaigns`"
 msgstr ""
-

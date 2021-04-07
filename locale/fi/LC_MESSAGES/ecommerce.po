@@ -3,23 +3,24 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-04 11:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-07 21:54+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../ecommerce.rst:5
 msgid "eCommerce"
-msgstr ""
+msgstr "Verkkokauppa"
 
 #: ../../ecommerce/getting_started.rst:3
 msgid "Get started"
@@ -49,16 +50,15 @@ msgstr ""
 
 #: ../../ecommerce/getting_started/catalog.rst:22
 msgid ""
-"Boost the visibility of your star/promoted products: push them to top, "
-"make them bigger, add a ribbon that you can edit (Sale, New, etc.). Open "
-"the Shop page, switch to Edit mode and click any item to start "
-"customizing the grid."
+"Boost the visibility of your star/promoted products: push them to top, make "
+"them bigger, add a ribbon that you can edit (Sale, New, etc.). Open the Shop "
+"page, switch to Edit mode and click any item to start customizing the grid."
 msgstr ""
 
 #: ../../ecommerce/getting_started/catalog.rst:26
 msgid ""
-"See how to do it: "
-"https://www.odoo.com/openerp_website/static/src/video/e-commerce/editing.mp4"
+"See how to do it: https://www.odoo.com/openerp_website/static/src/video/e-"
+"commerce/editing.mp4"
 msgstr ""
 
 #: ../../ecommerce/getting_started/catalog.rst:29
@@ -67,11 +67,11 @@ msgstr ""
 
 #: ../../ecommerce/getting_started/catalog.rst:31
 msgid ""
-"If your customers buy a lot of items at once, make their process shorter "
-"by enabling purchases from the catalog page. To do so, add product "
-"description and add to cart button. Turn on the following options in "
-"*Customize* menu:  Product Description, Add to Cart, List View (to "
-"display product description better)."
+"If your customers buy a lot of items at once, make their process shorter by "
+"enabling purchases from the catalog page. To do so, add product description "
+"and add to cart button. Turn on the following options in *Customize* menu:  "
+"Product Description, Add to Cart, List View (to display product description "
+"better)."
 msgstr ""
 
 #: ../../ecommerce/getting_started/product_page.rst:3
@@ -136,9 +136,9 @@ msgstr ""
 
 #: ../../ecommerce/managing_products/multi_images.rst:5
 msgid ""
-"By default your product web page displays the main image of your product "
-"only. If you like to show your products under several angles, you can "
-"turn the image into a carrousel."
+"By default your product web page displays the main image of your product only. "
+"If you like to show your products under several angles, you can turn the image "
+"into a carrousel."
 msgstr ""
 
 #: ../../ecommerce/managing_products/multi_images.rst:11
@@ -149,8 +149,8 @@ msgstr ""
 
 #: ../../ecommerce/managing_products/multi_images.rst:13
 msgid ""
-"Open a product detail form and upload images from *Images* tab. Hit "
-"*Create* in Edit mode to get the upload wizard."
+"Open a product detail form and upload images from *Images* tab. Hit *Create* "
+"in Edit mode to get the upload wizard."
 msgstr ""
 
 #: ../../ecommerce/managing_products/multi_images.rst:19
@@ -163,20 +163,20 @@ msgstr ""
 
 #: ../../ecommerce/managing_products/stock.rst:5
 msgid ""
-"The availability of your products can be shown on the website to reassure"
-" your customers."
+"The availability of your products can be shown on the website to reassure your "
+"customers."
 msgstr ""
 
 #: ../../ecommerce/managing_products/stock.rst:10
 msgid ""
-"To display this, open the *Sales* tab in the product detail form and "
-"select an option in *Availability*."
+"To display this, open the *Sales* tab in the product detail form and select an "
+"option in *Availability*."
 msgstr ""
 
 #: ../../ecommerce/managing_products/stock.rst:16
 msgid ""
-"A custom warning message can be anything related to a stock out, delivery"
-" delay, etc."
+"A custom warning message can be anything related to a stock out, delivery "
+"delay, etc."
 msgstr ""
 
 #: ../../ecommerce/managing_products/stock.rst:22
@@ -185,9 +185,9 @@ msgstr ""
 
 #: ../../ecommerce/managing_products/stock.rst:25
 msgid ""
-"If one item is no longer sellable, unpublish it from your website. If it "
-"comes to one particular product variant, deactivate the variant in the "
-"backend (see :doc:`../maximizing_revenue/pricing`)."
+"If one item is no longer sellable, unpublish it from your website. If it comes "
+"to one particular product variant, deactivate the variant in the backend (see :"
+"doc:`../maximizing_revenue/pricing`)."
 msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:3
@@ -196,11 +196,11 @@ msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:5
 msgid ""
-"Product variants are used to offer variations of the same product to your"
-" customers on the products page. For example, the customer chooses a "
-"T-shirt and then selects its size and color.  In the example below, the "
-"customer chooses a phone, and then selects the memory; color and Wi-Fi "
-"band from the available options."
+"Product variants are used to offer variations of the same product to your "
+"customers on the products page. For example, the customer chooses a T-shirt "
+"and then selects its size and color.  In the example below, the customer "
+"chooses a phone, and then selects the memory; color and Wi-Fi band from the "
+"available options."
 msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:15
@@ -209,8 +209,8 @@ msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:17
 msgid ""
-"Turn on *Products can have several attributes, defining variants "
-"(Example: size, color,...)* in :menuselection:`Sales --> Settings`."
+"Turn on *Products can have several attributes, defining variants (Example: "
+"size, color,...)* in :menuselection:`Sales --> Settings`."
 msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:20
@@ -219,9 +219,9 @@ msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:22
 msgid ""
-"Add as many attributes as you need from 3 different types: radio buttons,"
-" drop-down menu or color buttons. You get several variants as soon as "
-"there are 2 values for 1 attribute."
+"Add as many attributes as you need from 3 different types: radio buttons, drop-"
+"down menu or color buttons. You get several variants as soon as there are 2 "
+"values for 1 attribute."
 msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:30
@@ -262,15 +262,14 @@ msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:50
 msgid ""
-"Both the Barcode and the Internal Reference are variant-specific. You "
-"need to populate them once the variants generated."
+"Both the Barcode and the Internal Reference are variant-specific. You need to "
+"populate them once the variants generated."
 msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:54
 msgid ""
-"See and edit all the variants from :menuselection:`Sales --> Sales --> "
-"Product Variants` as well. This might be quicker if you manage lots of "
-"variants."
+"See and edit all the variants from :menuselection:`Sales --> Sales --> Product "
+"Variants` as well. This might be quicker if you manage lots of variants."
 msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:58
@@ -279,8 +278,8 @@ msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:60
 msgid ""
-"You can also set a specific public price per variant by clicking *Variant"
-" Prices* in the product detail form (action in top-left corner)."
+"You can also set a specific public price per variant by clicking *Variant "
+"Prices* in the product detail form (action in top-left corner)."
 msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:66
@@ -291,8 +290,8 @@ msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:76
 msgid ""
-"Pricelist formulas let you set advanced price computation methods for "
-"product variants. See :doc:`../maximizing_revenue/pricing`."
+"Pricelist formulas let you set advanced price computation methods for product "
+"variants. See :doc:`../maximizing_revenue/pricing`."
 msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:80
@@ -301,15 +300,15 @@ msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:82
 msgid ""
-"You can disable/archive specific variants so that they are no longer "
-"available in quotes & website (not existing in your stock, deprecated, "
-"etc.). Simply uncheck *Active* in their detail form."
+"You can disable/archive specific variants so that they are no longer available "
+"in quotes & website (not existing in your stock, deprecated, etc.). Simply "
+"uncheck *Active* in their detail form."
 msgstr ""
 
 #: ../../ecommerce/managing_products/variants.rst:88
 msgid ""
-"To retrieve such archived items, hit *Archived* on searching the variants"
-" list. You can reactivate them the same way."
+"To retrieve such archived items, hit *Archived* on searching the variants "
+"list. You can reactivate them the same way."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue.rst:3
@@ -322,9 +321,8 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:5
 msgid ""
-"You sell computers. Why not stimulating your customers to buy a top-notch"
-" screen or an extra-warranty? That's the goal of cross-selling "
-"functionalities:"
+"You sell computers. Why not stimulating your customers to buy a top-notch "
+"screen or an extra-warranty? That's the goal of cross-selling functionalities:"
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:8
@@ -333,8 +331,7 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:9
 msgid ""
-"Optional products on a new *Add to Cart* screen (not installed by "
-"default)."
+"Optional products on a new *Add to Cart* screen (not installed by default)."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:12
@@ -343,8 +340,8 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:14
 msgid ""
-"Accessories (e.g. for computers: mouse, keyboard) show up when the "
-"customer reviews the cart before paying."
+"Accessories (e.g. for computers: mouse, keyboard) show up when the customer "
+"reviews the cart before paying."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:20
@@ -353,10 +350,10 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:26
 msgid ""
-"There is an algorithm to figure out the best accessories to display in "
-"case several items are added to cart. If any item is the accessory of "
-"several products added to cart, it is most likely that it will be atop "
-"the list of suggested accessories."
+"There is an algorithm to figure out the best accessories to display in case "
+"several items are added to cart. If any item is the accessory of several "
+"products added to cart, it is most likely that it will be atop the list of "
+"suggested accessories."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:31
@@ -365,10 +362,9 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:33
 msgid ""
-"Optional products are directly related to the item added to cart (e.g. "
-"for computers: warranty, OS software, extra components). Whenever the "
-"main product is added to cart, such a new screen pops up as an extra "
-"step."
+"Optional products are directly related to the item added to cart (e.g. for "
+"computers: warranty, OS software, extra components). Whenever the main product "
+"is added to cart, such a new screen pops up as an extra step."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:40
@@ -377,9 +373,8 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:42
 msgid ""
-"Install *eCommerce Optional Products* addon in *Apps* menu. Remove the "
-"default filter to search on addons as well, otherwise only main apps show"
-" up."
+"Install *eCommerce Optional Products* addon in *Apps* menu. Remove the default "
+"filter to search on addons as well, otherwise only main apps show up."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:48
@@ -388,8 +383,7 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/cross_selling.rst:54
 msgid ""
-"The quantity of optional items added to cart is the same than the main "
-"item."
+"The quantity of optional items added to cart is the same than the main item."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/pricing.rst:3
@@ -410,8 +404,8 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/pricing.rst:11
 msgid ""
-"As a pre-requisite, check out how to managing produt pricing: "
-":doc:`../../sales/products_prices/prices/pricing`)."
+"As a pre-requisite, check out how to managing produt pricing: :doc:`../../"
+"sales/products_prices/prices/pricing`)."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/pricing.rst:15
@@ -420,8 +414,8 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/pricing.rst:17
 msgid ""
-"Assign country groups to your pricelists. That way, your visitors not yet"
-" logged in will get their own currency when landing on your website."
+"Assign country groups to your pricelists. That way, your visitors not yet "
+"logged in will get their own currency when landing on your website."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/pricing.rst:20
@@ -434,9 +428,9 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/pricing.rst:25
 msgid ""
-"In case you sell in several currencies, you can let your customers choose"
-" their own currency. Check *Selectable* to add the pricelist to the "
-"website drop-down menu."
+"In case you sell in several currencies, you can let your customers choose "
+"their own currency. Check *Selectable* to add the pricelist to the website "
+"drop-down menu."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/pricing.rst:34
@@ -457,8 +451,8 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/promo_code.rst:5
 msgid ""
-"Want to boost your sales for Xmas? Share promocodes through your "
-"marketing campaigns and apply any kind of discounts."
+"Want to boost your sales for Xmas? Share promocodes through your marketing "
+"campaigns and apply any kind of discounts."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/promo_code.rst:9
@@ -468,33 +462,32 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/promo_code.rst:11
 msgid ""
-"Go to :menuselection:`Sales --> Settings` and choose *Advanced pricing "
-"based on formula* for *Sale Price*."
+"Go to :menuselection:`Sales --> Settings` and choose *Advanced pricing based "
+"on formula* for *Sale Price*."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/promo_code.rst:14
 msgid ""
-"Go to :menuselection:`Website Admin --> Catalog --> Pricelists` and "
-"create a new pricelist with the discount rule (see :doc:`pricing`). Then "
-"enter a code."
+"Go to :menuselection:`Website Admin --> Catalog --> Pricelists` and create a "
+"new pricelist with the discount rule (see :doc:`pricing`). Then enter a code."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/promo_code.rst:21
 msgid ""
-"Make the promocode field available on your *Shopping Cart* page (option "
-"in *Customize* menu). Add a product to cart to reach it."
+"Make the promocode field available on your *Shopping Cart* page (option in "
+"*Customize* menu). Add a product to cart to reach it."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/promo_code.rst:27
 msgid ""
-"Once turned on you see a new section on the right side. On clicking "
-"*Apply* prices get automatically updated in the cart."
+"Once turned on you see a new section on the right side. On clicking *Apply* "
+"prices get automatically updated in the cart."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/promo_code.rst:33
 msgid ""
-"The promocode used by the customer is stored in the system so you can "
-"analyze the performance of your marketing campaigns."
+"The promocode used by the customer is stored in the system so you can analyze "
+"the performance of your marketing campaigns."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/promo_code.rst:39
@@ -511,21 +504,20 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/reviews.rst:5
 msgid ""
-"Publishing and monitoring customer experience will help you gain the "
-"trust of new customers and better engage with your community. In 2 "
-"clicks, allow your customer to share their feedback!"
+"Publishing and monitoring customer experience will help you gain the trust of "
+"new customers and better engage with your community. In 2 clicks, allow your "
+"customer to share their feedback!"
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/reviews.rst:15
 msgid ""
-"Activate comments & rating from the *Customize* menu of the product web "
-"page."
+"Activate comments & rating from the *Customize* menu of the product web page."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/reviews.rst:21
 msgid ""
-"Visitors must log in to share their comments. Make sure they are able to "
-"do so (see Portal documentation)."
+"Visitors must log in to share their comments. Make sure they are able to do so "
+"(see Portal documentation)."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/reviews.rst:25
@@ -540,14 +532,13 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/reviews.rst:34
 msgid ""
-"By default the user who created the product is automatically set as "
-"follower."
+"By default the user who created the product is automatically set as follower."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/reviews.rst:36
 msgid ""
-"Click the product name to open the detail form and review the comment (in"
-" the product discussion thread)."
+"Click the product name to open the detail form and review the comment (in the "
+"product discussion thread)."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/reviews.rst:43
@@ -556,14 +547,14 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/reviews.rst:45
 msgid ""
-"You can easily moderate by using the chatter, either in the product "
-"detail form or on the web page."
+"You can easily moderate by using the chatter, either in the product detail "
+"form or on the web page."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/reviews.rst:48
 msgid ""
-"To unpublish the post, open the product web page and click the "
-"*Published* button to turn it red (*Unpublished*)."
+"To unpublish the post, open the product web page and click the *Published* "
+"button to turn it red (*Unpublished*)."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/reviews.rst:56
@@ -572,8 +563,8 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/reviews.rst:55
 msgid ""
-"You can access the web page from the detail form by clicking the "
-"*Published* smart button (and vice versa)."
+"You can access the web page from the detail form by clicking the *Published* "
+"smart button (and vice versa)."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/upselling.rst:3
@@ -582,9 +573,9 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/upselling.rst:5
 msgid ""
-"In order to maximize your revenue, suggesting pricier alternative "
-"products is strongly advised for basic items. That way, your customer "
-"will spend more time browsing your catalog."
+"In order to maximize your revenue, suggesting pricier alternative products is "
+"strongly advised for basic items. That way, your customer will spend more time "
+"browsing your catalog."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/upselling.rst:12
@@ -593,15 +584,15 @@ msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/upselling.rst:14
 msgid ""
-"Select such *Alternative Products* in the *Sales* tab of the product "
-"detail form. 3 alternatives are fine! Don't publish too many otherwise "
-"your customers will be confused."
+"Select such *Alternative Products* in the *Sales* tab of the product detail "
+"form. 3 alternatives are fine! Don't publish too many otherwise your customers "
+"will be confused."
 msgstr ""
 
 #: ../../ecommerce/maximizing_revenue/upselling.rst:20
 msgid ""
-"Turn on *Alternative Products* from the *Customize* menu of the product "
-"web page."
+"Turn on *Alternative Products* from the *Customize* menu of the product web "
+"page."
 msgstr ""
 
 #: ../../ecommerce/overview.rst:3
@@ -614,8 +605,8 @@ msgstr ""
 
 #: ../../ecommerce/overview/introduction.rst:10
 msgid ""
-"The documentation will help you go live with your eCommerce website in no"
-" time. The topics follow the buying process:"
+"The documentation will help you go live with your eCommerce website in no "
+"time. The topics follow the buying process:"
 msgstr ""
 
 #: ../../ecommerce/overview/introduction.rst:13
@@ -668,9 +659,9 @@ msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:5
 msgid ""
-"Odoo confirms orders automatically as soon as the payment is authorized "
-"by a payment acquirer. This triggers the delivery. If you invoice based "
-"on ordered quantities, you are also requested to invoice the order."
+"Odoo confirms orders automatically as soon as the payment is authorized by a "
+"payment acquirer. This triggers the delivery. If you invoice based on ordered "
+"quantities, you are also requested to invoice the order."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:12
@@ -687,41 +678,39 @@ msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:20
 msgid ""
-"*Pending*: the payment acquirer keeps the transaction on hold and you "
-"need to authorize it from the acquirer interface."
+"*Pending*: the payment acquirer keeps the transaction on hold and you need to "
+"authorize it from the acquirer interface."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:23
 msgid ""
-"*Authorized*: the payment has been authorized but not yet captured. In "
-"Odoo, the order is already confirmed. Once the delivery done, you can "
-"capture the amount from the acquirer interface (or from Odoo if you use "
-"Authorize.net)."
+"*Authorized*: the payment has been authorized but not yet captured. In Odoo, "
+"the order is already confirmed. Once the delivery done, you can capture the "
+"amount from the acquirer interface (or from Odoo if you use Authorize.net)."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:28
 msgid ""
-"*Done*: the payment is authorized and captured. The order has been "
-"confirmed."
+"*Done*: the payment is authorized and captured. The order has been confirmed."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:30
 msgid ""
-"*Error*: an error has occured during the transaction. The customer needs "
-"to retry the payment. The order is still in draft."
+"*Error*: an error has occured during the transaction. The customer needs to "
+"retry the payment. The order is still in draft."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:34
 msgid ""
-"*Cancelled*: when the customer cancels the payment in the payment "
-"acquirer form. They are taken back to Odoo in order to modify the order."
+"*Cancelled*: when the customer cancels the payment in the payment acquirer "
+"form. They are taken back to Odoo in order to modify the order."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:37
 msgid ""
-"Specific messages are provided to your customers for every payment "
-"status, when they are redirected to Odoo after the transaction. To edit "
-"such messages, go to the *Messages* tab of the payment method."
+"Specific messages are provided to your customers for every payment status, "
+"when they are redirected to Odoo after the transaction. To edit such messages, "
+"go to the *Messages* tab of the payment method."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:44
@@ -730,21 +719,20 @@ msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:46
 msgid ""
-"When the order is confirmed you can also have an invoice automatically "
-"issued and paid. This fully-automated made for businesses that invoice "
-"orders straight on."
+"When the order is confirmed you can also have an invoice automatically issued "
+"and paid. This fully-automated made for businesses that invoice orders "
+"straight on."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:54
 msgid ""
-"If you choose this mode you are requested to select a payment journal in "
-"order to record payments in your books. This payment is automatically "
-"reconcilied with the invoice, marking it as paid. Select your **bank "
-"account** if you get paid immediately on your bank account. If you don't "
-"you can create a specific journal for the payment acquirer (type = Bank)."
-" That way, you can track online payments in an intermediary account of "
-"your books until you get paid into your bank account (see "
-":doc:`../../general/payment_acquirers/payment_acquirers`)."
+"If you choose this mode you are requested to select a payment journal in order "
+"to record payments in your books. This payment is automatically reconcilied "
+"with the invoice, marking it as paid. Select your **bank account** if you get "
+"paid immediately on your bank account. If you don't you can create a specific "
+"journal for the payment acquirer (type = Bank). That way, you can track online "
+"payments in an intermediary account of your books until you get paid into your "
+"bank account (see :doc:`../../general/payment_acquirers/payment_acquirers`)."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:63
@@ -753,9 +741,9 @@ msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:64
 msgid ""
-"With this mode, the order is confirmed but the amount is kept on hold. "
-"Once the delivery processed, you can capture the payment from Odoo. This "
-"mode is only available with Authorize.net."
+"With this mode, the order is confirmed but the amount is kept on hold. Once "
+"the delivery processed, you can capture the payment from Odoo. This mode is "
+"only available with Authorize.net."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/payment_acquirer.rst:71
@@ -776,11 +764,11 @@ msgstr ""
 
 #: ../../ecommerce/shopper_experience/portal.rst:5
 msgid ""
-"It has never been so easy for your customers to access their customer "
-"account. Forget endless signup forms, Odoo makes it as easy as ABC. They "
-"are suggested to sign up (name, email, password) when the order is "
-"placed, and not before. Indeed, nothing is more annoying than going "
-"through a signup process before buying something."
+"It has never been so easy for your customers to access their customer account. "
+"Forget endless signup forms, Odoo makes it as easy as ABC. They are suggested "
+"to sign up (name, email, password) when the order is placed, and not before. "
+"Indeed, nothing is more annoying than going through a signup process before "
+"buying something."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/portal.rst:14
@@ -789,8 +777,8 @@ msgstr ""
 
 #: ../../ecommerce/shopper_experience/portal.rst:16
 msgid ""
-"The invitation to sign up shows up when the customer wants to visualize "
-"the order from order confirmation email."
+"The invitation to sign up shows up when the customer wants to visualize the "
+"order from order confirmation email."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/portal.rst:23
@@ -799,24 +787,22 @@ msgstr ""
 
 #: ../../ecommerce/shopper_experience/portal.rst:25
 msgid ""
-"Once logged in the customer will access the account by clicking *My "
-"Account* in the login dropdown menu."
+"Once logged in the customer will access the account by clicking *My Account* "
+"in the login dropdown menu."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/portal.rst:31
 msgid ""
-"THere they find all their history. The main address (billing) can also be"
-" modified."
+"THere they find all their history. The main address (billing) can also be "
+"modified."
 msgstr ""
 
 #: ../../ecommerce/shopper_experience/portal.rst:37
 msgid ""
-"If the customer is set as a contact of a company in your address book, "
-"they will see all the documents whose the customer belongs to this "
-"company."
+"If the customer is set as a contact of a company in your address book, they "
+"will see all the documents whose the customer belongs to this company."
 msgstr ""
 
 #: ../../ecommerce/taxes.rst:3
 msgid "Collect taxes"
 msgstr ""
-

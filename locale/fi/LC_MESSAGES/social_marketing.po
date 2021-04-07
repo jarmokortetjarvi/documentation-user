@@ -3,27 +3,28 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-04 11:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-07 22:00+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../social_marketing.rst:5
 msgid "Social Marketing"
-msgstr ""
+msgstr "Sosiaalinen markkinointi"
 
 #: ../../social_marketing/overview.rst:3
 msgid "Overview"
-msgstr ""
+msgstr "Yleiskatsaus"
 
 #: ../../social_marketing/overview/campaigns.rst:3
 msgid "Connecting to my Marketplace with Campaigns"
@@ -62,15 +63,15 @@ msgstr ""
 
 #: ../../social_marketing/overview/campaigns.rst:22
 msgid ""
-"*Leads*: users who have filled out your contact form, from a link in your"
-" content."
+"*Leads*: users who have filled out your contact form, from a link in "
+"your content."
 msgstr ""
 
 #: ../../social_marketing/overview/campaigns.rst:25
 msgid ""
-"To be able to *Send New Mailing*, make sure the feature is enabled in the"
-" *Email Marketing* application, under :menuselection:`Email Marketing -->"
-" Configuration --> Settings`. To be able to *Send SMS*, the *SMS "
+"To be able to *Send New Mailing*, make sure the feature is enabled in "
+"the *Email Marketing* application, under :menuselection:`Email Marketing "
+"--> Configuration --> Settings`. To be able to *Send SMS*, the *SMS "
 "Marketing* application must be installed on your database."
 msgstr ""
 
@@ -115,9 +116,9 @@ msgstr ""
 
 #: ../../social_marketing/overview/livechat.rst:20
 msgid ""
-"Under *Channel Rules*, choose when the chat pop-up appears, and an action"
-" for a given URL and/or country. Note that to take the country into "
-"account, GeoIP must be installed on your server."
+"Under *Channel Rules*, choose when the chat pop-up appears, and an "
+"action for a given URL and/or country. Note that to take the country "
+"into account, GeoIP must be installed on your server."
 msgstr ""
 
 #: ../../social_marketing/overview/livechat.rst:24
@@ -130,15 +131,15 @@ msgstr ""
 
 #: ../../social_marketing/overview/livechat.rst:29
 msgid ""
-"Under the  *Visitors* menu,  see the visitors that landed on one of your "
-":ref:`social_marketing/website_tracked_pages` online or offline."
+"Under the  *Visitors* menu,  see the visitors that landed on one of "
+"your :ref:`social_marketing/website_tracked_pages` online or offline."
 msgstr ""
 
 #: ../../social_marketing/overview/livechat.rst:34
 msgid ""
-"You can send emails (if an email address has been saved), send SMSs (if a"
-" phone number has been saved), send a push notification (if the user has "
-"subscribed to it), and even send a live chat request that will be "
+"You can send emails (if an email address has been saved), send SMSs (if "
+"a phone number has been saved), send a push notification (if the user "
+"has subscribed to it), and even send a live chat request that will be "
 "received by the user once they move to a tracked page."
 msgstr ""
 
@@ -166,8 +167,8 @@ msgstr ""
 
 #: ../../social_marketing/overview/livechat.rst:51
 msgid ""
-"To define which pages are tracked, on the *Website* application, go to "
-":menuselection:`Website --> Configuration --> Pages` and enable the "
+"To define which pages are tracked, on the *Website* application, go to :"
+"menuselection:`Website --> Configuration --> Pages` and enable the "
 "option *Track*, on the respective pages."
 msgstr ""
 
@@ -204,8 +205,8 @@ msgstr ""
 
 #: ../../social_marketing/overview/manage_social.rst:23
 msgid ""
-"You are then redirected to your *Feed* and a column with the publications"
-" is automatically added."
+"You are then redirected to your *Feed* and a column with the "
+"publications is automatically added."
 msgstr ""
 
 #: ../../social_marketing/overview/manage_social.rst:25
@@ -290,11 +291,11 @@ msgstr ""
 
 #: ../../social_marketing/overview/push_notifications.rst:5
 msgid ""
-"Web Push Notifications deliver messages to your user’s device without the"
-" need to be on your website, or for them to give personal information. "
-"They can be used to inform your users about news, articles and content "
-"posted, practical messages like traffic and weather updates, flight "
-"information, sales alerts, coupons, and product updates."
+"Web Push Notifications deliver messages to your user’s device without "
+"the need to be on your website, or for them to give personal "
+"information. They can be used to inform your users about news, articles "
+"and content posted, practical messages like traffic and weather updates, "
+"flight information, sales alerts, coupons, and product updates."
 msgstr ""
 
 #: ../../social_marketing/overview/push_notifications.rst:11
@@ -309,8 +310,8 @@ msgstr ""
 
 #: ../../social_marketing/overview/push_notifications.rst:20
 msgid ""
-"Choose your message, icon, and delay time (which is the wait time for the"
-" permission request to be shown once the user lands on your page)."
+"Choose your message, icon, and delay time (which is the wait time for "
+"the permission request to be shown once the user lands on your page)."
 msgstr ""
 
 #: ../../social_marketing/overview/push_notifications.rst:28
@@ -331,8 +332,8 @@ msgstr ""
 
 #: ../../social_marketing/overview/push_notifications.rst:42
 msgid ""
-"Target a bigger segment by selecting multiple visitors in the *View List*"
-" (e.g.: all visitors that visited your Homepage)."
+"Target a bigger segment by selecting multiple visitors in the *View "
+"List* (e.g.: all visitors that visited your Homepage)."
 msgstr ""
 
 #: ../../social_marketing/overview/push_notifications.rst:50
@@ -355,4 +356,3 @@ msgstr ""
 #: ../../social_marketing/overview/push_notifications.rst:63
 msgid "The feature only works with Odoo Website application."
 msgstr ""
-

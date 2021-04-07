@@ -3,23 +3,24 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-04 11:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-07 21:57+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../manufacturing.rst:5
 msgid "Manufacturing"
-msgstr ""
+msgstr "Valmistus"
 
 #: ../../manufacturing/management.rst:5
 msgid "Manufacturing Management"
@@ -31,24 +32,24 @@ msgstr ""
 
 #: ../../manufacturing/management/alternative_wc.rst:5
 msgid ""
-"For many manufacturing companies, a common issue is to have to "
-"manufacture, at the same time, several products usually produced at the "
-"same work center. If in practice, employees can manufacture the goods at "
-"another work center, it is not that simple."
+"For many manufacturing companies, a common issue is to have to manufacture, at "
+"the same time, several products usually produced at the same work center. If in "
+"practice, employees can manufacture the goods at another work center, it is not "
+"that simple."
 msgstr ""
 
 #: ../../manufacturing/management/alternative_wc.rst:10
 msgid ""
-"You need to keep track of the job: which work center has been used and "
-"when, so you can schedule maintenance efficiently. With Odoo, you can "
-"configure it so you can keep tracking manufacturing orders and your "
-"employees have an alternative work center to use."
+"You need to keep track of the job: which work center has been used and when, so "
+"you can schedule maintenance efficiently. With Odoo, you can configure it so "
+"you can keep tracking manufacturing orders and your employees have an "
+"alternative work center to use."
 msgstr ""
 
 #: ../../manufacturing/management/alternative_wc.rst:15
 msgid ""
-"This way, your process becomes more efficient, and less non-productive "
-"time will be noticed."
+"This way, your process becomes more efficient, and less non-productive time "
+"will be noticed."
 msgstr ""
 
 #: ../../manufacturing/management/alternative_wc.rst:20
@@ -57,15 +58,15 @@ msgstr ""
 
 #: ../../manufacturing/management/alternative_wc.rst:22
 msgid ""
-"The first thing to do is to go to the *Manufacturing* app settings. Then,"
-" enable the *Work Orders* feature and hit save."
+"The first thing to do is to go to the *Manufacturing* app settings. Then, "
+"enable the *Work Orders* feature and hit save."
 msgstr ""
 
 #: ../../manufacturing/management/alternative_wc.rst:30
 msgid ""
-"Now, go to the *Work Centers* menu under *Master Data* and create two new"
-" work centers. Add the second work centers as an alternative to the first"
-" and vice versa."
+"Now, go to the *Work Centers* menu under *Master Data* and create two new work "
+"centers. Add the second work centers as an alternative to the first and vice "
+"versa."
 msgstr ""
 
 #: ../../manufacturing/management/alternative_wc.rst:39
@@ -76,8 +77,8 @@ msgstr ""
 
 #: ../../manufacturing/management/alternative_wc.rst:47
 msgid ""
-"Then, you can create your *Bill of Materials* and add components and "
-"routing to it."
+"Then, you can create your *Bill of Materials* and add components and routing to "
+"it."
 msgstr ""
 
 #: ../../manufacturing/management/alternative_wc.rst:56
@@ -86,23 +87,22 @@ msgstr ""
 
 #: ../../manufacturing/management/alternative_wc.rst:58
 msgid ""
-"Now that everything is configured, you can create your *Work Orders*. Go "
-"to the *Manufacturing Orders* menu and hit *Create*. There, add your "
-"product and plan it. In the *Work Orders* list, you can find it ready to "
-"be assembled."
+"Now that everything is configured, you can create your *Work Orders*. Go to the "
+"*Manufacturing Orders* menu and hit *Create*. There, add your product and plan "
+"it. In the *Work Orders* list, you can find it ready to be assembled."
 msgstr ""
 
 #: ../../manufacturing/management/alternative_wc.rst:68
 msgid ""
-"Each new *Work Order*, which will be created before the end of the first "
-"one, will be scheduled at the alternative work center you configured."
+"Each new *Work Order*, which will be created before the end of the first one, "
+"will be scheduled at the alternative work center you configured."
 msgstr ""
 
 #: ../../manufacturing/management/alternative_wc.rst:78
 msgid ""
-"Keep in mind that, if you add time after production to your work center, "
-"you may have work orders scheduled for your alternative work center even "
-"if the usual one is free."
+"Keep in mind that, if you add time after production to your work center, you "
+"may have work orders scheduled for your alternative work center even if the "
+"usual one is free."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:3
@@ -111,22 +111,22 @@ msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:5
 msgid ""
-"A *Bill of Materials* is a document defining the quantity of each "
-"component required to manufacture a finished product. It also includes "
-"the routing and individual steps of the manufacturing process."
+"A *Bill of Materials* is a document defining the quantity of each component "
+"required to manufacture a finished product. It also includes the routing and "
+"individual steps of the manufacturing process."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:9
 msgid ""
-"With Odoo, you can link multiple BoMs to each product and use it to "
-"describe multiple variants of them. Each BoM will, yet, be associated "
-"with one product only."
+"With Odoo, you can link multiple BoMs to each product and use it to describe "
+"multiple variants of them. Each BoM will, yet, be associated with one product "
+"only."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:13
 msgid ""
-"This feature will help optimize your manufacturing process while saving "
-"you time."
+"This feature will help optimize your manufacturing process while saving you "
+"time."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:17
@@ -135,26 +135,25 @@ msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:19
 msgid ""
-"You can use BoMs without routings. You will use this if you choose to "
-"manage your manufacturing operations using manufacturing orders only. In "
-"other words, you choose to realize your manufacturing process in one step"
-" and do not track the steps the product goes through."
+"You can use BoMs without routings. You will use this if you choose to manage "
+"your manufacturing operations using manufacturing orders only. In other words, "
+"you choose to realize your manufacturing process in one step and do not track "
+"the steps the product goes through."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:24
 msgid ""
-"Before creating your *BoM*, you have to create the product using the "
-"*BoM* and, at least, one of the components. Go to the "
-":menuselection:`Master Data menu --> Products` and create both the "
-"finished product and the component."
+"Before creating your *BoM*, you have to create the product using the *BoM* and, "
+"at least, one of the components. Go to the :menuselection:`Master Data menu --> "
+"Products` and create both the finished product and the component."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:28
 msgid ""
-"Once done, go to the *Bills of Materials* menu under *Master Data*. Now, "
-"create it. Choose the product from the dropdown menu and add your "
-"components and the quantity. In this case, keep the default *BoM* type, "
-"which is *Manufacture this Product*."
+"Once done, go to the *Bills of Materials* menu under *Master Data*. Now, create "
+"it. Choose the product from the dropdown menu and add your components and the "
+"quantity. In this case, keep the default *BoM* type, which is *Manufacture this "
+"Product*."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:37
@@ -163,15 +162,15 @@ msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:39
 msgid ""
-"As said above, you can use *BoM* for *Product Variants*. It is basically "
-"the same as for the standard product."
+"As said above, you can use *BoM* for *Product Variants*. It is basically the "
+"same as for the standard product."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:42
 msgid ""
-"If your *BoM* is for one variant only, then specify which one in the "
-"*Product Variant* field. If not, specify the variant it is consumed for "
-"on each component line. You can add several variants for each component."
+"If your *BoM* is for one variant only, then specify which one in the *Product "
+"Variant* field. If not, specify the variant it is consumed for on each "
+"component line. You can add several variants for each component."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:51
@@ -180,22 +179,22 @@ msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:53
 msgid ""
-"You can add routing to your *BoM*. You will do this if you need to define"
-" a series of operations required by your manufacturing process. To use "
-"it, enable the *Work Orders* feature in the *Manufacturing* app settings."
+"You can add routing to your *BoM*. You will do this if you need to define a "
+"series of operations required by your manufacturing process. To use it, enable "
+"the *Work Orders* feature in the *Manufacturing* app settings."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:62
 msgid ""
-"Each *BoM* can have only one routing while each routing can be used "
-"multiple times."
+"Each *BoM* can have only one routing while each routing can be used multiple "
+"times."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:65
 msgid ""
-"Now that you have created your routing, add it to your *BoM*. You can "
-"select when, in the work operations, your components are consumed with "
-"the dropdown menu."
+"Now that you have created your routing, add it to your *BoM*. You can select "
+"when, in the work operations, your components are consumed with the dropdown "
+"menu."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:73
@@ -204,22 +203,21 @@ msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:75
 msgid ""
-"In Odoo, a *by-product* is any product produced by a *BoM* in addition to"
-" the primary product."
+"In Odoo, a *by-product* is any product produced by a *BoM* in addition to the "
+"primary product."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:78
 msgid ""
-"To add *by-products* to a *BoM*, you will first need to enable them from "
-"the *Manufacturing* app settings."
+"To add *by-products* to a *BoM*, you will first need to enable them from the "
+"*Manufacturing* app settings."
 msgstr ""
 
 #: ../../manufacturing/management/bill_configuration.rst:84
 msgid ""
-"Once the feature is enabled, you can add your *By-Products* to your "
-"*BoMs*. You can add as many *By-Products* as you want. Just keep in mind "
-"that you need to register during which operation your by-product is "
-"produced."
+"Once the feature is enabled, you can add your *By-Products* to your *BoMs*. You "
+"can add as many *By-Products* as you want. Just keep in mind that you need to "
+"register during which operation your by-product is produced."
 msgstr ""
 
 #: ../../manufacturing/management/flexible_components_consumption.rst:3
@@ -228,18 +226,18 @@ msgstr ""
 
 #: ../../manufacturing/management/flexible_components_consumption.rst:5
 msgid ""
-"Sometimes, you might need more components than usual to manufacture a "
-"product. Let’s say that you produce a desk combination of 4 desks and two"
-" chairs but your customer asks you one more desk. Alright, you can do "
-"that. But you will need to register it!"
+"Sometimes, you might need more components than usual to manufacture a product. "
+"Let’s say that you produce a desk combination of 4 desks and two chairs but "
+"your customer asks you one more desk. Alright, you can do that. But you will "
+"need to register it!"
 msgstr ""
 
 #: ../../manufacturing/management/flexible_components_consumption.rst:10
 msgid ""
-"In case this happens, Odoo has the *flexible components consumption* "
-"feature available. If you enable it, you will be able to consume as many "
-"components as needed and it will make you save time in the registration "
-"of your items consumption."
+"In case this happens, Odoo has the *flexible components consumption* feature "
+"available. If you enable it, you will be able to consume as many components as "
+"needed and it will make you save time in the registration of your items "
+"consumption."
 msgstr ""
 
 #: ../../manufacturing/management/flexible_components_consumption.rst:16
@@ -252,44 +250,43 @@ msgstr ""
 
 #: ../../manufacturing/management/flexible_components_consumption.rst:18
 msgid ""
-"Using flexible component consumption is easy and can be done in a few "
-"steps. All you need is a *BoM* and a *Quality Control Point*. Therefore, "
-"you will need to activate the feature *Quality* in the *MRP* app "
-"settings."
+"Using flexible component consumption is easy and can be done in a few steps. "
+"All you need is a *BoM* and a *Quality Control Point*. Therefore, you will need "
+"to activate the feature *Quality* in the *MRP* app settings."
 msgstr ""
 
 #: ../../manufacturing/management/flexible_components_consumption.rst:23
 msgid ""
-"First, open the *BoM* you want to use for flexible component consumption "
-"and edit it. In the *Miscellaneous* tab, choose *Flexible* as the "
-"consumption type. Then, save."
+"First, open the *BoM* you want to use for flexible component consumption and "
+"edit it. In the *Miscellaneous* tab, choose *Flexible* as the consumption type. "
+"Then, save."
 msgstr ""
 
 #: ../../manufacturing/management/flexible_components_consumption.rst:30
 msgid ""
 "Now, in the *Quality* app, open the *Control Point* menu, under *Quality "
-"Control* and create a new *Quality Control Point*. Choose your product, "
-"your operation and work order operation. Then, choose *Register Consumed "
-"Materials* as type."
+"Control* and create a new *Quality Control Point*. Choose your product, your "
+"operation and work order operation. Then, choose *Register Consumed Materials* "
+"as type."
 msgstr ""
 
 #: ../../manufacturing/management/flexible_components_consumption.rst:38
 msgid ""
-"Next, go back to your *Manufacturing* app and create a *Manufacturing "
-"order*. Choose the product for which you have created the flexible *BoM*."
+"Next, go back to your *Manufacturing* app and create a *Manufacturing order*. "
+"Choose the product for which you have created the flexible *BoM*."
 msgstr ""
 
 #: ../../manufacturing/management/flexible_components_consumption.rst:42
 msgid ""
-"Then, confirm it and launch the process step. While processing, you will "
-"have the possibility to consume more components than expected in the "
-"*BoM*. To do so, click on *Continue Consumption*."
+"Then, confirm it and launch the process step. While processing, you will have "
+"the possibility to consume more components than expected in the *BoM*. To do "
+"so, click on *Continue Consumption*."
 msgstr ""
 
 #: ../../manufacturing/management/flexible_components_consumption.rst:49
 msgid ""
-"When the job is over, you will find a summary of your component "
-"consumption in the *Finished Steps* tab of your work order."
+"When the job is over, you will find a summary of your component consumption in "
+"the *Finished Steps* tab of your work order."
 msgstr ""
 
 #: ../../manufacturing/management/kit_shipping.rst:3
@@ -298,11 +295,11 @@ msgstr ""
 
 #: ../../manufacturing/management/kit_shipping.rst:5
 msgid ""
-"A *kit* is a set of components that are delivered without first being "
-"assembled or mixed. *Kits* are described in Odoo using *Bills of "
-"Materials*. There are two basic ways to configure *kits*, depending on "
-"how the stock of the kit product is to be managed. In either case, both "
-"the *Inventory* and *Manufacturing* apps must be installed."
+"A *kit* is a set of components that are delivered without first being assembled "
+"or mixed. *Kits* are described in Odoo using *Bills of Materials*. There are "
+"two basic ways to configure *kits*, depending on how the stock of the kit "
+"product is to be managed. In either case, both the *Inventory* and "
+"*Manufacturing* apps must be installed."
 msgstr ""
 
 #: ../../manufacturing/management/kit_shipping.rst:12
@@ -311,43 +308,41 @@ msgstr ""
 
 #: ../../manufacturing/management/kit_shipping.rst:14
 msgid ""
-"If you want to assemble kits as they are ordered, managing stock of the "
-"kit components only, you will use a *Kit BoM* without a manufacturing "
-"step."
+"If you want to assemble kits as they are ordered, managing stock of the kit "
+"components only, you will use a *Kit BoM* without a manufacturing step."
 msgstr ""
 
 #: ../../manufacturing/management/kit_shipping.rst:18
 msgid ""
-"A product using a *Kit BoM* will appear as a single line item on a "
-"quotation and sales order, but will generate a delivery order with one "
-"line item for each of the components of the kit. In the examples below, "
-"the first image shows a sales order for the kit *Custom Computer Kit*, "
-"while the second image shows the corresponding delivery order."
+"A product using a *Kit BoM* will appear as a single line item on a quotation "
+"and sales order, but will generate a delivery order with one line item for each "
+"of the components of the kit. In the examples below, the first image shows a "
+"sales order for the kit *Custom Computer Kit*, while the second image shows the "
+"corresponding delivery order."
 msgstr ""
 
 #: ../../manufacturing/management/kit_shipping.rst:33
 msgid ""
-"From the *Products menu* in either the *Inventory* or *Manufacturing* "
-"app, create each component product as you would with any other product, "
-"then create the top-level, or kit product. The kit product should have "
-"only the *route Manufacture* set, in the *Inventory tab*. Because you "
-"cannot track the stock of kit products, the *Product Type* should be set "
-"to Consumable. Because a kit product cannot be purchased, then, *Can be "
-"Purchased* should be unchecked."
+"From the *Products menu* in either the *Inventory* or *Manufacturing* app, "
+"create each component product as you would with any other product, then create "
+"the top-level, or kit product. The kit product should have only the *route "
+"Manufacture* set, in the *Inventory tab*. Because you cannot track the stock of "
+"kit products, the *Product Type* should be set to Consumable. Because a kit "
+"product cannot be purchased, then, *Can be Purchased* should be unchecked."
 msgstr ""
 
 #: ../../manufacturing/management/kit_shipping.rst:41
 msgid ""
-"All other parameters on the kit product may be modified according to your"
-" preference. The component products require no particular configuration."
+"All other parameters on the kit product may be modified according to your "
+"preference. The component products require no particular configuration."
 msgstr ""
 
 #: ../../manufacturing/management/kit_shipping.rst:48
 msgid ""
-"Once the products are configured, create a *bill of materials* for the "
-"kit product. Add each component and its quantity. Select the *BoM Type "
-"Ship this product as a set of components*. All other options may be left "
-"with their default values."
+"Once the products are configured, create a *bill of materials* for the kit "
+"product. Add each component and its quantity. Select the *BoM Type Ship this "
+"product as a set of components*. All other options may be left with their "
+"default values."
 msgstr ""
 
 #: ../../manufacturing/management/kit_shipping.rst:57
@@ -356,26 +351,26 @@ msgstr ""
 
 #: ../../manufacturing/management/kit_shipping.rst:59
 msgid ""
-"If you want to manage stock of the *top-level kit product*, you will use "
-"a standard *BoM* with a manufacturing step instead of a *Kit BoM*. When "
-"using a standard BoM to assemble kits, a *manufacturing order* will be "
-"created. The *manufacturing order* must be registered as completed before"
-" the kit product will appear in your stock."
+"If you want to manage stock of the *top-level kit product*, you will use a "
+"standard *BoM* with a manufacturing step instead of a *Kit BoM*. When using a "
+"standard BoM to assemble kits, a *manufacturing order* will be created. The "
+"*manufacturing order* must be registered as completed before the kit product "
+"will appear in your stock."
 msgstr ""
 
 #: ../../manufacturing/management/kit_shipping.rst:68
 msgid ""
-"On the kit product, select the *route Manufacture*. You may also select "
-"*Make to Order*, which will create a *manufacturing order* whenever a "
-"sales order is confirmed. Select the product type *Storable Product* to "
-"enable stock management."
+"On the kit product, select the *route Manufacture*. You may also select *Make "
+"to Order*, which will create a *manufacturing order* whenever a sales order is "
+"confirmed. Select the product type *Storable Product* to enable stock "
+"management."
 msgstr ""
 
 #: ../../manufacturing/management/kit_shipping.rst:76
 msgid ""
-"When you create the *bill of materials*, select the BoM Type *Manufacture"
-" this product*. The assembly of the kit will be described by a "
-"*manufacturing order* rather than a packing operation."
+"When you create the *bill of materials*, select the BoM Type *Manufacture this "
+"product*. The assembly of the kit will be described by a *manufacturing order* "
+"rather than a packing operation."
 msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:3
@@ -384,31 +379,31 @@ msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:5
 msgid ""
-"In Odoo, you can manage your manufacturing process in two different ways."
-" You can work with one document, or decide to have more information and "
-"control over it."
+"In Odoo, you can manage your manufacturing process in two different ways. You "
+"can work with one document, or decide to have more information and control over "
+"it."
 msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:9
 msgid ""
-"In the first case, Odoo makes things easier and helps you manage work "
-"with one document only: the manufacturing order. No complex steps during "
-"the process, you just have to schedule the job and record the production."
+"In the first case, Odoo makes things easier and helps you manage work with one "
+"document only: the manufacturing order. No complex steps during the process, "
+"you just have to schedule the job and record the production."
 msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:14
 msgid ""
-"But, if you need more control, you can use additional documents (steps) "
-"to your manufacturing process. This way, *Manufacturing Orders* are "
-"divided into one or more steps defined by *Work Orders* and performed in "
-"a sequence defined by *routings*."
+"But, if you need more control, you can use additional documents (steps) to your "
+"manufacturing process. This way, *Manufacturing Orders* are divided into one or "
+"more steps defined by *Work Orders* and performed in a sequence defined by "
+"*routings*."
 msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:19
 msgid ""
 "Using Odoo will allow you to precisely schedule the job, analyze your "
-"efficiency but also have ease when realizing each step of your "
-"manufacturing process."
+"efficiency but also have ease when realizing each step of your manufacturing "
+"process."
 msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:24
@@ -417,14 +412,14 @@ msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:26
 msgid ""
-"If your manufacturing process is limited to one place, one person and one"
-" step, you will probably use manufacturing orders without routings."
+"If your manufacturing process is limited to one place, one person and one step, "
+"you will probably use manufacturing orders without routings."
 msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:29
 msgid ""
-"In Odoo, it is the default behavior. If work this way, there are two "
-"basic phases from planning to production:"
+"In Odoo, it is the default behavior. If work this way, there are two basic "
+"phases from planning to production:"
 msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:32
@@ -441,22 +436,22 @@ msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:39
 msgid ""
-"To use *Work Centers* and *Routings*, you will need to enable the *Work "
-"Orders* feature. To do so, go to the *Manufacturing* app settings."
+"To use *Work Centers* and *Routings*, you will need to enable the *Work Orders* "
+"feature. To do so, go to the *Manufacturing* app settings."
 msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:46
 msgid ""
-"Now, you can add routings to *BoMs* and configure your operations taking "
-"place at different *work centers*. The *Work Centers* are the locations "
-"at which work orders are performed."
+"Now, you can add routings to *BoMs* and configure your operations taking place "
+"at different *work centers*. The *Work Centers* are the locations at which work "
+"orders are performed."
 msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:53
 msgid ""
-"When manufacturing this way, each *Work Order* is scheduled individually."
-" You will also have access to time and capacity planning, as well as "
-"reports on costing and efficiency for each *Work Center*."
+"When manufacturing this way, each *Work Order* is scheduled individually. You "
+"will also have access to time and capacity planning, as well as reports on "
+"costing and efficiency for each *Work Center*."
 msgstr ""
 
 #: ../../manufacturing/management/manufacturing_order.rst:60
@@ -481,19 +476,19 @@ msgstr ""
 
 #: ../../manufacturing/management/plan_work_orders.rst:5
 msgid ""
-"In some cases, companies need to schedule their work orders. Doing so, "
-"they can organize the work for the whole day and be sure everything goes "
-"well. It helps to avoid scheduling multiple work orders at the same time "
-"when you don’t have the capacity to do so."
+"In some cases, companies need to schedule their work orders. Doing so, they can "
+"organize the work for the whole day and be sure everything goes well. It helps "
+"to avoid scheduling multiple work orders at the same time when you don’t have "
+"the capacity to do so."
 msgstr ""
 
 #: ../../manufacturing/management/plan_work_orders.rst:10
 msgid ""
 "With Odoo, companies can schedule the planned start date for their "
-"manufacturing orders. No possible duplication, no potential issues with "
-"the planning. And, if you plan two work orders at the same work center, "
-"at the same hour, the second one will be scheduled right after the first "
-"one, avoiding work superposition."
+"manufacturing orders. No possible duplication, no potential issues with the "
+"planning. And, if you plan two work orders at the same work center, at the same "
+"hour, the second one will be scheduled right after the first one, avoiding work "
+"superposition."
 msgstr ""
 
 #: ../../manufacturing/management/plan_work_orders.rst:17
@@ -502,8 +497,8 @@ msgstr ""
 
 #: ../../manufacturing/management/plan_work_orders.rst:19
 msgid ""
-"The first thing you need to do is to open the *Manufacturing* app. Then, "
-"Go to the settings and enable the *Work Orders* feature."
+"The first thing you need to do is to open the *Manufacturing* app. Then, Go to "
+"the settings and enable the *Work Orders* feature."
 msgstr ""
 
 #: ../../manufacturing/management/plan_work_orders.rst:25
@@ -514,29 +509,28 @@ msgstr ""
 
 #: ../../manufacturing/management/plan_work_orders.rst:32
 msgid ""
-"The “Deadline Start” field is informative. It shows you until when you "
-"can launch the manufacturing order to fulfill the initial demand."
+"The “Deadline Start” field is informative. It shows you until when you can "
+"launch the manufacturing order to fulfill the initial demand."
 msgstr ""
 
 #: ../../manufacturing/management/plan_work_orders.rst:35
 msgid ""
-"Mark your *Manufacturing Order* as todo and plan it. By going to the "
-"*Planning* menu, you can access to the scheduled orders. Here is the one "
-"we just created:"
+"Mark your *Manufacturing Order* as todo and plan it. By going to the *Planning* "
+"menu, you can access to the scheduled orders. Here is the one we just created:"
 msgstr ""
 
 #: ../../manufacturing/management/plan_work_orders.rst:43
 msgid ""
-"If you plan two work orders at the same hour, the second one will be "
-"scheduled after the first one if the jobs need to be done at the same "
-"work center. The start date will, then, be automatically updated "
-"considering the first free slot on the work center."
+"If you plan two work orders at the same hour, the second one will be scheduled "
+"after the first one if the jobs need to be done at the same work center. The "
+"start date will, then, be automatically updated considering the first free slot "
+"on the work center."
 msgstr ""
 
 #: ../../manufacturing/management/plan_work_orders.rst:48
 msgid ""
-"If you overrun the planned date and begin the job later, you will have a "
-"track of it in the *Time Tracking* tab of your work order."
+"If you overrun the planned date and begin the job later, you will have a track "
+"of it in the *Time Tracking* tab of your work order."
 msgstr ""
 
 #: ../../manufacturing/management/product_variants.rst:3
@@ -545,24 +539,23 @@ msgstr ""
 
 #: ../../manufacturing/management/product_variants.rst:5
 msgid ""
-"Odoo allows you to use one bill of materials for multiple variants of the"
-" same product. Simply enable variants from :menuselection:`Configuration "
-"--> Settings`."
+"Odoo allows you to use one bill of materials for multiple variants of the same "
+"product. Simply enable variants from :menuselection:`Configuration --> "
+"Settings`."
 msgstr ""
 
 #: ../../manufacturing/management/product_variants.rst:12
 msgid ""
-"You will then be able to specify which component lines are to be used in "
-"the manufacture of each product variant. You may specify multiple "
-"variants for each line. If no variant is specified, the line will be used"
-" for all variants."
+"You will then be able to specify which component lines are to be used in the "
+"manufacture of each product variant. You may specify multiple variants for each "
+"line. If no variant is specified, the line will be used for all variants."
 msgstr ""
 
 #: ../../manufacturing/management/product_variants.rst:17
 msgid ""
-"When defining variant BoMs on a line-item-basis, the **Product Variant** "
-"field in the main section of the BoM should be left blank. This field is "
-"used when creating a BoM for one variant of a product only."
+"When defining variant BoMs on a line-item-basis, the **Product Variant** field "
+"in the main section of the BoM should be left blank. This field is used when "
+"creating a BoM for one variant of a product only."
 msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:3
@@ -571,11 +564,10 @@ msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:5
 msgid ""
-"It often happens that you want to use kit BoM’s within manufactured "
-"product BoM’s in order to lighten the list of components for this "
-"manufactured product. When doing so, you would like to have the "
-"possibility to specify, for each kit component, in which operation they "
-"are consumed."
+"It often happens that you want to use kit BoM’s within manufactured product "
+"BoM’s in order to lighten the list of components for this manufactured product. "
+"When doing so, you would like to have the possibility to specify, for each kit "
+"component, in which operation they are consumed."
 msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:11
@@ -609,14 +601,14 @@ msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:30
 msgid ""
-"Update the kit component to define its BoM. Make sure that the routing "
-"which is set on this BoM is the same one than on the Finished Product."
+"Update the kit component to define its BoM. Make sure that the routing which is "
+"set on this BoM is the same one than on the Finished Product."
 msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:36
 msgid ""
-"You can define the operations in which the kit components are used "
-"directly in the BoM of the kit."
+"You can define the operations in which the kit components are used directly in "
+"the BoM of the kit."
 msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:40
@@ -627,10 +619,9 @@ msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:42
 msgid ""
-"In the list of components, the kit is split. Two work orders are created "
-"as we have two operations defined in the *Assemble Furniture* routing. "
-"The components of the kits are well consumed in the operations defined in"
-" the kit BoM."
+"In the list of components, the kit is split. Two work orders are created as we "
+"have two operations defined in the *Assemble Furniture* routing. The components "
+"of the kits are well consumed in the operations defined in the kit BoM."
 msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:57
@@ -643,20 +634,19 @@ msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:75
 msgid ""
-"Update the kit component to define its BoM. In this use case, the routing"
-" which is set on this Kit BoM is different than the one of the Finished "
-"Product. Specify the operations at which the kit components are consumed "
-"in this BoM."
+"Update the kit component to define its BoM. In this use case, the routing which "
+"is set on this Kit BoM is different than the one of the Finished Product. "
+"Specify the operations at which the kit components are consumed in this BoM."
 msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:86
 #: ../../manufacturing/management/routing_kit_bom.rst:129
 msgid ""
-"When the manufacturing order is created for the Manufactured product, the"
-" kit is split among its components. When the manufacturing order is "
-"planned, three work orders are created in our case, one coming from the "
-"routing of the manufactured products, the two other ones coming from the "
-"routing of the kit BoM."
+"When the manufacturing order is created for the Manufactured product, the kit "
+"is split among its components. When the manufacturing order is planned, three "
+"work orders are created in our case, one coming from the routing of the "
+"manufactured products, the two other ones coming from the routing of the kit "
+"BoM."
 msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:95
@@ -676,15 +666,14 @@ msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:119
 msgid ""
-"Update the kit component to define its BoM. In this use case, the routing"
-" which is set on this Kit BoM is different than the one of the Finished "
-"Product."
+"Update the kit component to define its BoM. In this use case, the routing which "
+"is set on this Kit BoM is different than the one of the Finished Product."
 msgstr ""
 
 #: ../../manufacturing/management/routing_kit_bom.rst:138
 msgid ""
-"All the components of the kits are consumed during the first operation. "
-"The last component is consumed during the second operation."
+"All the components of the kits are consumed during the first operation. The "
+"last component is consumed during the second operation."
 msgstr ""
 
 #: ../../manufacturing/management/sub_assemblies.rst:3
@@ -695,17 +684,16 @@ msgstr ""
 msgid ""
 "In Odoo, you can use subassembly products to simplify a complex *Bill of "
 "Materials* or to represent your manufacturing flow more accurately. A "
-"*subassembly product* is a manufactured product that is used as a "
-"component to make another one."
+"*subassembly product* is a manufactured product that is used as a component to "
+"make another one."
 msgstr ""
 
 #: ../../manufacturing/management/sub_assemblies.rst:10
 msgid ""
-"A *BoM* that employs *subassemblies* is referred to as a multi-level BoM."
-" Those are accomplished by creating a *top-level BoM* and *subassembly "
-"ones*. This process requires a route that will ensure that every time a "
-"manufacturing order for the top-level product is created, another one "
-"will be for subassemblies."
+"A *BoM* that employs *subassemblies* is referred to as a multi-level BoM. Those "
+"are accomplished by creating a *top-level BoM* and *subassembly ones*. This "
+"process requires a route that will ensure that every time a manufacturing order "
+"for the top-level product is created, another one will be for subassemblies."
 msgstr ""
 
 #: ../../manufacturing/management/sub_assemblies.rst:17
@@ -714,17 +702,16 @@ msgstr ""
 
 #: ../../manufacturing/management/sub_assemblies.rst:19
 msgid ""
-"To configure a *multi-level BoM*, you will need a top-level product but "
-"also its subassemblies. The first step is to create a product form for "
-"each of the subassemblies. Select the routes *Manufacture* and *Replenish"
-" on Order*. Now, hit save."
+"To configure a *multi-level BoM*, you will need a top-level product but also "
+"its subassemblies. The first step is to create a product form for each of the "
+"subassemblies. Select the routes *Manufacture* and *Replenish on Order*. Now, "
+"hit save."
 msgstr ""
 
 #: ../../manufacturing/management/sub_assemblies.rst:27
 msgid ""
-"In the *Bill of Materials* menu, under *Master Data*, create a new *Bill "
-"of Materials*. Choose the product you just created and add its "
-"components."
+"In the *Bill of Materials* menu, under *Master Data*, create a new *Bill of "
+"Materials*. Choose the product you just created and add its components."
 msgstr ""
 
 #: ../../manufacturing/management/sub_assemblies.rst:35
@@ -739,10 +726,10 @@ msgstr ""
 
 #: ../../manufacturing/management/sub_assemblies.rst:43
 msgid ""
-"Now, each time you will plan a manufacturing order for the top-level "
-"product, a manufacturing order will be created for the subassembly one. "
-"Then, you will have to manufacture the subassembly in order to make it "
-"available before manufacturing the finished product."
+"Now, each time you will plan a manufacturing order for the top-level product, a "
+"manufacturing order will be created for the subassembly one. Then, you will "
+"have to manufacture the subassembly in order to make it available before "
+"manufacturing the finished product."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:3
@@ -751,8 +738,8 @@ msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:5
 msgid ""
-"Outsourcing a portion of some or all your company’s manufacturing needs "
-"is not easy. To make it work right, you have to:"
+"Outsourcing a portion of some or all your company’s manufacturing needs is not "
+"easy. To make it work right, you have to:"
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:8
@@ -787,29 +774,29 @@ msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:28
 msgid ""
-"To use the subcontracting feature, go to :menuselection:`Manufacturing "
-"--> Configuration --> Settings` and tick the box *Subcontracting*."
+"To use the subcontracting feature, go to :menuselection:`Manufacturing --> "
+"Configuration --> Settings` and tick the box *Subcontracting*."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:35
 msgid ""
-"To define if a product must be subcontracted, use a *Bill of Materials "
-"(BoM)* of type *Subcontracting*."
+"To define if a product must be subcontracted, use a *Bill of Materials (BoM)* "
+"of type *Subcontracting*."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:38
 msgid ""
-"To create a new *BoM*, go to :menuselection:`Manufacturing --> Master "
-"Data --> Bill of Materials` and hit create. Then, list the components "
-"your subcontractor needs to manufacture the product. For costing "
-"purposes, you might want to register all the components, even the ones "
-"that are sourced directly from the subcontractor."
+"To create a new *BoM*, go to :menuselection:`Manufacturing --> Master Data --> "
+"Bill of Materials` and hit create. Then, list the components your subcontractor "
+"needs to manufacture the product. For costing purposes, you might want to "
+"register all the components, even the ones that are sourced directly from the "
+"subcontractor."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:44
 msgid ""
-"Once you have set the *BoM Type* to *Subcontracting*, specify one or "
-"several subcontractors."
+"Once you have set the *BoM Type* to *Subcontracting*, specify one or several "
+"subcontractors."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:52
@@ -818,23 +805,22 @@ msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:54
 msgid ""
-"To let your subcontractor know how many products you need, create and "
-"send them purchase orders (PO). To do so, open the *Purchase* app and "
-"create a new one. Be sure to send the PO to a vendor that is defined as a"
-" subcontractor on the *BoM*."
+"To let your subcontractor know how many products you need, create and send them "
+"purchase orders (PO). To do so, open the *Purchase* app and create a new one. "
+"Be sure to send the PO to a vendor that is defined as a subcontractor on the "
+"*BoM*."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:63
 msgid ""
-"Once the *PO* is validated (1), a pending receipt is created. When the "
-"products are received, validate the receipt (2), with the actual quantity"
-" received. Then Odoo automatically created several inventory moves:"
+"Once the *PO* is validated (1), a pending receipt is created. When the products "
+"are received, validate the receipt (2), with the actual quantity received. Then "
+"Odoo automatically created several inventory moves:"
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:68
 msgid ""
-"Consume the components at the subcontractor’s location, based on the "
-"*BoM* (3);"
+"Consume the components at the subcontractor’s location, based on the *BoM* (3);"
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:70
@@ -843,23 +829,21 @@ msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:71
 msgid ""
-"Move products from the subcontractor’s location to YourCompany through "
-"the validated receipt (5)."
+"Move products from the subcontractor’s location to YourCompany through the "
+"validated receipt (5)."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:74
 msgid ""
 "Of course, Odoo does all the transactions for you, automatically. Simply "
-"control the vendor bill with the usual matching process with the purchase"
-" order."
+"control the vendor bill with the usual matching process with the purchase order."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:79
 msgid ""
 "The *PO* is optional. If you create a receipt manually, with the right "
-"subcontractor, Odoo still performs all the moves. Useful if the "
-"subcontractor does not bill a fixed price per item, but rather the time "
-"and materials used."
+"subcontractor, Odoo still performs all the moves. Useful if the subcontractor "
+"does not bill a fixed price per item, but rather the time and materials used."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:85
@@ -897,31 +881,29 @@ msgstr ""
 #: ../../manufacturing/management/subcontracting.rst:100
 msgid ""
 "Sending raw materials to your subcontractors (**A**) does not impact the "
-"inventory valuation, the components still belonging to your company. To "
-"manage this, the *Subcontracting Location* is configured as an *Internal "
-"Location* so that the components are still valued in the inventory."
+"inventory valuation, the components still belonging to your company. To manage "
+"this, the *Subcontracting Location* is configured as an *Internal Location* so "
+"that the components are still valued in the inventory."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:106
 msgid ""
-"Then, the vendor price set on the product C form has to be what has to be"
-" paid to the subcontractor for his parts and service time: **B + s**. The"
-" product cost has to be: **A + B + s**, how much the product is valued in"
-" the accounting."
+"Then, the vendor price set on the product C form has to be what has to be paid "
+"to the subcontractor for his parts and service time: **B + s**. The product "
+"cost has to be: **A + B + s**, how much the product is valued in the accounting."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:111
 msgid ""
-"Finally, the subcontractor bill matches the purchase order, with the "
-"proposed price coming from the finished products C."
+"Finally, the subcontractor bill matches the purchase order, with the proposed "
+"price coming from the finished products C."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:115
 msgid ""
-"If managing the replenishment of raw materials **B** at your "
-"subcontractor’s location is not needed, simply include the cost of **B** "
-"in the subcontractor’s price **s** and remove the products *B* from the "
-"*BoM*."
+"If managing the replenishment of raw materials **B** at your subcontractor’s "
+"location is not needed, simply include the cost of **B** in the subcontractor’s "
+"price **s** and remove the products *B* from the *BoM*."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:121
@@ -931,22 +913,21 @@ msgstr ""
 #: ../../manufacturing/management/subcontracting.rst:123
 msgid ""
 "In case the products received from the subcontractor contain tracked "
-"components, their serial or lot numbers need to be specified during the "
-"receipt."
+"components, their serial or lot numbers need to be specified during the receipt."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:127
 msgid ""
-"On the receipt of the subcontracted product, a *Record Components* button"
-" appears when necessary. Click on it to open a dialog and record the "
-"serial/lot numbers of the components. If the finished product is also "
-"tracked, its serial/lot number can be registered here too."
+"On the receipt of the subcontracted product, a *Record Components* button "
+"appears when necessary. Click on it to open a dialog and record the serial/lot "
+"numbers of the components. If the finished product is also tracked, its serial/"
+"lot number can be registered here too."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:136
 msgid ""
-"For audit purposes, it is possible to check the lot numbers recorded on a"
-" receipt by using the icon on the right of the finished products:"
+"For audit purposes, it is possible to check the lot numbers recorded on a "
+"receipt by using the icon on the right of the finished products:"
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:144
@@ -955,16 +936,15 @@ msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:146
 msgid ""
-"To manage the resupply of your subcontractor, activate *Multi-locations* "
-"in :menuselection:`Inventory --> Configuration --> Configuration`. Then, "
-"the inventory at the subcontractor location can be tracked."
+"To manage the resupply of your subcontractor, activate *Multi-locations* in :"
+"menuselection:`Inventory --> Configuration --> Configuration`. Then, the "
+"inventory at the subcontractor location can be tracked."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:151
 msgid ""
-"It is possible to resupply subcontractors by sending products from the "
-"company locations, or by sending products from another supplier to the "
-"subcontractors."
+"It is possible to resupply subcontractors by sending products from the company "
+"locations, or by sending products from another supplier to the subcontractors."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:156
@@ -973,15 +953,15 @@ msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:158
 msgid ""
-"Resupplying subcontractors manually is the simplest approach. To do so, "
-"create delivery orders in which the subcontractor is set as a delivery "
-"address and fill the components to deliver."
+"Resupplying subcontractors manually is the simplest approach. To do so, create "
+"delivery orders in which the subcontractor is set as a delivery address and "
+"fill the components to deliver."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:162
 msgid ""
-"To automate the subcontractors’ replenishment propositions, there are two"
-" approaches:"
+"To automate the subcontractors’ replenishment propositions, there are two "
+"approaches:"
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:165
@@ -995,18 +975,17 @@ msgstr ""
 #: ../../manufacturing/management/subcontracting.rst:168
 msgid ""
 "For the first one, just define a reordering rule on the subcontracting "
-"location, with a minimum and maximum inventory level. When the reordering"
-" rule is triggered, a delivery order is created to ship the components to"
-" the subcontractor."
+"location, with a minimum and maximum inventory level. When the reordering rule "
+"is triggered, a delivery order is created to ship the components to the "
+"subcontractor."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:177
 msgid ""
-"The second approach is to use a “pull” flow. Here, the demand in the "
-"finished product (real demand or forecasted one through the Master "
-"Production Schedule) triggers the replenishment of the subcontractor. To "
-"do so, select the route *Resupply Subcontractor on Order* on the wanted "
-"components."
+"The second approach is to use a “pull” flow. Here, the demand in the finished "
+"product (real demand or forecasted one through the Master Production Schedule) "
+"triggers the replenishment of the subcontractor. To do so, select the route "
+"*Resupply Subcontractor on Order* on the wanted components."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:188
@@ -1015,10 +994,9 @@ msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:190
 msgid ""
-"When purchasing items to another supplier, it is possible to ask him to "
-"deliver the subcontractor directly. To do so, activate the *Drop "
-"Shipping* feature in :menuselection:`Purchase --> Configuration --> "
-"Configuration`."
+"When purchasing items to another supplier, it is possible to ask him to deliver "
+"the subcontractor directly. To do so, activate the *Drop Shipping* feature in :"
+"menuselection:`Purchase --> Configuration --> Configuration`."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:195
@@ -1030,9 +1008,9 @@ msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:203
 msgid ""
-"That way, the supplier can ship items directly and you simply receive and"
-" pay the bill. However, it is still required to validate receipts for the"
-" subcontractor."
+"That way, the supplier can ship items directly and you simply receive and pay "
+"the bill. However, it is still required to validate receipts for the "
+"subcontractor."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:212
@@ -1041,22 +1019,22 @@ msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:214
 msgid ""
-"Controlling the quality of the products manufactured by subcontractors is"
-" possible thanks to the Odoo Quality app. Quality checks can be made on a"
-" manufacturing step but, because the manufacturing process is handled by "
-"an external party, it can be defined on the product reception."
+"Controlling the quality of the products manufactured by subcontractors is "
+"possible thanks to the Odoo Quality app. Quality checks can be made on a "
+"manufacturing step but, because the manufacturing process is handled by an "
+"external party, it can be defined on the product reception."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:224
 msgid ""
-"To create a quality check at the receipt, open the *Quality* app and "
-"create a new *Control Point* on the reception."
+"To create a quality check at the receipt, open the *Quality* app and create a "
+"new *Control Point* on the reception."
 msgstr ""
 
 #: ../../manufacturing/management/subcontracting.rst:231
 msgid ""
-"By doing so, a quality check is automatically created each time a "
-"finished product is received."
+"By doing so, a quality check is automatically created each time a finished "
+"product is received."
 msgstr ""
 
 #: ../../manufacturing/management/unbuild.rst:3
@@ -1065,23 +1043,22 @@ msgstr ""
 
 #: ../../manufacturing/management/unbuild.rst:5
 msgid ""
-"In Odoo Manufacturing App, you can *Unbuild* products. Two use cases can "
-"be managed: (1) you can unbuild products you have built yourself or (2) "
-"you can unbuild products you have received."
+"In Odoo Manufacturing App, you can *Unbuild* products. Two use cases can be "
+"managed: (1) you can unbuild products you have built yourself or (2) you can "
+"unbuild products you have received."
 msgstr ""
 
 #: ../../manufacturing/management/unbuild.rst:9
 msgid ""
-"Let's take the first case, you are manufacturing products yourself. If "
-"one of your product presents some defect, you might want to unbuild it "
-"instead of scrapping it completely, allowing you to reuse some components"
-" of the product."
+"Let's take the first case, you are manufacturing products yourself. If one of "
+"your product presents some defect, you might want to unbuild it instead of "
+"scrapping it completely, allowing you to reuse some components of the product."
 msgstr ""
 
 #: ../../manufacturing/management/unbuild.rst:14
 msgid ""
-"In the second case, you are buying products for the sole purpose of "
-"unbuilding them and recycling them."
+"In the second case, you are buying products for the sole purpose of unbuilding "
+"them and recycling them."
 msgstr ""
 
 #: ../../manufacturing/management/unbuild.rst:18
@@ -1090,15 +1067,15 @@ msgstr ""
 
 #: ../../manufacturing/management/unbuild.rst:20
 msgid ""
-"While in the Manufacturing App, under the *Operations* tab you will find "
-"the menu *Unbuild Orders*."
+"While in the Manufacturing App, under the *Operations* tab you will find the "
+"menu *Unbuild Orders*."
 msgstr ""
 
 #: ../../manufacturing/management/unbuild.rst:26
 msgid ""
-"When creating a new one, you can either select a MO if you are unbuilding"
-" something you manufactured or only select a product if you are "
-"unbuilding something you received."
+"When creating a new one, you can either select a MO if you are unbuilding "
+"something you manufactured or only select a product if you are unbuilding "
+"something you received."
 msgstr ""
 
 #: ../../manufacturing/management/unbuild.rst:33
@@ -1113,8 +1090,8 @@ msgstr ""
 
 #: ../../manufacturing/management/unbuild.rst:38
 msgid ""
-"If you unbuild a product you bought, you will get the components from the"
-" BoM back in stock."
+"If you unbuild a product you bought, you will get the components from the BoM "
+"back in stock."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:3
@@ -1123,47 +1100,46 @@ msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:5
 msgid ""
-"The Master Production Schedule (MPS) is a valuable tool to plan your "
-"production based on your demand forecast."
+"The Master Production Schedule (MPS) is a valuable tool to plan your production "
+"based on your demand forecast."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:11
 msgid ""
-"Go to the :menuselection:`Manufacturing app --> Configuration --> "
-"Settings` and activate the Master Production Schedule feature before "
-"hitting save."
+"Go to the :menuselection:`Manufacturing app --> Configuration --> Settings` and "
+"activate the Master Production Schedule feature before hitting save."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:18
 msgid ""
-"In the manufacturing settings, you can define the time range of your MPS "
-"(month/week/day) and the number of periods you want to display."
+"In the manufacturing settings, you can define the time range of your MPS (month/"
+"week/day) and the number of periods you want to display."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:20
 msgid ""
-"Now, go in :menuselection:`Planning --> Master Production Schedule` and "
-"click on add a product. You can now define your safety stock target (= "
-"the stock you want to have on hand at the end of the period) and the "
-"minimum and maximum quantities to replenish."
+"Now, go in :menuselection:`Planning --> Master Production Schedule` and click "
+"on add a product. You can now define your safety stock target (= the stock you "
+"want to have on hand at the end of the period) and the minimum and maximum "
+"quantities to replenish."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:29
 msgid ""
-"The products are ordered in the MPS based on their sequence. You can "
-"rearrange that sequence by going on the list of your products and "
-"reorganize them with drag and drop."
+"The products are ordered in the MPS based on their sequence. You can rearrange "
+"that sequence by going on the list of your products and reorganize them with "
+"drag and drop."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:36
 msgid ""
-"In the MPS view, you can decide which information you would like to show "
-"by clicking on *rows*. Some fields can be added to the view, such as "
-"*Actual demand*, which will show which quantity of products has already "
-"been ordered for the period, or *Available to Promise*, which allows you "
-"to know what can still be sold during the period (what you plan to "
-"replenish - what is already sold during the period). You can also decide "
-"to hide some information if it isn’t necessary."
+"In the MPS view, you can decide which information you would like to show by "
+"clicking on *rows*. Some fields can be added to the view, such as *Actual "
+"demand*, which will show which quantity of products has already been ordered "
+"for the period, or *Available to Promise*, which allows you to know what can "
+"still be sold during the period (what you plan to replenish - what is already "
+"sold during the period). You can also decide to hide some information if it "
+"isn’t necessary."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:48
@@ -1172,34 +1148,33 @@ msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:50
 msgid ""
-"The next step is to estimate the demand for the period. This estimation "
-"should be entered in the row *Demand Forecast*. You can easily, at any "
-"time, compare the demand forecast with the actual demand (= confirmed "
-"sales). The demand forecast for a finished product will impact the "
-"indirect demand for its components."
+"The next step is to estimate the demand for the period. This estimation should "
+"be entered in the row *Demand Forecast*. You can easily, at any time, compare "
+"the demand forecast with the actual demand (= confirmed sales). The demand "
+"forecast for a finished product will impact the indirect demand for its "
+"components."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:59
 msgid ""
-"Then, the quantity to replenish for the different periods will be "
-"automatically computed. The replenishments you are supposed to launch "
-"based on your lead times (vendor lead time or manufacturing lead time) "
-"are displayed in green. You can now launch the replenishment by clicking "
-"on the replenish button."
+"Then, the quantity to replenish for the different periods will be automatically "
+"computed. The replenishments you are supposed to launch based on your lead "
+"times (vendor lead time or manufacturing lead time) are displayed in green. You "
+"can now launch the replenishment by clicking on the replenish button."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:65
 msgid ""
-"Depending on the configuration of the product (buy vs. manufacture), "
-"requests for quotations or manufacturing orders will be created. You can "
-"easily access those by clicking on the *Actual Replenishment* cell."
+"Depending on the configuration of the product (buy vs. manufacture), requests "
+"for quotations or manufacturing orders will be created. You can easily access "
+"those by clicking on the *Actual Replenishment* cell."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:75
 msgid ""
-"In case you manually edit the *To replenish* quantity, a small cross will"
-" appear on the left. In case you want to go back to the automatically "
-"computed value given by Odoo, you can click the cross."
+"In case you manually edit the *To replenish* quantity, a small cross will "
+"appear on the left. In case you want to go back to the automatically computed "
+"value given by Odoo, you can click the cross."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:83
@@ -1208,39 +1183,39 @@ msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:85
 msgid ""
-"The cells, which are part of the *To replenish* line, can take different "
-"colors depending on the situation:"
+"The cells, which are part of the *To replenish* line, can take different colors "
+"depending on the situation:"
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:88
 msgid ""
 "**Green**: quantity of products which should be replenished to reach the "
-"expected safety stock considering the demand forecast and the indirect "
-"demand forecast."
+"expected safety stock considering the demand forecast and the indirect demand "
+"forecast."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:90
 msgid ""
-"**Grey**: replenishment order has already been generated, and its "
-"quantity still matches current data."
+"**Grey**: replenishment order has already been generated, and its quantity "
+"still matches current data."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:92
 msgid ""
-"**Red**: replenishment order has already been generated, and its quantity"
-" was too high considering current data."
+"**Red**: replenishment order has already been generated, and its quantity was "
+"too high considering current data."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:94
 msgid ""
-"**Orange**: replenishment order has already been generated, and its "
-"quantity was too low considering current data."
+"**Orange**: replenishment order has already been generated, and its quantity "
+"was too low considering current data."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:96
 msgid ""
-"The *Forecasted stock* line can also contain red cells, which means the "
-"stock will be negative during the period in question."
+"The *Forecasted stock* line can also contain red cells, which means the stock "
+"will be negative during the period in question."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:100
@@ -1249,9 +1224,9 @@ msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:102
 msgid ""
-"You can still increase the demand forecast. It will impact the quantity "
-"to replenish. The cell will become orange, and you’ll be able to launch a"
-" new replenishment."
+"You can still increase the demand forecast. It will impact the quantity to "
+"replenish. The cell will become orange, and you’ll be able to launch a new "
+"replenishment."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:107
@@ -1260,9 +1235,9 @@ msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:109
 msgid ""
-"You can decrease the demand forecast. The cell will become red to inform "
-"you that you’ve ordered more than planned. If you’re still able to do it,"
-" you can cancel some RFQ or MO manually."
+"You can decrease the demand forecast. The cell will become red to inform you "
+"that you’ve ordered more than planned. If you’re still able to do it, you can "
+"cancel some RFQ or MO manually."
 msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:114
@@ -1271,8 +1246,8 @@ msgstr ""
 
 #: ../../manufacturing/management/use_mps.rst:116
 msgid ""
-"You can easily remove a product from the MPS by clicking the small bin on"
-" the right of its name."
+"You can easily remove a product from the MPS by clicking the small bin on the "
+"right of its name."
 msgstr ""
 
 #: ../../manufacturing/overview.rst:7
@@ -1293,9 +1268,8 @@ msgstr ""
 
 #: ../../manufacturing/repair/repair.rst:7
 msgid ""
-"The Odoo *Repair* app allows you to manage a complete after sales process"
-" but also to simply repair products you have manufactured, if they "
-"present a defect."
+"The Odoo *Repair* app allows you to manage a complete after sales process but "
+"also to simply repair products you have manufactured, if they present a defect."
 msgstr ""
 
 #: ../../manufacturing/repair/repair.rst:12
@@ -1304,8 +1278,8 @@ msgstr ""
 
 #: ../../manufacturing/repair/repair.rst:14
 msgid ""
-"Once in the app, you can access your existing *Repair Orders* and create "
-"a new one."
+"Once in the app, you can access your existing *Repair Orders* and create a new "
+"one."
 msgstr ""
 
 #: ../../manufacturing/repair/repair.rst:21
@@ -1314,20 +1288,19 @@ msgstr ""
 
 #: ../../manufacturing/repair/repair.rst:23
 msgid ""
-"When a customer sends you a product for repair, create a new *Repair "
-"Order*. Fill it in with all the information you may need such as the "
-"product, the customer, if it has to be invoiced after or before the "
-"repair, the parts you might need, etc."
+"When a customer sends you a product for repair, create a new *Repair Order*. "
+"Fill it in with all the information you may need such as the product, the "
+"customer, if it has to be invoiced after or before the repair, the parts you "
+"might need, etc."
 msgstr ""
 
 #: ../../manufacturing/repair/repair.rst:31
 msgid ""
 "Once everything is done, you can then send the repair quotation to your "
-"customer. If it is approved, you can confirm the repair. You will then be"
-" able to start & end the repair when it is completed."
+"customer. If it is approved, you can confirm the repair. You will then be able "
+"to start & end the repair when it is completed."
 msgstr ""
 
 #: ../../manufacturing/repair/repair.rst:38
 msgid "You can now invoice the repair."
 msgstr ""
-

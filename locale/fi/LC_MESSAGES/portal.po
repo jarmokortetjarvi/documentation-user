@@ -3,23 +3,24 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-04 11:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-07 21:58+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../portal/my_odoo_portal.rst:6 ../../portal/my_odoo_portal.rst:9
 msgid "My Odoo Portal"
-msgstr ""
+msgstr "Oma Odoo-portaali"
 
 #: ../../portal/my_odoo_portal.rst:11
 msgid ""
@@ -32,8 +33,8 @@ msgstr ""
 msgid ""
 "To access this section, you have to log with your username and password "
 "to `Odoo <https://www.odoo.com/my/home>`_. If you are already logged in, "
-"just click on your name on the top-right corner and select \"My "
-"Account\"."
+"just click on your name on the top-right corner and select \"My Account"
+"\"."
 msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:23
@@ -42,24 +43,24 @@ msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:25
 msgid ""
-"Here you will find all the quotations sent to you by Odoo. For example, a"
-" quotation can be generated for you after adding an application or a user"
-" to your database or if your contract has to be renewed."
+"Here you will find all the quotations sent to you by Odoo. For example, "
+"a quotation can be generated for you after adding an application or a "
+"user to your database or if your contract has to be renewed."
 msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:32
 msgid ""
 "The *Valid Until* column shows the date through which the quotation is "
-"valid; after that date, the quotation will be \"Expired\". By clicking on"
-" the quotation, you will see all the details of the offer, such as the "
+"valid; after that date, the quotation will be \"Expired\". By clicking "
+"on the quotation, you will see all the details of the offer, such as the "
 "pricing and other useful information."
 msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:39
 msgid ""
-"If you want to accept the quotation, just click \"Accept & Pay,\" and the"
-" quote will get confirmed. If you don't want to accept it, or you need to"
-" ask for some modifications, click on \"Ask Changes Reject.\""
+"If you want to accept the quotation, just click \"Accept & Pay,\" and "
+"the quote will get confirmed. If you don't want to accept it, or you "
+"need to ask for some modifications, click on \"Ask Changes Reject.\""
 msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:44
@@ -68,14 +69,14 @@ msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:46
 msgid ""
-"All your purchases within Odoo (Upsells, Themes, Applications, etc.) will"
-" be registered under this section."
+"All your purchases within Odoo (Upsells, Themes, Applications, etc.) "
+"will be registered under this section."
 msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:52
 msgid ""
-"By clicking on the sale order, you can review the details of the products"
-" purchased and process the payment."
+"By clicking on the sale order, you can review the details of the "
+"products purchased and process the payment."
 msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:56
@@ -101,10 +102,10 @@ msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:71
 msgid ""
-"When you submit a ticket through `Odoo Support "
-"<https://www.odoo.com/help>`, a ticket will be created. Here you can find"
-" all the tickets that you have opened, the conversations between you and "
-"our Agents, and the statuses and IDs (# Ref) of the tickets."
+"When you submit a ticket through `Odoo Support <https://www.odoo.com/"
+"help>`, a ticket will be created. Here you can find all the tickets that "
+"you have opened, the conversations between you and our Agents, and the "
+"statuses and IDs (# Ref) of the tickets."
 msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:79
@@ -119,8 +120,8 @@ msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:87
 msgid ""
-"By clicking on the subscription you will access all the details regarding"
-" your plan: the number of applications purchased, the billing "
+"By clicking on the subscription you will access all the details "
+"regarding your plan: the number of applications purchased, the billing "
 "information, and the payment method."
 msgstr ""
 
@@ -161,8 +162,8 @@ msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:118
 msgid ""
-"If you need information about how to manage your database see "
-":ref:`db_online`"
+"If you need information about how to manage your database see :ref:"
+"`db_online`"
 msgstr ""
 
 #: ../../portal/my_odoo_portal.rst:121
@@ -186,4 +187,3 @@ msgid ""
 "General Data Protection Regulation (GDPR), please send an email to "
 "privacy@odoo.com."
 msgstr ""
-

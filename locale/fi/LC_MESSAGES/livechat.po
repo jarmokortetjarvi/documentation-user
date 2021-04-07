@@ -3,23 +3,24 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-04 11:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-07 21:57+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../livechat/overview.rst:3
 msgid "Overview"
-msgstr ""
+msgstr "Yleiskatsaus"
 
 #: ../../livechat/overview/get_started.rst:3
 msgid "Get Started with Live Chat"
@@ -27,10 +28,10 @@ msgstr ""
 
 #: ../../livechat/overview/get_started.rst:5
 msgid ""
-"Live Chat has the highest satisfaction rating of any communication tool. "
-"It allows fast responses and it is accessible and convenient, as your "
-"customers can keep doing what they are doing while interacting with you. "
-"Remember: your customers want to talk to you, so let's make it easy."
+"Live Chat has the highest satisfaction rating of any communication tool. It "
+"allows fast responses and it is accessible and convenient, as your customers "
+"can keep doing what they are doing while interacting with you. Remember: your "
+"customers want to talk to you, so let's make it easy."
 msgstr ""
 
 #: ../../livechat/overview/get_started.rst:10
@@ -39,10 +40,10 @@ msgstr ""
 
 #: ../../livechat/overview/get_started.rst:12
 msgid ""
-"Once *Live Chat* is installed on your database, if your website was "
-"created with Odoo, the application is automatically added to it. All that"
-" is left to do is to go to :menuselection:`Website --> Configuration --> "
-"Settings --> Live Chat`."
+"Once *Live Chat* is installed on your database, if your website was created "
+"with Odoo, the application is automatically added to it. All that is left to "
+"do is to go to :menuselection:`Website --> Configuration --> Settings --> Live "
+"Chat`."
 msgstr ""
 
 #: ../../livechat/overview/get_started.rst:21
@@ -55,31 +56,30 @@ msgstr ""
 
 #: ../../livechat/overview/get_started.rst:30
 msgid ""
-"- **Operators**: add agents to respond to the chat requests. Add as many "
-"as you like, and keep in mind that operators that do not show any "
-"activity in Odoo for more than 30min are considered disconnected."
+"- **Operators**: add agents to respond to the chat requests. Add as many as "
+"you like, and keep in mind that operators that do not show any activity in "
+"Odoo for more than 30min are considered disconnected."
 msgstr ""
 
 #: ../../livechat/overview/get_started.rst:33
 msgid ""
-"- **Options**: set the default text to be shown on the live chat button; "
-"an automated welcome message to be seen by visitors when a conversation "
-"is initiated, and the text that prompts the user to initiate a chat."
+"- **Options**: set the default text to be shown on the live chat button; an "
+"automated welcome message to be seen by visitors when a conversation is "
+"initiated, and the text that prompts the user to initiate a chat."
 msgstr ""
 
 #: ../../livechat/overview/get_started.rst:36
 msgid ""
-"- **Channel Rules**: choose an action for a given URL, and/or per "
-"country. In the example below, the chat window automatically pops-up 3 "
-"seconds after users (from any country) land on the contact us page."
+"- **Channel Rules**: choose an action for a given URL, and/or per country. In "
+"the example below, the chat window automatically pops-up 3 seconds after users "
+"(from any country) land on the contact us page."
 msgstr ""
 
 #: ../../livechat/overview/get_started.rst:43
 msgid ""
 "GeoIP, which refers to the process of finding a computer terminal’s "
-"geographical location by its IP address, must be installed on your "
-"server. Otherwise, under *Channel Rules*, countries are not taken into "
-"account."
+"geographical location by its IP address, must be installed on your server. "
+"Otherwise, under *Channel Rules*, countries are not taken into account."
 msgstr ""
 
 #: ../../livechat/overview/get_started.rst:48
@@ -88,14 +88,14 @@ msgstr ""
 
 #: ../../livechat/overview/get_started.rst:51
 msgid ""
-"If your website was not created with Odoo, you can find the code to be "
-"added to your own, under the *Widget* tab."
+"If your website was not created with Odoo, you can find the code to be added "
+"to your own, under the *Widget* tab."
 msgstr ""
 
 #: ../../livechat/overview/get_started.rst:52
 msgid ""
-"Odoo also offers an URL you can send to users so they can have access to "
-"a single live chat page."
+"Odoo also offers an URL you can send to users so they can have access to a "
+"single live chat page."
 msgstr ""
 
 #: ../../livechat/overview/get_started.rst:59
@@ -104,9 +104,8 @@ msgstr ""
 
 #: ../../livechat/overview/get_started.rst:61
 msgid ""
-"Conversations initiated by visitors pop up as a direct message, and are "
-"shown in *Discuss*. Therefore, inquiries can be answered wherever you are"
-" in Odoo."
+"Conversations initiated by visitors pop up as a direct message, and are shown "
+"in *Discuss*. Therefore, inquiries can be answered wherever you are in Odoo."
 msgstr ""
 
 #: ../../livechat/overview/get_started.rst:69
@@ -121,8 +120,8 @@ msgstr ""
 
 #: ../../livechat/overview/get_started.rst:74
 msgid ""
-"Go to :menuselection:`Website --> Configuration --> Settings`, access "
-"your channel under *Live Chat*, and *Join Channel* or *Leave Channel*."
+"Go to :menuselection:`Website --> Configuration --> Settings`, access your "
+"channel under *Live Chat*, and *Join Channel* or *Leave Channel*."
 msgstr ""
 
 #: ../../livechat/overview/get_started.rst:82
@@ -141,9 +140,9 @@ msgstr ""
 
 #: ../../livechat/overview/ratings.rst:5
 msgid ""
-"Giving users the opportunity to rate their interactions can help you "
-"improving the experience you offer. That means staying on top of your "
-"customers' needs, besides keeping track of your operators’ performances."
+"Giving users the opportunity to rate their interactions can help you improving "
+"the experience you offer. That means staying on top of your customers' needs, "
+"besides keeping track of your operators’ performances."
 msgstr ""
 
 #: ../../livechat/overview/ratings.rst:10
@@ -152,14 +151,13 @@ msgstr ""
 
 #: ../../livechat/overview/ratings.rst:12
 msgid ""
-"Once the user chooses to close the chat window, he can rate his "
-"interaction."
+"Once the user chooses to close the chat window, he can rate his interaction."
 msgstr ""
 
 #: ../../livechat/overview/ratings.rst:14
 msgid ""
-"If the user is *Not satisfied* or *Highly dissatisfied*, a field allowing"
-" for an explanation is shown."
+"If the user is *Not satisfied* or *Highly dissatisfied*, a field allowing for "
+"an explanation is shown."
 msgstr ""
 
 #: ../../livechat/overview/ratings.rst:15
@@ -180,9 +178,9 @@ msgstr ""
 
 #: ../../livechat/overview/ratings.rst:37
 msgid ""
-"Go to :menuselection:`Website --> Configuration --> Settings`, access "
-"your channel form, click on *Go to Website* and on *Unpublished*, to "
-"publish the rating of that channel on your website."
+"Go to :menuselection:`Website --> Configuration --> Settings`, access your "
+"channel form, click on *Go to Website* and on *Unpublished*, to publish the "
+"rating of that channel on your website."
 msgstr ""
 
 #: ../../livechat/overview/responses.rst:3
@@ -240,15 +238,13 @@ msgstr ""
 
 #: ../../livechat/overview/responses.rst:26
 msgid ""
-"To access the ticket or lead created from the chat, click on the shortcut"
-" link."
+"To access the ticket or lead created from the chat, click on the shortcut link."
 msgstr ""
 
 #: ../../livechat/overview/responses.rst:33
 msgid ""
-"Helpdesk tickets created from the chat automatically add the conversation"
-" as a description of the ticket. The same goes for the creation of a "
-"lead."
+"Helpdesk tickets created from the chat automatically add the conversation as a "
+"description of the ticket. The same goes for the creation of a lead."
 msgstr ""
 
 #: ../../livechat/overview/responses.rst:37
@@ -257,14 +253,13 @@ msgstr ""
 
 #: ../../livechat/overview/responses.rst:40
 msgid ""
-"Canned responses allow you to have a full piece of text being placed when"
-" you type a shortcut word. To create them, go to :menuselection:`Live "
-"Chat --> Configuration --> Canned Responses`."
+"Canned responses allow you to have a full piece of text being placed when you "
+"type a shortcut word. To create them, go to :menuselection:`Live Chat --> "
+"Configuration --> Canned Responses`."
 msgstr ""
 
 #: ../../livechat/overview/responses.rst:41
 msgid ""
-"To use them during a conversation, simply type **:** followed by the "
-"shortcut word you created."
+"To use them during a conversation, simply type **:** followed by the shortcut "
+"word you created."
 msgstr ""
-

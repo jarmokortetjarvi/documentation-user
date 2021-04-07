@@ -3,39 +3,40 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-04 11:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-07 22:01+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../support.rst:5
 msgid "Support"
-msgstr ""
+msgstr "Tuki"
 
 #: ../../support/supported_versions.rst:7
 msgid "Supported versions"
-msgstr ""
+msgstr "Tuetut versiot"
 
 #: ../../support/supported_versions.rst:10
 msgid ""
-"Odoo provides support and bug fixing **for the 3 last major versions** of"
-" Odoo."
+"Odoo provides support and bug fixing **for the 3 last major versions** of "
+"Odoo."
 msgstr ""
 
 #: ../../support/supported_versions.rst:12
 msgid ""
 "Users hosted on **Odoo Online** may use intermediary versions (sometimes "
-"called *SaaS versions*) that are supported as well. These versions are "
-"not published for Odoo.sh or On-Premise installations."
+"called *SaaS versions*) that are supported as well. These versions are not "
+"published for Odoo.sh or On-Premise installations."
 msgstr ""
 
 #: ../../support/supported_versions.rst:18
@@ -232,9 +233,9 @@ msgstr ""
 
 #: ../../support/supported_versions.rst:65
 msgid ""
-"|orange| Some of our older customers may still run this version on our "
-"Odoo Online servers, we provide help only on blocking issues and advise "
-"you to upgrade."
+"|orange| Some of our older customers may still run this version on our Odoo "
+"Online servers, we provide help only on blocking issues and advise you to "
+"upgrade."
 msgstr ""
 
 #: ../../support/supported_versions.rst:67
@@ -255,8 +256,7 @@ msgstr ""
 
 #: ../../support/supported_versions.rst:86
 msgid ""
-"You should consider `upgrading <https://upgrade.odoo.com/>`_ your "
-"database."
+"You should consider `upgrading <https://upgrade.odoo.com/>`_ your database."
 msgstr ""
 
 #: ../../support/what_can_i_expect.rst:8
@@ -269,17 +269,16 @@ msgstr ""
 
 #: ../../support/what_can_i_expect.rst:14
 msgid ""
-"Your Odoo Online subscription includes **unlimited 24hr support at no "
-"extra cost, Monday to Friday**. Our teams are located around the world to"
-" ensure you have support, no matter your location. Your support "
-"representative could be communicating to you from San Francisco, Belgium,"
-" or India!"
+"Your Odoo Online subscription includes **unlimited 24hr support at no extra "
+"cost, Monday to Friday**. Our teams are located around the world to ensure "
+"you have support, no matter your location. Your support representative could "
+"be communicating to you from San Francisco, Belgium, or India!"
 msgstr ""
 
 #: ../../support/what_can_i_expect.rst:19
 msgid ""
-"Our support team can be contacted through our `online support form "
-"<https://www.odoo.com/help>`__."
+"Our support team can be contacted through our `online support form <https://"
+"www.odoo.com/help>`__."
 msgstr ""
 
 #: ../../support/what_can_i_expect.rst:23
@@ -294,8 +293,8 @@ msgstr ""
 
 #: ../../support/what_can_i_expect.rst:27
 msgid ""
-"Answers to issues that you may encounter in your standard Odoo database "
-"(eg. “I cannot close my Point of Sale” or “I cannot find my sales KPIs?”)"
+"Answers to issues that you may encounter in your standard Odoo database (eg. "
+"“I cannot close my Point of Sale” or “I cannot find my sales KPIs?”)"
 msgstr ""
 
 #: ../../support/what_can_i_expect.rst:29
@@ -310,15 +309,13 @@ msgstr ""
 
 #: ../../support/what_can_i_expect.rst:32
 msgid ""
-"Issues that might occur in a test database after upgrading to a newer "
-"version"
+"Issues that might occur in a test database after upgrading to a newer version"
 msgstr ""
 
 #: ../../support/what_can_i_expect.rst:34
 msgid ""
-"*Odoo Support does not make changes to your production database without "
-"your agreement and gives you the material and knowledge to do it "
-"yourself!*"
+"*Odoo Support does not make changes to your production database without your "
+"agreement and gives you the material and knowledge to do it yourself!*"
 msgstr ""
 
 #: ../../support/what_can_i_expect.rst:39
@@ -327,14 +324,13 @@ msgstr ""
 
 #: ../../support/what_can_i_expect.rst:41
 msgid ""
-"Questions that require us to understand your business processes in order "
-"to help you implement your database"
+"Questions that require us to understand your business processes in order to "
+"help you implement your database"
 msgstr ""
 
 #: ../../support/what_can_i_expect.rst:43
 msgid ""
-"Training on how to use our software (we will direct you to our many "
-"resources)"
+"Training on how to use our software (we will direct you to our many resources)"
 msgstr ""
 
 #: ../../support/what_can_i_expect.rst:44
@@ -343,8 +339,8 @@ msgstr ""
 
 #: ../../support/what_can_i_expect.rst:45
 msgid ""
-"Guidance on which configurations to apply inside of an application or the"
-" database"
+"Guidance on which configurations to apply inside of an application or the "
+"database"
 msgstr ""
 
 #: ../../support/what_can_i_expect.rst:46
@@ -359,24 +355,23 @@ msgstr ""
 
 #: ../../support/what_can_i_expect.rst:49
 msgid ""
-"Any intervention on your own third party account (Ingenico, Authorize, "
-"UPS, etc)"
+"Any intervention on your own third party account (Ingenico, Authorize, UPS, "
+"etc)"
 msgstr ""
 
 #: ../../support/what_can_i_expect.rst:50
 msgid ""
-"Questions or issues related to specific developments or customizations "
-"done either by Odoo or a third party (this is specific only to your "
-"database or involving code)"
+"Questions or issues related to specific developments or customizations done "
+"either by Odoo or a third party (this is specific only to your database or "
+"involving code)"
 msgstr ""
 
 #: ../../support/what_can_i_expect.rst:54
 msgid ""
-"You can get this type of support with a `Success Pack "
-"<https://www.odoo.com/pricing-packs>`__. With a pack, one of our "
-"consultants will analyze the way your business runs and tell you how you "
-"can get the most out of your Odoo Database. We will handle all "
-"configurations and coach you on how to use Odoo."
+"You can get this type of support with a `Success Pack <https://www.odoo.com/"
+"pricing-packs>`__. With a pack, one of our consultants will analyze the way "
+"your business runs and tell you how you can get the most out of your Odoo "
+"Database. We will handle all configurations and coach you on how to use Odoo."
 msgstr ""
 
 #: ../../support/where_can_i_get_support.rst:6
@@ -389,10 +384,10 @@ msgstr ""
 
 #: ../../support/where_can_i_get_support.rst:12
 msgid ""
-"Users who have a valid Odoo Enterprise subscription may always contact "
-"our support teams through our `support form "
-"<https://www.odoo.com/help>`_, no matter the hosting type you chose (Odoo"
-" Online, Odoo.sh or on your own server)."
+"Users who have a valid Odoo Enterprise subscription may always contact our "
+"support teams through our `support form <https://www.odoo.com/help>`_, no "
+"matter the hosting type you chose (Odoo Online, Odoo.sh or on your own "
+"server)."
 msgstr ""
 
 #: ../../support/where_can_i_get_support.rst:16
@@ -405,8 +400,8 @@ msgstr ""
 
 #: ../../support/where_can_i_get_support.rst:19
 msgid ""
-"the URL of your database if your database is hosted by Odoo (Odoo Online "
-"or Odoo.sh)"
+"the URL of your database if your database is hosted by Odoo (Odoo Online or "
+"Odoo.sh)"
 msgstr ""
 
 #: ../../support/where_can_i_get_support.rst:21
@@ -431,14 +426,12 @@ msgstr ""
 
 #: ../../support/where_can_i_get_support.rst:32
 msgid ""
-"Ask your question on the `community forum "
-"<https://www.odoo.com/forum/help-1>`_."
+"Ask your question on the `community forum <https://www.odoo.com/forum/"
+"help-1>`_."
 msgstr ""
 
 #: ../../support/where_can_i_get_support.rst:33
 msgid ""
-"`Buy Odoo Enterprise "
-"<https://www.odoo.com/documentation/14.0/setup/enterprise.html>`_ to get "
-"the support and bugfix services."
+"`Buy Odoo Enterprise <https://www.odoo.com/documentation/14.0/setup/"
+"enterprise.html>`_ to get the support and bugfix services."
 msgstr ""
-

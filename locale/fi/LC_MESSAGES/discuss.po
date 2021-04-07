@@ -3,27 +3,28 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-04 11:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-07 21:54+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../discuss.rst:5
 msgid "Discuss"
-msgstr ""
+msgstr "Keskustelu"
 
 #: ../../discuss/advanced.rst:3
 msgid "Advanced"
-msgstr ""
+msgstr "Edistynyt"
 
 #: ../../discuss/advanced/email_servers.rst:3
 msgid "How to Use my Mail Server to Send and Receive Emails in Odoo"
@@ -52,33 +53,33 @@ msgstr ""
 #: ../../discuss/advanced/email_servers.rst:18
 msgid ""
 "This document is **mainly dedicated to Odoo on-premise users** who don't "
-"benefit from an out-of-the-box solution to send and receive emails in "
-"Odoo, unlike `Odoo Online <https://www.odoo.com/trial>`__ & `Odoo.sh "
-"<https://www.odoo.sh>`__."
+"benefit from an out-of-the-box solution to send and receive emails in Odoo, "
+"unlike `Odoo Online <https://www.odoo.com/trial>`__ & `Odoo.sh <https://www."
+"odoo.sh>`__."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:25
 msgid ""
 "If no one in your company is used to manage email servers, we strongly "
-"recommend that you opt for those Odoo hosting solutions. Their email "
-"system works instantly and is monitored by professionals. Nevertheless "
-"you can still use your own email servers if you want to manage your email"
-" server's reputation yourself."
+"recommend that you opt for those Odoo hosting solutions. Their email system "
+"works instantly and is monitored by professionals. Nevertheless you can "
+"still use your own email servers if you want to manage your email server's "
+"reputation yourself."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:31
 msgid ""
-"You will find here below some useful information on how to integrate your"
-" own email solution with Odoo."
+"You will find here below some useful information on how to integrate your "
+"own email solution with Odoo."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:34
 msgid ""
 "Office 365 email servers don't easily allow to send external emails from "
-"hosts like Odoo. Refer to `Microsoft's documentation "
-"<https://support.office.com/en-us/article/How-to-set-up-a-multifunction-"
-"device-or-application-to-send-email-using-"
-"Office-365-69f58e99-c550-4274-ad18-c805d654b4c4>`__ to make it work."
+"hosts like Odoo. Refer to `Microsoft's documentation <https://support."
+"office.com/en-us/article/How-to-set-up-a-multifunction-device-or-"
+"application-to-send-email-using-Office-365-69f58e99-c550-4274-ad18-"
+"c805d654b4c4>`__ to make it work."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:39
@@ -87,10 +88,10 @@ msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:40
 msgid ""
-"As a system admin, go to :menuselection:`Settings --> General Settings` "
-"and check *External Email Servers*. Then, click *Outgoing Mail Servers* "
-"to create one and reference the SMTP data of your email server. Once all "
-"the information has been filled out, click on *Test Connection*."
+"As a system admin, go to :menuselection:`Settings --> General Settings` and "
+"check *External Email Servers*. Then, click *Outgoing Mail Servers* to "
+"create one and reference the SMTP data of your email server. Once all the "
+"information has been filled out, click on *Test Connection*."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:45
@@ -104,9 +105,9 @@ msgstr ""
 #: ../../discuss/advanced/email_servers.rst:53
 msgid ""
 "If you get a ``[AUTHENTICATIONFAILED] Invalid credentials (Failure)`` "
-"warning when you *Test Connection* on a Gmail address, activate the *Less"
-" secure app access* option. A direct link can be `accessed here "
-"<https://myaccount.google.com/lesssecureapps?pli=1>`_."
+"warning when you *Test Connection* on a Gmail address, activate the *Less "
+"secure app access* option. A direct link can be `accessed here <https://"
+"myaccount.google.com/lesssecureapps?pli=1>`_."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:57
@@ -125,9 +126,9 @@ msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:65
 msgid ""
-"Please refer to `Microsoft's documentation <https://support.office.com"
-"/en-us/article/How-to-set-up-a-multifunction-device-or-application-to-"
-"send-email-using-Office-365-69f58e99-c550-4274-ad18-c805d654b4c4>`__ to "
+"Please refer to `Microsoft's documentation <https://support.office.com/en-"
+"us/article/How-to-set-up-a-multifunction-device-or-application-to-send-"
+"email-using-Office-365-69f58e99-c550-4274-ad18-c805d654b4c4>`__ to "
 "configure a SMTP relay for your Odoo's IP address."
 msgstr ""
 
@@ -137,10 +138,10 @@ msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:70
 msgid ""
-"You can use an G Suite server for any Odoo hosting type. To do so you "
-"need to setup the SMTP relay service. The configuration steps are "
-"explained in `Google documentation "
-"<https://support.google.com/a/answer/2956491?hl=en>`__."
+"You can use an G Suite server for any Odoo hosting type. To do so you need "
+"to setup the SMTP relay service. The configuration steps are explained in "
+"`Google documentation <https://support.google.com/a/answer/2956491?"
+"hl=en>`__."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:77
@@ -150,9 +151,9 @@ msgstr ""
 #: ../../discuss/advanced/email_servers.rst:78
 msgid ""
 "In case you use SPF (Sender Policy Framework) to increase the "
-"deliverability of your outgoing emails, don't forget to authorize Odoo as"
-" a sending host in your domain name settings. Here is the configuration "
-"for Odoo Online:"
+"deliverability of your outgoing emails, don't forget to authorize Odoo as a "
+"sending host in your domain name settings. Here is the configuration for "
+"Odoo Online:"
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:82
@@ -163,9 +164,9 @@ msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:84
 msgid ""
-"In case a SPF TXT record is already set, add \"include:_spf.odoo.com\". "
-"e.g. for a domain name that sends emails via Odoo Online and via G Suite "
-"it could be: v=spf1 include:_spf.odoo.com include:_spf.google.com ~all"
+"In case a SPF TXT record is already set, add \"include:_spf.odoo.com\". e."
+"g. for a domain name that sends emails via Odoo Online and via G Suite it "
+"could be: v=spf1 include:_spf.odoo.com include:_spf.google.com ~all"
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:88
@@ -182,9 +183,9 @@ msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:94
 msgid ""
-"Adding more than one SPF record for a domain can cause problems with mail"
-" delivery and spam classification. Instead, we recommend using only one "
-"SPF record by modifying it to authorize Odoo."
+"Adding more than one SPF record for a domain can cause problems with mail "
+"delivery and spam classification. Instead, we recommend using only one SPF "
+"record by modifying it to authorize Odoo."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:99
@@ -195,10 +196,10 @@ msgstr ""
 msgid ""
 "You should do the same thing if DKIM (Domain Keys Identified Mail) is "
 "enabled on your email server. In the case of Odoo Online & Odoo.sh, you "
-"should add a DNS \"odoo._domainkey\" CNAME record to "
-"\"odoo._domainkey.odoo.com\". For example, for \"foo.com\" they should "
-"have a record \"odoo._domainkey.foo.com\" that is a CNAME with the value "
-"\"odoo._domainkey.odoo.com\"."
+"should add a DNS \"odoo._domainkey\" CNAME record to \"odoo._domainkey.odoo."
+"com\". For example, for \"foo.com\" they should have a record \"odoo."
+"_domainkey.foo.com\" that is a CNAME with the value \"odoo._domainkey.odoo."
+"com\"."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:108
@@ -221,17 +222,16 @@ msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:116
 msgid ""
-"**Reply messages** of messages sent from Odoo are routed to their "
-"original discussion thread (and to the inbox of all its followers) by the"
-" catchall alias (**catchall@**)."
+"**Reply messages** of messages sent from Odoo are routed to their original "
+"discussion thread (and to the inbox of all its followers) by the catchall "
+"alias (**catchall@**)."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:120
 msgid ""
 "**Bounced messages** are routed to **bounce@** in order to track them in "
-"Odoo. This is especially used in `Odoo Email Marketing "
-"<https://www.odoo.com/page/email-marketing>`__ to opt-out invalid "
-"recipients."
+"Odoo. This is especially used in `Odoo Email Marketing <https://www.odoo."
+"com/page/email-marketing>`__ to opt-out invalid recipients."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:124
@@ -242,26 +242,26 @@ msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:127
 msgid ""
-"Sales Channel (to create Leads or Opportunities in `Odoo CRM "
-"<https://www.odoo.com/page/crm>`__),"
+"Sales Channel (to create Leads or Opportunities in `Odoo CRM <https://www."
+"odoo.com/page/crm>`__),"
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:129
 msgid ""
-"Support Channel (to create Tickets in `Odoo Helpdesk "
-"<https://www.odoo.com/page/helpdesk>`__),"
+"Support Channel (to create Tickets in `Odoo Helpdesk <https://www.odoo.com/"
+"page/helpdesk>`__),"
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:131
 msgid ""
-"Projects (to create new Tasks in `Odoo Project <https://www.odoo.com/page"
-"/project-management>`__),"
+"Projects (to create new Tasks in `Odoo Project <https://www.odoo.com/page/"
+"project-management>`__),"
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:133
 msgid ""
-"Job Positions (to create Applicants in `Odoo Recruitment "
-"<https://www.odoo.com/page/recruitment>`__),"
+"Job Positions (to create Applicants in `Odoo Recruitment <https://www.odoo."
+"com/page/recruitment>`__),"
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:135
@@ -288,21 +288,21 @@ msgstr ""
 #: ../../discuss/advanced/email_servers.rst:148
 msgid ""
 "If you use Odoo on-premise, create an *Incoming Mail Server* in Odoo for "
-"each alias. You can do it from the General Settings as well. Fill out the"
-" form according to your email provider’s settings. Leave the *Actions to "
-"Perform on Incoming Mails* blank. Once all the information has been "
-"filled out, click on *TEST & CONFIRM*."
+"each alias. You can do it from the General Settings as well. Fill out the "
+"form according to your email provider’s settings. Leave the *Actions to "
+"Perform on Incoming Mails* blank. Once all the information has been filled "
+"out, click on *TEST & CONFIRM*."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:157
 msgid ""
 "If you use Odoo Online or Odoo.sh, We do recommend to redirect incoming "
-"messages to Odoo's domain name rather than exclusively use your own email"
-" server. That way you will receive incoming messages without delay. "
-"Indeed, Odoo Online is fetching incoming messages of external servers "
-"once per hour only. You should set redirections for all the email "
-"addresses to Odoo's domain name in your email server (e.g. "
-"*catchall@mydomain.ext* to *catchall@mycompany.odoo.com*)."
+"messages to Odoo's domain name rather than exclusively use your own email "
+"server. That way you will receive incoming messages without delay. Indeed, "
+"Odoo Online is fetching incoming messages of external servers once per hour "
+"only. You should set redirections for all the email addresses to Odoo's "
+"domain name in your email server (e.g. *catchall@mydomain.ext* to "
+"*catchall@mycompany.odoo.com*)."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:167
@@ -311,25 +311,24 @@ msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:165
 msgid ""
-"Object aliases can be edited from their  respective configuration view. "
-"To edit catchall and bounce aliases, you first need to activate the "
-":doc:`Developer mode <../../general/developer_mode/activate>`."
+"Object aliases can be edited from their  respective configuration view. To "
+"edit catchall and bounce aliases, you first need to activate the :doc:"
+"`Developer mode <../../general/developer_mode/activate>`."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:169
 msgid ""
-"Then go to :menuselection:`Settings --> Technical --> Parameters --> "
-"System Parameters` to customize the aliases (*mail.catchall.alias* & * "
-"mail.bounce.alias*)."
+"Then go to :menuselection:`Settings --> Technical --> Parameters --> System "
+"Parameters` to customize the aliases (*mail.catchall.alias* & * mail.bounce."
+"alias*)."
 msgstr ""
 
 #: ../../discuss/advanced/email_servers.rst:175
 msgid ""
-"By default inbound messages are fetched every 5 minutes in Odoo on-"
-"premise. You can change this value in :doc:`Developer mode "
-"<../../general/developer_mode/activate>`. Go to :menuselection:`Settings "
-"--> Technical --> Automation --> Scheduled Actions` and look for *Mail: "
-"Fetchmail Service*."
+"By default inbound messages are fetched every 5 minutes in Odoo on-premise. "
+"You can change this value in :doc:`Developer mode <../../general/"
+"developer_mode/activate>`. Go to :menuselection:`Settings --> Technical --> "
+"Automation --> Scheduled Actions` and look for *Mail: Fetchmail Service*."
 msgstr ""
 
 #: ../../discuss/advanced/email_template.rst:3
@@ -338,12 +337,12 @@ msgstr ""
 
 #: ../../discuss/advanced/email_template.rst:5
 msgid ""
-"We all know writing good emails is vital to get a high response rate, but"
-" you do not want to rewrite the same structure every time, do you? That "
-"is where email templates come in. Without the need to rewrite the entire "
-"email structure every time, you save time to focus on the content. "
-"Multiple templates also let you deliver the right message to the right "
-"audience, improving their overall experience with the company."
+"We all know writing good emails is vital to get a high response rate, but "
+"you do not want to rewrite the same structure every time, do you? That is "
+"where email templates come in. Without the need to rewrite the entire email "
+"structure every time, you save time to focus on the content. Multiple "
+"templates also let you deliver the right message to the right audience, "
+"improving their overall experience with the company."
 msgstr ""
 
 #: ../../discuss/advanced/email_template.rst:12
@@ -352,36 +351,35 @@ msgstr ""
 
 #: ../../discuss/advanced/email_template.rst:14
 msgid ""
-"The :doc:`Developer mode <../../general/developer_mode/activate>` must be"
-" activated. Then, go to :menuselection:`Settings --> Technical --> "
+"The :doc:`Developer mode <../../general/developer_mode/activate>` must be "
+"activated. Then, go to :menuselection:`Settings --> Technical --> "
 "Templates`. A view of the existing templates is shown."
 msgstr ""
 
 #: ../../discuss/advanced/email_template.rst:18
 msgid ""
-"**It is highly recommended not to change the content in existing "
-"templates unless the user has prior knowledge about placeholders.**"
+"**It is highly recommended not to change the content in existing templates "
+"unless the user has prior knowledge about placeholders.**"
 msgstr ""
 
 #: ../../discuss/advanced/email_template.rst:21
 msgid ""
 "To add a new one, click on *Create* and choose the type of document this "
-"template is used with. In the example below, the template would be sent "
-"to job applicants."
+"template is used with. In the example below, the template would be sent to "
+"job applicants."
 msgstr ""
 
 #: ../../discuss/advanced/email_template.rst:30
 msgid ""
 "Under *Email Configuration*, fields such as *From*, *To (Emails)*, *To "
 "(Partners)*, require placeholders. If the *From* field is not set, the "
-"default value is the author’s email alias, if configured, or email "
-"address."
+"default value is the author’s email alias, if configured, or email address."
 msgstr ""
 
 #: ../../discuss/advanced/email_template.rst:32
 msgid ""
-"Under *Advanced Settings*, if an *Outgoing Mail Server* is not set, the "
-"one with the highest priority is used."
+"Under *Advanced Settings*, if an *Outgoing Mail Server* is not set, the one "
+"with the highest priority is used."
 msgstr ""
 
 #: ../../discuss/advanced/email_template.rst:34
@@ -402,15 +400,15 @@ msgstr ""
 
 #: ../../discuss/advanced/email_template.rst:45
 msgid ""
-"Next, copy the *Placeholder Expression* and paste it in the *Body* of the"
-" email, under the *Content* tab, using - essentially - the *Code View*."
+"Next, copy the *Placeholder Expression* and paste it in the *Body* of the "
+"email, under the *Content* tab, using - essentially - the *Code View*."
 msgstr ""
 
 #: ../../discuss/advanced/email_template.rst:52
 msgid ""
 "Deactivate the *Code View* option by simply clicking on it again, and "
-"easily design the message. Click on *Preview* to check how the email "
-"looks before sending it."
+"easily design the message. Click on *Preview* to check how the email looks "
+"before sending it."
 msgstr ""
 
 #: ../../discuss/overview.rst:3
@@ -426,9 +424,8 @@ msgid ""
 "Discuss allows you to bring all of your company’s communication together "
 "through messages, notes, and chat. Share information, projects, files, "
 "prioritize tasks, and stay connected with colleagues and partners "
-"throughout applications. Forge better relationships, increase "
-"productivity and transparency by promoting a convenient way of "
-"communicating."
+"throughout applications. Forge better relationships, increase productivity "
+"and transparency by promoting a convenient way of communicating."
 msgstr ""
 
 #: ../../discuss/overview/get_started.rst:11
@@ -437,16 +434,15 @@ msgstr ""
 
 #: ../../discuss/overview/get_started.rst:13
 msgid ""
-"Access your *Preferences* and choose how you would like your "
-"notifications to be handled."
+"Access your *Preferences* and choose how you would like your notifications "
+"to be handled."
 msgstr ""
 
 #: ../../discuss/overview/get_started.rst:21
 msgid ""
-"By default, the field is set as *Handle by Emails* making messages, "
-"notes, and notifications where you were mentioned or that you follow, to "
-"be sent through email. By choosing *Handle in Odoo*, they are shown in "
-"the *Inbox*."
+"By default, the field is set as *Handle by Emails* making messages, notes, "
+"and notifications where you were mentioned or that you follow, to be sent "
+"through email. By choosing *Handle in Odoo*, they are shown in the *Inbox*."
 msgstr ""
 
 #: ../../discuss/overview/get_started.rst:22
@@ -473,20 +469,19 @@ msgstr ""
 
 #: ../../discuss/overview/get_started.rst:48
 msgid ""
-"To stop receiving desktop notifications, reset the notifications settings"
-" of your browser."
+"To stop receiving desktop notifications, reset the notifications settings "
+"of your browser."
 msgstr ""
 
 #: ../../discuss/overview/get_started.rst:50
 msgid ""
-"To start a chat, click on *New Message* on the *Messaging Menu*, or go to"
-" *Discuss* and send a *Direct Message*."
+"To start a chat, click on *New Message* on the *Messaging Menu*, or go to "
+"*Discuss* and send a *Direct Message*."
 msgstr ""
 
 #: ../../discuss/overview/get_started.rst:58
 msgid ""
-"You can also create :doc:`public and private channels "
-"<team_communication>`."
+"You can also create :doc:`public and private channels <team_communication>`."
 msgstr ""
 
 #: ../../discuss/overview/get_started.rst:61
@@ -495,8 +490,8 @@ msgstr ""
 
 #: ../../discuss/overview/get_started.rst:64
 msgid ""
-"To mention a user within a chat or the chatter type *@user-name*; to "
-"refer to a channel, type *#channel-name*."
+"To mention a user within a chat or the chatter type *@user-name*; to refer "
+"to a channel, type *#channel-name*."
 msgstr ""
 
 #: ../../discuss/overview/get_started.rst:66
@@ -507,10 +502,10 @@ msgstr ""
 
 #: ../../discuss/overview/get_started.rst:73
 msgid ""
-"When a user is mentioned, the search list (list of names) suggests values"
-" first based on the task’s followers, and secondly on *Employees*. If the"
-" record being searched does not match with either a follower or employee,"
-" the scope of the search becomes all partners."
+"When a user is mentioned, the search list (list of names) suggests values "
+"first based on the task’s followers, and secondly on *Employees*. If the "
+"record being searched does not match with either a follower or employee, "
+"the scope of the search becomes all partners."
 msgstr ""
 
 #: ../../discuss/overview/get_started.rst:78
@@ -520,9 +515,9 @@ msgstr ""
 #: ../../discuss/overview/get_started.rst:80
 msgid ""
 "It is helpful to see what colleagues are up to and how quickly they can "
-"respond to messages by checking their *Status*. The status is shown on "
-"the left side of a contact’s names on Discuss’ sidebar and on the "
-"*Messaging menu*."
+"respond to messages by checking their *Status*. The status is shown on the "
+"left side of a contact’s names on Discuss’ sidebar and on the *Messaging "
+"menu*."
 msgstr ""
 
 #: ../../discuss/overview/get_started.rst:84
@@ -557,9 +552,9 @@ msgstr ""
 #: ../../discuss/overview/plan_activities.rst:5
 msgid ""
 "When you plan activities you minimize the risk of uncertainties, as you "
-"provide clear directions for the course of your next action. In addition "
-"to that, you do not leave space for wasteful activities and reduce the "
-"chance of having overlapping actions between team members."
+"provide clear directions for the course of your next action. In addition to "
+"that, you do not leave space for wasteful activities and reduce the chance "
+"of having overlapping actions between team members."
 msgstr ""
 
 #: ../../discuss/overview/plan_activities.rst:10
@@ -588,9 +583,9 @@ msgstr ""
 
 #: ../../discuss/overview/plan_activities.rst:33
 msgid ""
-"A number of activities types are available by default in Odoo (call, "
-"email, meeting, etc.). However, you can set new ones going to "
-":menuselection:`Settings --> Activity types`."
+"A number of activities types are available by default in Odoo (call, email, "
+"meeting, etc.). However, you can set new ones going to :menuselection:"
+"`Settings --> Activity types`."
 msgstr ""
 
 #: ../../discuss/overview/plan_activities.rst:42
@@ -638,8 +633,8 @@ msgstr ""
 
 #: ../../discuss/overview/team_communication.rst:12
 msgid ""
-"A *Public* channel can be seen by everyone, while a *Private* one is only"
-" visible to users invited to it."
+"A *Public* channel can be seen by everyone, while a *Private* one is only "
+"visible to users invited to it."
 msgstr ""
 
 #: ../../discuss/overview/team_communication.rst:21
@@ -656,8 +651,8 @@ msgstr ""
 
 #: ../../discuss/overview/team_communication.rst:28
 msgid ""
-"You can configure a channel’s name, description, email alias, and privacy"
-" by clicking on the *Channel Settings* icon on the sidebar."
+"You can configure a channel’s name, description, email alias, and privacy "
+"by clicking on the *Channel Settings* icon on the sidebar."
 msgstr ""
 
 #: ../../discuss/overview/team_communication.rst:36
@@ -667,9 +662,9 @@ msgstr ""
 #: ../../discuss/overview/team_communication.rst:40
 msgid ""
 "Changing *Who can follow the group’s activities?* allows you to control "
-"which groups can have access to the channel. Note that allowing "
-"*Everyone* to follow a private channel lets other users view and join it,"
-" as they would a public one."
+"which groups can have access to the channel. Note that allowing *Everyone* "
+"to follow a private channel lets other users view and join it, as they "
+"would a public one."
 msgstr ""
 
 #: ../../discuss/overview/team_communication.rst:42
@@ -684,8 +679,8 @@ msgid ""
 "For *Selected group of users*, the option *Auto Subscribe Groups* "
 "automatically add its members as followers. In other words, while "
 "*Authorized Groups* limits which users can access the channel, *Auto "
-"Subscribe Groups* automatically adds the user as a member as long as they"
-" are part of the group."
+"Subscribe Groups* automatically adds the user as a member as long as they "
+"are part of the group."
 msgstr ""
 
 #: ../../discuss/overview/team_communication.rst:55
@@ -694,8 +689,8 @@ msgstr ""
 
 #: ../../discuss/overview/team_communication.rst:57
 msgid ""
-"Choosing to *Send messages by email* configures the channel to behave as "
-"a mailing list."
+"Choosing to *Send messages by email* configures the channel to behave as a "
+"mailing list."
 msgstr ""
 
 #: ../../discuss/overview/team_communication.rst:59
@@ -724,8 +719,8 @@ msgstr ""
 
 #: ../../discuss/overview/team_communication.rst:80
 msgid ""
-"Members of a mailing channel receive messages through email regardless of"
-" their :doc:`notification preference <get_started>`."
+"Members of a mailing channel receive messages through email regardless of "
+"their :doc:`notification preference <get_started>`."
 msgstr ""
 
 #: ../../discuss/overview/team_communication.rst:83
@@ -740,8 +735,8 @@ msgstr ""
 
 #: ../../discuss/overview/team_communication.rst:93
 msgid ""
-"Once at least 20 channels, direct message and live chat conversations (if"
-" the module is installed on your database) are pinned in the sidebar, a "
+"Once at least 20 channels, direct message and live chat conversations (if "
+"the module is installed on your database) are pinned in the sidebar, a "
 "*Quick search…* bar is displayed. It is a clever way to filter "
 "conversations and quickly find the one you need."
 msgstr ""
@@ -766,4 +761,3 @@ msgstr ""
 #: ../../discuss/overview/team_communication.rst:116
 msgid ":doc:`plan_activities`"
 msgstr ""
-

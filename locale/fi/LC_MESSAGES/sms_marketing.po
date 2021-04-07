@@ -3,27 +3,28 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-04 11:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-07 22:00+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../sms_marketing.rst:5
 msgid "SMS Marketing"
-msgstr ""
+msgstr "Tekstiviestimarkkinointi"
 
 #: ../../sms_marketing/overview.rst:3
 msgid "Overview"
-msgstr ""
+msgstr "Yleiskatsaus"
 
 #: ../../sms_marketing/overview/contact_lists_and_blacklist.rst:3
 msgid "Contact Lists and Blacklist"
@@ -31,11 +32,10 @@ msgstr ""
 
 #: ../../sms_marketing/overview/contact_lists_and_blacklist.rst:5
 msgid ""
-"Creating your own list of contacts, or importing it, is useful when you "
-"want to create specific groups of people, such as the subscribers of your"
-" newsletter. It is also the best way to get started if you are coming "
-"from another system and already have built an audience. It makes the SMS "
-"distribution easier."
+"Creating your own list of contacts, or importing it, is useful when you want to "
+"create specific groups of people, such as the subscribers of your newsletter. "
+"It is also the best way to get started if you are coming from another system "
+"and already have built an audience. It makes the SMS distribution easier."
 msgstr ""
 
 #: ../../sms_marketing/overview/contact_lists_and_blacklist.rst:11
@@ -48,10 +48,9 @@ msgstr ""
 
 #: ../../sms_marketing/overview/contact_lists_and_blacklist.rst:16
 msgid ""
-"Choose a name for your *Mailing list*, and activate the option *Is "
-"Public* if you would like to make the mailing list accessible to your "
-"recipients in the unsubscription page (allowing users to update their "
-"subscription preferences)."
+"Choose a name for your *Mailing list*, and activate the option *Is Public* if "
+"you would like to make the mailing list accessible to your recipients in the "
+"unsubscription page (allowing users to update their subscription preferences)."
 msgstr ""
 
 #: ../../sms_marketing/overview/contact_lists_and_blacklist.rst:22
@@ -60,16 +59,16 @@ msgstr ""
 
 #: ../../sms_marketing/overview/contact_lists_and_blacklist.rst:25
 msgid ""
-"A record of the mailings sent is kept on the recipient's chatter (whether"
-" it is a contact or an opportunity, for example)."
+"A record of the mailings sent is kept on the recipient's chatter (whether it is "
+"a contact or an opportunity, for example)."
 msgstr ""
 
 #: ../../sms_marketing/overview/contact_lists_and_blacklist.rst:28
 msgid ""
-"This is important as you and team members can easily keep track and see a"
-" history of the interactions with your contacts or prospects. Example: "
-"your sales representative can easily find out which SMS mailing "
-"promotions a customer has received or not."
+"This is important as you and team members can easily keep track and see a "
+"history of the interactions with your contacts or prospects. Example: your "
+"sales representative can easily find out which SMS mailing promotions a "
+"customer has received or not."
 msgstr ""
 
 #: ../../sms_marketing/overview/contact_lists_and_blacklist.rst:35
@@ -78,15 +77,13 @@ msgstr ""
 
 #: ../../sms_marketing/overview/contact_lists_and_blacklist.rst:38
 msgid ""
-"If you are coming from another software and have a list of clients who "
-"have already asked to be blacklisted, you can import those entries to "
-"your database."
+"If you are coming from another software and have a list of clients who have "
+"already asked to be blacklisted, you can import those entries to your database."
 msgstr ""
 
 #: ../../sms_marketing/overview/contact_lists_and_blacklist.rst:39
 msgid ""
-"For that, go to :menuselection:`Configuration --> Phone Blacklist --> "
-"Import`."
+"For that, go to :menuselection:`Configuration --> Phone Blacklist --> Import`."
 msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:3
@@ -95,9 +92,9 @@ msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:5
 msgid ""
-"Using SMS to reach people can be a strategy not just used for "
-"advertisement purposes, but also as a reminder of events or issued "
-"invoices to your costumers, for example."
+"Using SMS to reach people can be a strategy not just used for advertisement "
+"purposes, but also as a reminder of events or issued invoices to your "
+"costumers, for example."
 msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:9
@@ -106,9 +103,9 @@ msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:11
 msgid ""
-"First, make sure to have the necessary feature activated. Go to the "
-":menuselection:`Email Marketing app --> Configuration --> Settings` and "
-"enable *Mailing Campaigns*."
+"First, make sure to have the necessary feature activated. Go to the :"
+"menuselection:`Email Marketing app --> Configuration --> Settings` and enable "
+"*Mailing Campaigns*."
 msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:17
@@ -120,9 +117,9 @@ msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:23
 msgid ""
-"This feature is especially useful if you have aggregated campaigns, as "
-"you have a global reporting view. In addition to that, you can create "
-"stages in your Kanban view to better organize the work being done."
+"This feature is especially useful if you have aggregated campaigns, as you have "
+"a global reporting view. In addition to that, you can create stages in your "
+"Kanban view to better organize the work being done."
 msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:31
@@ -131,22 +128,22 @@ msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:34
 msgid ""
-"Sending SMSs through the contact’s form is available by default in Odoo. "
-"It makes your work easier if you need to send an SMS to a specific "
-"contact, for example."
+"Sending SMSs through the contact’s form is available by default in Odoo. It "
+"makes your work easier if you need to send an SMS to a specific contact, for "
+"example."
 msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:36
 msgid ""
-"For that, go to the *Contacts* app, select the contact and click on the "
-"*SMS* icon next to the phone number."
+"For that, go to the *Contacts* app, select the contact and click on the *SMS* "
+"icon next to the phone number."
 msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:41
 msgid ""
-"If you would like to send a message to multiple contacts at once, choose "
-"the *List View*, select all the contacts needed, and under *Action* "
-"select *Send SMS*."
+"If you would like to send a message to multiple contacts at once, choose the "
+"*List View*, select all the contacts needed, and under *Action* select *Send "
+"SMS*."
 msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:48
@@ -155,15 +152,15 @@ msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:50
 msgid ""
-"To set up *SMS Templates*, activate the :doc:`Developer mode "
-"<../../general/developer_mode/activate>`, then go to "
-":menuselection:`Technical --> SMS Templates`."
+"To set up *SMS Templates*, activate the :doc:`Developer mode <../../general/"
+"developer_mode/activate>`, then go to :menuselection:`Technical --> SMS "
+"Templates`."
 msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:60
 msgid ""
-"Use *Dynamic Placeholders* to adapt automatically the content of the SMS "
-"to the context."
+"Use *Dynamic Placeholders* to adapt automatically the content of the SMS to the "
+"context."
 msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:63
@@ -192,8 +189,8 @@ msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:70
 msgid ""
-"*Sign*: receive a validation code to verify your identity before signing "
-"a document online."
+"*Sign*: receive a validation code to verify your identity before signing a "
+"document online."
 msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:71
@@ -206,8 +203,8 @@ msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:75
 msgid ""
-"For more information about SMS integrations in Odoo and a list of "
-"frequently asked questions, go to :doc:`../pricing/pricing_and_faq`."
+"For more information about SMS integrations in Odoo and a list of frequently "
+"asked questions, go to :doc:`../pricing/pricing_and_faq`."
 msgstr ""
 
 #: ../../sms_marketing/overview/integrations_and_template.rst:79
@@ -224,11 +221,10 @@ msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:5
 msgid ""
-"Using SMS Marketing as part of your communication strategies can empower "
-"you to expand your markets, considering that in some countries emails are"
-" not very used or used at all. It also helps to boost conversion rates, "
-"as this strategy has a high open-rate percentage among people who use "
-"smartphones."
+"Using SMS Marketing as part of your communication strategies can empower you to "
+"expand your markets, considering that in some countries emails are not very "
+"used or used at all. It also helps to boost conversion rates, as this strategy "
+"has a high open-rate percentage among people who use smartphones."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:11
@@ -241,47 +237,45 @@ msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:18
 msgid ""
-"Specify a *subject* name to help you remembering what the mailing is "
-"about."
+"Specify a *subject* name to help you remembering what the mailing is about."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:20
 msgid ""
-"Under *Recipients*, choose to whom you would like the SMS to be sent. If "
-"you choose *Contact*, all your Odoo contacts (vendor, customers, etc.) "
-"receive your SMS."
+"Under *Recipients*, choose to whom you would like the SMS to be sent. If you "
+"choose *Contact*, all your Odoo contacts (vendor, customers, etc.) receive your "
+"SMS."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:22
 msgid ""
-"From there, you can refine your recipient list with the *add filter* "
-"option. In the example below, the message would be sent to the contacts "
-"living in Belgium."
+"From there, you can refine your recipient list with the *add filter* option. In "
+"the example below, the message would be sent to the contacts living in Belgium."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:27
 msgid ""
-"The *Mailing list* option, on the other hand, allows you to choose the "
-"specific mailing lists you created to group specific contacts. You are "
-"allowed to select multiple ones."
+"The *Mailing list* option, on the other hand, allows you to choose the specific "
+"mailing lists you created to group specific contacts. You are allowed to select "
+"multiple ones."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:34
 msgid ""
-"Under the *SMS Content* tab, links can be included and Odoo automatically"
-" generates *link trackers* in order to generate data about these links."
+"Under the *SMS Content* tab, links can be included and Odoo automatically "
+"generates *link trackers* in order to generate data about these links."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:36
 msgid ""
-"Under *Settings* you have the option *Include opt-out link*. If "
-"activated, the contact is able to unsubscribe from the mailing list."
+"Under *Settings* you have the option *Include opt-out link*. If activated, the "
+"contact is able to unsubscribe from the mailing list."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:43
 msgid ""
-"In the *Link Tracker* menu under *Configuration*, you can see the history"
-" of your sent links, access them and look at statistics."
+"In the *Link Tracker* menu under *Configuration*, you can see the history of "
+"your sent links, access them and look at statistics."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:50
@@ -294,36 +288,35 @@ msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:57
 msgid ""
-"Once you have your mailing created, you must choose when you would like "
-"it to be delivered:"
+"Once you have your mailing created, you must choose when you would like it to "
+"be delivered:"
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:59
 msgid ""
 "*Put in Queue*: the mailing is triggered with the next automatic run. "
-"Interesting option if you do not need the message to be sent at a "
-"specific time."
+"Interesting option if you do not need the message to be sent at a specific time."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:61
 msgid ""
-"*Send Now*: sends the message immediately. Use this option if the "
-"recipient list is not excessive."
+"*Send Now*: sends the message immediately. Use this option if the recipient "
+"list is not excessive."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:62
 msgid ""
-"*Schedule*: allows you to choose a day and time. Best option for mailings"
-" that you would like to send during a specific event, to promote an offer"
-" while it is active, or to simply plan your content strategy in advance."
+"*Schedule*: allows you to choose a day and time. Best option for mailings that "
+"you would like to send during a specific event, to promote an offer while it is "
+"active, or to simply plan your content strategy in advance."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:65
 msgid ""
-"*Test*: allows you to send an SMS to one or multiple numbers for test "
-"purposes. Check, for example, if the link provided lands on the right "
-"page while making sure they are responsive. If sending it to multiple "
-"numbers, you must remember to use a comma between them."
+"*Test*: allows you to send an SMS to one or multiple numbers for test purposes. "
+"Check, for example, if the link provided lands on the right page while making "
+"sure they are responsive. If sending it to multiple numbers, you must remember "
+"to use a comma between them."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:70
@@ -332,21 +325,21 @@ msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:72
 msgid ""
-"Under the *Reporting* menu apply filters, measures, and adopt different "
-"layouts to do analyses of the performance of your SMS mailings."
+"Under the *Reporting* menu apply filters, measures, and adopt different layouts "
+"to do analyses of the performance of your SMS mailings."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:79
 msgid ""
-"You can also check the price to send an SMS for your country by clicking "
-"on the *Information* icon."
+"You can also check the price to send an SMS for your country by clicking on the "
+"*Information* icon."
 msgstr ""
 
 #: ../../sms_marketing/overview/sms_mailing_reports.rst:86
 msgid ""
-"**Buy Credits:** in order to take advantage of the app and its features, "
-"make sure you have purchased credits. For more information: "
-":doc:`../pricing/pricing_and_faq`."
+"**Buy Credits:** in order to take advantage of the app and its features, make "
+"sure you have purchased credits. For more information: :doc:`../pricing/"
+"pricing_and_faq`."
 msgstr ""
 
 #: ../../sms_marketing/pricing.rst:3
@@ -363,8 +356,8 @@ msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:7
 msgid ""
-"SMS Text Messaging is an In-App Purchase (IAP) service that *requires "
-"prepaid credits* to work."
+"SMS Text Messaging is an In-App Purchase (IAP) service that *requires prepaid "
+"credits* to work."
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:11
@@ -377,23 +370,22 @@ msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:14
 msgid ""
-"**GSM7** is the standard format, with a limit of 160 characters per "
-"message, that includes the following characters:"
+"**GSM7** is the standard format, with a limit of 160 characters per message, "
+"that includes the following characters:"
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:23
 msgid ""
-"**UNICODE** is the format applied if a special character, that *is not* "
-"in the GSM7 list, is used. Limit per SMS: 70 characters."
+"**UNICODE** is the format applied if a special character, that *is not* in the "
+"GSM7 list, is used. Limit per SMS: 70 characters."
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:27
 msgid ""
-"For GSM7 SMS the size limit is 160 characters, and for Unicode is 70. "
-"*Above these limits, the content is divided into a multi-part message* "
-"and the limit of characters is lowered to 153 for GSM7 and to 67 for "
-"Unicode. The system will inform you in real-time about the number of SMS "
-"your message represents."
+"For GSM7 SMS the size limit is 160 characters, and for Unicode is 70. *Above "
+"these limits, the content is divided into a multi-part message* and the limit "
+"of characters is lowered to 153 for GSM7 and to 67 for Unicode. The system will "
+"inform you in real-time about the number of SMS your message represents."
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:34
@@ -408,14 +400,14 @@ msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:37
 msgid ""
-"To see the **price per country, please consult**: `Odoo SMS - FAQ <https"
-"://iap-services.odoo.com/iap/sms/pricing#sms_faq_01>`_."
+"To see the **price per country, please consult**: `Odoo SMS - FAQ <https://iap-"
+"services.odoo.com/iap/sms/pricing#sms_faq_01>`_."
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:39
 msgid ""
-"The number of SMSs a message represents will be always available to you "
-"in your database."
+"The number of SMSs a message represents will be always available to you in your "
+"database."
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:49
@@ -432,8 +424,8 @@ msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:65
 msgid ""
-"If you are on Odoo Online (SAAS) and have the Enterprise version, you "
-"benefit from free trial credits to test the feature."
+"If you are on Odoo Online (SAAS) and have the Enterprise version, you benefit "
+"from free trial credits to test the feature."
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:70
@@ -450,8 +442,8 @@ msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:77
 msgid ""
-"**Can I send an SMS to a phone number (which is not a mobile phone) "
-"because I see the icon in front of the field “phone”?**"
+"**Can I send an SMS to a phone number (which is not a mobile phone) because I "
+"see the icon in front of the field “phone”?**"
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:80
@@ -476,14 +468,14 @@ msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:93
 msgid ""
-"**What happens if I send multiple SMS but I do not have enough credits to"
-" send them all?**"
+"**What happens if I send multiple SMS but I do not have enough credits to send "
+"them all?**"
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:95
 msgid ""
-"The whole transaction is counted as a single one, so no SMS will be sent "
-"until you have enough credits to send them all."
+"The whole transaction is counted as a single one, so no SMS will be sent until "
+"you have enough credits to send them all."
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:99
@@ -492,10 +484,10 @@ msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:101
 msgid ""
-"Yes, the SMS is logged as a note under the chatter of the corresponding "
-"record, and a complete history of the SMSs sent is available on "
-":doc:`Developer mode <../../general/developer_mode/activate>` under "
-":menuselection:`Technical --> SMS`."
+"Yes, the SMS is logged as a note under the chatter of the corresponding record, "
+"and a complete history of the SMSs sent is available on :doc:`Developer mode "
+"<../../general/developer_mode/activate>` under :menuselection:`Technical --> "
+"SMS`."
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:107
@@ -508,27 +500,26 @@ msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:112
 msgid ""
-"**If I have a number that does not exist in the list of recipients, will "
-"I lose credits?**"
+"**If I have a number that does not exist in the list of recipients, will I lose "
+"credits?**"
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:114
 msgid ""
 "Not if the phone number is in the wrong format (e.g. too many digits). "
-"Otherwise, if the SMS is sent to the wrong person or to a fake number, "
-"the credit will be lost."
+"Otherwise, if the SMS is sent to the wrong person or to a fake number, the "
+"credit will be lost."
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:118
 msgid ""
-"**What happens if I send my SMS to a paying number (e.g.: a contest to "
-"win a ticket for a festival)?**"
+"**What happens if I send my SMS to a paying number (e.g.: a contest to win a "
+"ticket for a festival)?**"
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:120
 msgid ""
-"The SMS will not be delivered to that kind of number, so you won’t be "
-"charged."
+"The SMS will not be delivered to that kind of number, so you won’t be charged."
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:123
@@ -545,8 +536,7 @@ msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:130
 msgid ""
-"Please find our `Privacy Policy here "
-"<https://iap.odoo.com/privacy#sms>`__."
+"Please find our `Privacy Policy here <https://iap.odoo.com/privacy#sms>`__."
 msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:132
@@ -555,8 +545,7 @@ msgstr ""
 
 #: ../../sms_marketing/pricing/pricing_and_faq.rst:134
 msgid ""
-"Yes, but it is not possible out of the box. Our experts can help you "
-"customize your database to make it happen. Please, check our success "
-"packs `here <https://www.odoo.com/pricing-packs>`_."
+"Yes, but it is not possible out of the box. Our experts can help you customize "
+"your database to make it happen. Please, check our success packs `here <https://"
+"www.odoo.com/pricing-packs>`_."
 msgstr ""
-

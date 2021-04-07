@@ -3,23 +3,24 @@
 # This file is distributed under the same license as the Odoo package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Odoo 14.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-02-04 11:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-04-07 21:59+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Generated-By: Babel 2.3.4\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fi\n"
+"X-Generator: Poedit 2.4.2\n"
 
 #: ../../quality.rst:5
 msgid "Quality"
-msgstr ""
+msgstr "Laadunvalvonta"
 
 #: ../../quality/alert.rst:3
 msgid "Alert"
@@ -49,22 +50,22 @@ msgstr ""
 
 #: ../../quality/alert/alert_mo.rst:15
 msgid ""
-"If you work with simple manufacturing orders, the *Quality Alerts* will "
-"be launched from the manufacturing order itself. When manufacturing a "
-"product for which you need to process quality controls, a button *Quality"
-" Alert* will appear on the top of your manufacturing order."
+"If you work with simple manufacturing orders, the *Quality Alerts* will be "
+"launched from the manufacturing order itself. When manufacturing a product "
+"for which you need to process quality controls, a button *Quality Alert* "
+"will appear on the top of your manufacturing order."
 msgstr ""
 
 #: ../../quality/alert/alert_mo.rst:23
 msgid ""
-"By clicking on the button, you can specify the quality problem that arose"
-" during the process."
+"By clicking on the button, you can specify the quality problem that arose "
+"during the process."
 msgstr ""
 
 #: ../../quality/alert/alert_mo.rst:29
 msgid ""
-"If one of the quality checks failed, the button will be highlighted on "
-"the document. If not, the button won’t be highlighted."
+"If one of the quality checks failed, the button will be highlighted on the "
+"document. If not, the button won’t be highlighted."
 msgstr ""
 
 #: ../../quality/alert/alert_mo.rst:36 ../../quality/checks/quality_mo.rst:50
@@ -74,15 +75,15 @@ msgstr ""
 #: ../../quality/alert/alert_mo.rst:38
 msgid ""
 "If you work with routings defined on your manufacturing orders, the "
-"quality alerts will be launched directly from the work orders on which "
-"the quality checks took place."
+"quality alerts will be launched directly from the work orders on which the "
+"quality checks took place."
 msgstr ""
 
 #: ../../quality/alert/alert_mo.rst:48
 msgid ""
-"Then, a button *Quality Alert* will be available from the work order "
-"view. When you click on the button, you can specify the quality problem "
-"that appeared during the process."
+"Then, a button *Quality Alert* will be available from the work order view. "
+"When you click on the button, you can specify the quality problem that "
+"appeared during the process."
 msgstr ""
 
 #: ../../quality/alert/alert_transfer.rst:3
@@ -96,20 +97,20 @@ msgstr ""
 #: ../../quality/alert/alert_transfer.rst:8
 msgid ""
 "Every time you perform some *Quality Checks* on a transfer, a *Quality "
-"Alert* button appears. You can always use it. The button is automatically"
-" highlighted once you have a failed quality check for the transfer."
+"Alert* button appears. You can always use it. The button is automatically "
+"highlighted once you have a failed quality check for the transfer."
 msgstr ""
 
 #: ../../quality/alert/alert_transfer.rst:16
 msgid ""
-"If you click on that *Quality Alert* button, you can specify what was the"
-" problem with the product."
+"If you click on that *Quality Alert* button, you can specify what was the "
+"problem with the product."
 msgstr ""
 
 #: ../../quality/alert/alert_transfer.rst:22
 msgid ""
-"The *Quality Alert* that is created from the transfer can be found via "
-"the button appearing on the top right corner of the transfer."
+"The *Quality Alert* that is created from the transfer can be found via the "
+"button appearing on the top right corner of the transfer."
 msgstr ""
 
 #: ../../quality/alert/alert_transfer.rst:28
@@ -138,8 +139,8 @@ msgstr ""
 
 #: ../../quality/checks/quality_mo.rst:10
 msgid ""
-"You work with complex manufacturing flows that are represented by the use"
-" of routings in Odoo."
+"You work with complex manufacturing flows that are represented by the use "
+"of routings in Odoo."
 msgstr ""
 
 #: ../../quality/checks/quality_mo.rst:13
@@ -154,9 +155,9 @@ msgstr ""
 
 #: ../../quality/checks/quality_mo.rst:18
 msgid ""
-"To create a quality control point, open the quality app and go to "
-":menuselection:`Control --> Control Points`. There, hit create. Make sure"
-" to select *Manufacturing* as operation and choose the type of quality "
+"To create a quality control point, open the quality app and go to :"
+"menuselection:`Control --> Control Points`. There, hit create. Make sure "
+"to select *Manufacturing* as operation and choose the type of quality "
 "check you want to perform."
 msgstr ""
 
@@ -181,8 +182,8 @@ msgstr ""
 
 #: ../../quality/checks/quality_mo.rst:46
 msgid ""
-"If you want to access all your quality checks, you can do this by opening"
-" the quality checks menu, under quality control."
+"If you want to access all your quality checks, you can do this by opening "
+"the quality checks menu, under quality control."
 msgstr ""
 
 #: ../../quality/checks/quality_mo.rst:55
@@ -196,8 +197,8 @@ msgstr ""
 #: ../../quality/checks/quality_mo.rst:64
 msgid ""
 "Choosing the work order operation is necessary if you want the quality "
-"checks to be performed in the work orders. After that, you can choose the"
-" type of quality check."
+"checks to be performed in the work orders. After that, you can choose the "
+"type of quality check."
 msgstr ""
 
 #: ../../quality/checks/quality_mo.rst:71
@@ -220,18 +221,17 @@ msgstr ""
 
 #: ../../quality/checks/quality_transfers.rst:8
 msgid ""
-"To create a *Quality Control Point*, open the *Quality* application. "
-"Then, go to :menuselection:`Quality Control --> Control Points --> "
-"Create`. Now, you can define the quality control point you want to apply "
-"to a specific product. Don’t forget to select a transfer operation type."
+"To create a *Quality Control Point*, open the *Quality* application. Then, "
+"go to :menuselection:`Quality Control --> Control Points --> Create`. Now, "
+"you can define the quality control point you want to apply to a specific "
+"product. Don’t forget to select a transfer operation type."
 msgstr ""
 
 #: ../../quality/checks/quality_transfers.rst:19
 msgid ""
 "Let’s say that we will receive a laptop. First, create a planned receipt "
 "for the product. Then, on the receipt, you will see a *Quality Checks* "
-"button that appears to proceed to the quality check you configured "
-"before."
+"button that appears to proceed to the quality check you configured before."
 msgstr ""
 
 #: ../../quality/checks/quality_transfers.rst:27
@@ -270,17 +270,17 @@ msgstr ""
 #: ../../quality/control/control_points.rst:5
 msgid ""
 "Quality is an important factor when it comes to products or services. "
-"Nowadays, quality has become the differentiating factor for all goods and"
-" services. It is vital for businesses to deliver products that meet or "
+"Nowadays, quality has become the differentiating factor for all goods and "
+"services. It is vital for businesses to deliver products that meet or "
 "exceed expectations. It also helps minimize waste."
 msgstr ""
 
 #: ../../quality/control/control_points.rst:10
 msgid ""
-"That is why most manufacturers would not think of eliminating the quality"
-" control from their manufacturing process. After all, removing quality "
-"controls would dramatically increase the number of defective products "
-"that the company then has to rework or scrap."
+"That is why most manufacturers would not think of eliminating the quality "
+"control from their manufacturing process. After all, removing quality "
+"controls would dramatically increase the number of defective products that "
+"the company then has to rework or scrap."
 msgstr ""
 
 #: ../../quality/control/control_points.rst:15
@@ -298,8 +298,8 @@ msgstr ""
 msgid ""
 "To create a *Quality Control Point*, go to :menuselection:`Quality --> "
 "Quality Control --> Control Points`. Once there, define the product on "
-"which the quality control point should take place. The operation at which"
-" it takes place also is to be defined here."
+"which the quality control point should take place. The operation at which "
+"it takes place also is to be defined here."
 msgstr ""
 
 #: ../../quality/control/control_points.rst:27
@@ -325,8 +325,8 @@ msgstr ""
 #: ../../quality/control/control_points.rst:38
 #, python-format
 msgid ""
-"**Randomly**: the quality checks only perform on x% of the operation. The"
-" percentage needs to be defined on the control point;"
+"**Randomly**: the quality checks only perform on x% of the operation. The "
+"percentage needs to be defined on the control point;"
 msgstr ""
 
 #: ../../quality/control/control_points.rst:41
@@ -341,16 +341,15 @@ msgstr ""
 
 #: ../../quality/control/control_points.rst:52
 msgid ""
-"Now, one thing remains to be configured: the type of quality check. There"
-" are several types that can be used: text, take a picture, pass-fail, "
-"take a measure, register consumed material, register by-product, and "
-"print label."
+"Now, one thing remains to be configured: the type of quality check. There "
+"are several types that can be used: text, take a picture, pass-fail, take "
+"a measure, register consumed material, register by-product, and print "
+"label."
 msgstr ""
 
 #: ../../quality/control/control_points.rst:58
 msgid ""
-"Some types are available only with the manufacturing application "
-"installed."
+"Some types are available only with the manufacturing application installed."
 msgstr ""
 
 #: ../../quality/control/control_points.rst:62
@@ -369,14 +368,14 @@ msgstr ""
 
 #: ../../quality/control/control_points.rst:82
 msgid ""
-"This control point type asks to take a picture of the product applied in "
-"a transfer or when manufacturing it."
+"This control point type asks to take a picture of the product applied in a "
+"transfer or when manufacturing it."
 msgstr ""
 
 #: ../../quality/control/control_points.rst:98
 msgid ""
-"This process can be simplified by using a connected :doc:`camera "
-"<../../iot/devices/measurement_tool>`."
+"This process can be simplified by using a connected :doc:`camera <../../"
+"iot/devices/measurement_tool>`."
 msgstr ""
 
 #: ../../quality/control/control_points.rst:102
@@ -414,14 +413,14 @@ msgstr ""
 
 #: ../../quality/control/control_points.rst:140
 msgid ""
-"As for *Pass-Fail*, this type allows defining a failure message that "
-"gives instructions to the worker."
+"As for *Pass-Fail*, this type allows defining a failure message that gives "
+"instructions to the worker."
 msgstr ""
 
 #: ../../quality/control/control_points.rst:156
 msgid ""
-"This process can be simplified by using connected :doc:`measurement tools"
-" <../../iot/devices/camera>`."
+"This process can be simplified by using connected :doc:`measurement tools "
+"<../../iot/devices/camera>`."
 msgstr ""
 
 #: ../../quality/control/control_points.rst:159
@@ -461,7 +460,6 @@ msgstr ""
 
 #: ../../quality/control/control_points.rst:207
 msgid ""
-"This process can be simplified by using a connected :doc:`printer "
-"<../../iot/devices/printer>`."
+"This process can be simplified by using a connected :doc:`printer <../../"
+"iot/devices/printer>`."
 msgstr ""
-
